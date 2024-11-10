@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0ad14457d719271a",
+        "id": "a5dde19b49c5d3d4",
         "type": "tabs",
         "children": [
           {
-            "id": "81e9c13722fa66fd",
+            "id": "2f08aa3cd608bc08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-11-10.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-11-10"
-            }
-          },
-          {
-            "id": "d5d909370c365411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -153,21 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "b74b0813d5f103e7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -193,9 +160,29 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0ed0ad6ad0c7f42a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "57854af6c10b153c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -213,37 +200,50 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "d5d909370c365411",
+  "active": "2f08aa3cd608bc08",
   "lastOpenFiles": [
-    "2024-11-10.md",
+    "DailyNote/2024-11-10.md",
+    "DailyNote/2024-11-11.md",
     "README.md",
+    "Notion/Study Technical Skills/Perfomance review/Work log.md",
+    "Evergreen/concept-base/technical/database/NoSQL.md",
+    "Untitled 1.md",
+    "Evergreen/concept-base/technical/database/SQL.md",
+    "Untitled.md",
+    "Evergreen/concept-base/technical/design-pattern/The most common design pattern in OOP ?.md",
+    "Untitled.canvas",
+    "Evergreen/concept-base/english/toeic",
+    "Evergreen/concept-base/english",
+    "DailyWork/Worklog Template.md",
+    "Evergreen/concept-base/technical/programming",
+    "Evergreen/concept-base/technical/algorithm",
+    "Evergreen/concept-base/technical/data-structure",
+    "Evergreen/concept-base/technical/design-pattern",
+    "DailyWork/Sample.md",
+    "Excalidraw/Drawing 2024-11-10 19.44.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-10 19.42.06.excalidraw.md",
+    "Evergreen/concept-base/technical/database",
+    "DailyNote/Template.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "MOC/MOC - Self grow.md",
     "Test Data query retrival.md",
-    "DailyNote/Template.md",
     "Pasted image 20241110194810.png",
     "Pasted image 20241110194809.png",
     "Pasted image 20241110194807.png",
     "Ape_Bot_Admin.png",
-    "Excalidraw/Drawing 2024-11-10 19.44.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-10 19.42.06.excalidraw.md",
     "Draw template.md",
     "Excalidraw",
-    "DailyWork/Sample.md",
     "DailyNote",
     "DailyWork",
-    "MOC",
-    "Evergreen/concept-base/technical",
-    "Evergreen/optional-base",
-    "Evergreen/concept-base",
     "Notion/Roadmap Career/Sách được giới thiệu.md",
-    "Evergreen",
     "Notion/Roadmap Career/Roadmap Career.md",
     "Notion/Roadmap Career/Road map định hướng sự nghiệp.md",
     "Notion/Roadmap Career/Kiến thức xã hội.md",
@@ -252,21 +252,11 @@
     "Notion/Task List/New Task.md",
     "Notion/Ghi chú.md",
     "Notion/Sự thấu hiểu.md",
-    "Notion/Habit tracker.md",
-    "new-label.md",
-    "Notion/Issue thường gặp/JavaScript/JavaScript.md",
-    "Notion/Issue thường gặp/JavaScript/Phương thức Array không làm thay đổi array gốc.md",
-    "Notion/Issue thường gặp/Angular.md",
-    "Notion/Issue thường gặp/Git/Hay gặp lỗi.md",
-    "Notion/Issue thường gặp/Git/Git.md",
-    "Notion/Issue thường gặp/Git/Command cần nhớ.md",
-    "Notion/Phỏng vấn/Chuẩn bị",
     "22swisher-articleLarge.jpg",
     "Untitled 3.png",
     "Untitled 2.png",
     "Untitled.png",
     "explained.png",
-    "Untitled 7.png",
-    "Notion/Study Technical Skills/Docker/Docker Tutorial/8 Layer Caching"
+    "Untitled 7.png"
   ]
 }
