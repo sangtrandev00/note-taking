@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "b1fc6747e2567518",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ad14457d719271a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81e9c13722fa66fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOC/MOC - Self grow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC - Self grow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f30855f785d41148",
+    "type": "split",
+    "children": [
+      {
+        "id": "94214c8374b376c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f74d2c49adac955a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "672274c0b4e2f86a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#test1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b2b5850870d42798",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "598567424d2350c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b858c1429d11eee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd1231d78aae61f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MOC/MOC - Self grow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MOC - Self grow"
+            }
+          },
+          {
+            "id": "287b3bfc53fd1dd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MOC/MOC - Self grow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MOC - Self grow"
+            }
+          },
+          {
+            "id": "3ff5d081a2090a9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fb00e60ff74749a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MOC/MOC - Self grow.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MOC - Self grow"
+            }
+          },
+          {
+            "id": "b74b0813d5f103e7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "ce5c08b60c7ae214",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2be1e09d7d73aefd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "81e9c13722fa66fd",
+  "lastOpenFiles": [
+    "Test Data query retrival.md",
+    "MOC/MOC - Self grow.md",
+    "DailyNote/Template.md",
+    "Pasted image 20241110194810.png",
+    "Pasted image 20241110194809.png",
+    "Pasted image 20241110194807.png",
+    "Ape_Bot_Admin.png",
+    "Excalidraw/Drawing 2024-11-10 19.44.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-10 19.42.06.excalidraw.md",
+    "Draw template.md",
+    "Excalidraw",
+    "DailyWork/Sample.md",
+    "DailyNote",
+    "DailyWork",
+    "MOC",
+    "Evergreen/concept-base/technical",
+    "Evergreen/optional-base",
+    "Evergreen/concept-base",
+    "Notion/Roadmap Career/Sách được giới thiệu.md",
+    "Evergreen",
+    "Notion/Roadmap Career/Roadmap Career.md",
+    "Notion/Roadmap Career/Road map định hướng sự nghiệp.md",
+    "Notion/Roadmap Career/Kiến thức xã hội.md",
+    "Notion/Roadmap Career/Kiến thức cần ôn.md",
+    "Notion/Task List/Take Fig on a walk.md",
+    "Notion/Task List/New Task.md",
+    "Notion/Ghi chú.md",
+    "Notion/Sự thấu hiểu.md",
+    "Notion/Habit tracker.md",
+    "new-label.md",
+    "Notion/Issue thường gặp/JavaScript/JavaScript.md",
+    "Notion/Issue thường gặp/JavaScript/Phương thức Array không làm thay đổi array gốc.md",
+    "Notion/Issue thường gặp/Angular.md",
+    "Notion/Issue thường gặp/Git/Hay gặp lỗi.md",
+    "Notion/Issue thường gặp/Git/Git.md",
+    "Notion/Issue thường gặp/Git/Command cần nhớ.md",
+    "Notion/Habit tracker/Habits/@August 19, 2024.md",
+    "Notion/Phỏng vấn/Chuẩn bị",
+    "22swisher-articleLarge.jpg",
+    "Untitled 3.png",
+    "Untitled.canvas",
+    "Untitled 2.png",
+    "Untitled.png",
+    "explained.png",
+    "Untitled 7.png",
+    "Notion/Study Technical Skills/Docker/Docker Tutorial/8 Layer Caching"
+  ]
+}

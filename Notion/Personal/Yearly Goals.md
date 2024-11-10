@@ -1,0 +1,3 @@
+- Exercise 5 days/week
+- Meditate 5 days/week
+- Reading Book 5 days/week (any kind of book)
