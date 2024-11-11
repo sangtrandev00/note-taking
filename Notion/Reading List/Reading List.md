@@ -12,6 +12,6 @@
 |[[Crime and Punishment]]|Book|Done|⭐️⭐️⭐️⭐️⭐️|Fyodor Dostoevsky|March 28, 2022|[https://www.goodreads.com/book/show/7144.Crime_and_Punishment](https://www.goodreads.com/book/show/7144.Crime_and_Punishment)|
 |[[Sapiens- A Brief History of Humankind]]|Book|Done|⭐️⭐️⭐️⭐️|Yuval Noah Harari|March 1, 2022|[https://www.ynharari.com/book/sapiens-2/](https://www.ynharari.com/book/sapiens-2/)|
 |[[Untitled 2]]||Not started|||||
-|[[Vocab]]||Not started|||||
+|[[Notion/Study English/TOEIC/Vocab]]||Not started|||||
 |[[Have Readed]]||Not started|||||
 |[[Have Readed 2]]||Not started|||||
