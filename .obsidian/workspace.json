@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87cbfe1a9409684f",
+        "id": "e68059d3c1428538",
         "type": "tabs",
         "children": [
           {
-            "id": "30b55c5b8403ef0b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TEST 6 RC (1)-OCR.pdf",
-                "page": 3,
-                "left": -9,
-                "top": 95,
-                "zoom": 1.6193651778329197
-              },
-              "icon": "lucide-file-text",
-              "title": "TEST 6 RC (1)-OCR"
-            }
-          },
-          {
-            "id": "f45cbf83e9351a36",
+            "id": "36a674d59e645c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +21,7 @@
               "title": "Test 7 Part 7 - EST 2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,14 +249,16 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "f45cbf83e9351a36",
+  "active": "36a674d59e645c2a",
   "lastOpenFiles": [
     "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
+    "Notion/Study Technical Skills/Github/Github Actions.md",
+    "TEST 6 RC (1)-OCR.pdf",
+    "Evergreen/concept-base/english.md",
     "Evergreen/concept-base/english/toeic/test/Test 6 Grammar.md",
     "Evergreen/concept-base/english/vocab.md",
     "Evergreen/concept-base/english/toeic/test",
-    "TEST 6 RC (1)-OCR.pdf",
     "TEST 6 RC (1)-OCR 1.pdf",
     "TEST 6 RC (1)-OCR 2.pdf",
     "TEST 7 RC (1)-OCR.pdf",
@@ -302,8 +287,6 @@
     "MyBlog/free-style/Ứng dụng ghi chú.md",
     "MOC/MOC - Self grow.md",
     "DailyWork/Sample.md",
-    "DailyNote/2024-11-10.md",
-    "DailyNote/2024-11-11.md",
     "Ape_Bot_Admin.png",
     "Untitled.canvas",
     "Pasted image 20241110194807.png",

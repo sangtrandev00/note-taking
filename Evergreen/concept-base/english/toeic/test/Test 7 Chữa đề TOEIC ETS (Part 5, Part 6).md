@@ -182,13 +182,48 @@ If the sender wanted to say that the job itself is captivating or stimulating, t
 		- solely
 		- entirely
 		- just
-
+- appetizer platter (n):
+	- Đĩa khai vị
+- banquet (n)
+	- Bữa tiệc
+	- synonyms:
+		- dinner (n):
+			- Bữa tối
+		- barbecue (n)
+			- Bữa tiệc ngoài trời
+- agreeable (adj)
+	- Dễ chịu
+	- synonyms
+		- pleasing
+		- pleasurable
+		- nice
+		- pleasant
+- sharp (adj)
+	- Bén
+	- synonyms:
+		- keen (adj)
+			- Bén
+		- sharpened (adj)
+			- Được chau chuốt
+		- honed (adj)
+			- Được mài dũa
+- skillful (adj)
+	- Khéo léo
+	- synonyms:
+		- expert (adj)
+		- masterly (adj)
+		- master (adj) Thành thạo
+		- skilled: Giỏi, có tay nghề cao
+		- talented (adj): Giỏi
+		- proficient (adj): 
+- 
 
 ## Ghi chú
 
 - Đề này overall mình đạt cả 765/990. Mặc dù đã đạt được mục tiêu là 750 rồi. Nhưng vẫn còn cảm giác sai các câu ngớ ngẫn liên quan đến Part 5 và Part 6. Phải cải thiện cả tốc độ và kỹ năng ở phần này để nâng điểm lên >800+ khi đi thi sẽ tự tin hơn và trừ hao ra.
 - Mình thường hay sai ở các chủ điểm ngữ pháp: Cụm giới từ, liên từ, từ đồng nghĩa, cụm câu đồng nghĩa ví dụ [1], [2], [3], [4]
 
+## Câu hỏi
 
 
 
