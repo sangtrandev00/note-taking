@@ -4,13 +4,13 @@
 
 Sure, here is a comparison table of the four SQL transaction isolation levels (READ COMMITTED, READ UNCOMMITTED, REPEATABLE READ, and SERIALIZABLE) focusing on their behavior regarding read and write operations:
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|**Isolation Level**|**Dirty Read**|**Non-Repeatable Read**|**Phantom Read**|**Write Blocking**|
-|**READ UNCOMMITTED**|Yes|Yes|Yes|No (writes are not blocked)|
-|**READ COMMITTED**|No|Yes|Yes|Yes (writes are blocked)|
-|**REPEATABLE READ (DEFAULT IN MYSQL)**|No|No|Yes|Yes (writes are blocked)|
-|**SERIALIZABLE**|No|No|No|Yes (writes are blocked)|
+|                                        |                |                         |                  |                             |
+| -------------------------------------- | -------------- | ----------------------- | ---------------- | --------------------------- |
+| **Isolation Level**                    | **Dirty Read** | **Non-Repeatable Read** | **Phantom Read** | **Write Blocking**          |
+| **READ UNCOMMITTED**                   | Yes            | Yes                     | Yes              | No (writes are not blocked) |
+| **READ COMMITTED**                     | No             | Yes                     | Yes              | Yes (writes are blocked)    |
+| **REPEATABLE READ (DEFAULT IN MYSQL)** | No             | No                      | Yes              | Yes (writes are blocked)    |
+| **SERIALIZABLE**                       | No             | No                      | No               | Yes (writes are blocked)    |
 
 ### Explanation of Terms:
 
