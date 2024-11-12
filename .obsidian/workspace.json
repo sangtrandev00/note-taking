@@ -6,7 +6,6 @@
       {
         "id": "87cbfe1a9409684f",
         "type": "tabs",
-        "dimension": 53.149955634427684,
         "children": [
           {
             "id": "30b55c5b8403ef0b",
@@ -15,33 +14,31 @@
               "type": "pdf",
               "state": {
                 "file": "TEST 6 RC (1)-OCR.pdf",
-                "page": 1,
-                "left": -22,
-                "top": 853,
-                "zoom": 0.6851385390428212
+                "page": 3,
+                "left": -9,
+                "top": 95,
+                "zoom": 1.6193651778329197
               },
               "icon": "lucide-file-text",
               "title": "TEST 6 RC (1)-OCR"
             }
-          }
-        ]
-      },
-      {
-        "id": "9fbf025ca41d3af5",
-        "type": "tabs",
-        "dimension": 46.850044365572316,
-        "children": [
+          },
           {
-            "id": "9b6135b40d91d848",
+            "id": "f45cbf83e9351a36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test 7 Part 7 - EST 2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200
   },
   "right": {
     "id": "598567424d2350c6",
@@ -159,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEST 6 RC (1)-OCR.pdf"
+                "file": "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of TEST 6 RC (1)-OCR"
+              "title": "Outline of Test 7 Part 7 - EST 2024"
             }
           },
           {
@@ -244,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 517.5
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,15 +266,18 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "30b55c5b8403ef0b",
+  "active": "f45cbf83e9351a36",
   "lastOpenFiles": [
+    "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
+    "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
+    "Evergreen/concept-base/english/toeic/test/Test 6 Grammar.md",
+    "Evergreen/concept-base/english/vocab.md",
+    "Evergreen/concept-base/english/toeic/test",
+    "TEST 6 RC (1)-OCR.pdf",
     "TEST 6 RC (1)-OCR 1.pdf",
     "TEST 6 RC (1)-OCR 2.pdf",
-    "TEST 6 RC (1)-OCR.pdf",
-    "Evergreen/concept-base/english/toeic/grammar/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
     "TEST 7 RC (1)-OCR.pdf",
     "GIẢI CHI TIẾT ETS 2024 READING - FIX.pdf",
-    "Evergreen/concept-base/english/toeic/grammar/Test 6 Grammar.md",
     "TEST 7 RC (1)-OCR 1.pdf",
     "Drawing 2024-11-12 09.22.56.excalidraw.md",
     "TEST 7 RC (1)-OCR.pdf.md",
@@ -295,8 +295,6 @@
     "Evergreen/concept-base/technical/devops/docker",
     "Excalidraw/Drawing 2024-11-10 19.42.06.excalidraw.md",
     "Evergreen/concept-base/technical/devops",
-    "Evergreen/concept-base/technical/frontend/reactjs",
-    "Evergreen/concept-base/technical/frontend/angular",
     "MyBlog/Ideas/Thói quen là chìa khoá.md",
     "MyBlog/Ideas/Flow git mình hay dùng nhất ở công ty.md",
     "MyBlog/Ideas/Học Cao Đẳng như mình thì làm sao tạo ra lợi thế cạnh tranh ?.md",
@@ -306,7 +304,6 @@
     "DailyWork/Sample.md",
     "DailyNote/2024-11-10.md",
     "DailyNote/2024-11-11.md",
-    "DailyNote/Template.md",
     "Ape_Bot_Admin.png",
     "Untitled.canvas",
     "Pasted image 20241110194807.png",
