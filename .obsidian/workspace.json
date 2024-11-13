@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e68059d3c1428538",
+        "id": "ae8fe5fb0ba97ada",
         "type": "tabs",
         "children": [
           {
-            "id": "36a674d59e645c2a",
+            "id": "50c998cc5ea014b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
+                "file": "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 7 Part 7 - EST 2024"
+              "title": "Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md"
+                "file": "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test 7 Part 7 - EST 2024"
+              "title": "Outline of Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4"
             }
           },
           {
@@ -205,8 +205,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -224,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 450.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +236,6 @@
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": true,
       "obsidian-git:Open Git source control": false,
       "remotely-save:Remotely Save": true,
@@ -246,48 +245,49 @@
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
-      "obsidian-wordpress:WordPress Publish": false
+      "obsidian-wordpress:WordPress Publish": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36a674d59e645c2a",
+  "active": "50c998cc5ea014b2",
   "lastOpenFiles": [
-    "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
+    "Evergreen/concept-base/english/method/Kỹ thuật học tiếng anh từ một người có thể nói đa ngôn ngữ.md",
+    "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md",
+    "Evergreen/concept-base/english/method",
+    "Evergreen/concept-base/technical/database/SQL/Giải thích các thành phần trong câu lệnh explain sql query trong MySQL ?.md",
+    "Evergreen/concept-base/technical/roadmap/backend",
+    "Evergreen/concept-base/technical/roadmap",
+    "Evergreen/optional-base/technical/Chế độ mặc định transaction trong nestjs là thằng đầu tiên ?.md",
+    "Evergreen/concept-base/technical/database/SQL/Tại sao các database lại hỗ trợ bulk insert tốt hơn ?.md",
+    "Evergreen/concept-base/technical/frontend/angular/Trình bày cơ chế rendering của Angular ?.md",
+    "Evergreen/concept-base/technical/programming/Javascript.md",
+    "Evergreen/concept-base/technical/backend/nodejs/NodeJS là đơn luồng hay đa luồng ?.md",
+    "Evergreen/concept-base/technical/backend/nodejs/Event loop của NodeJS khác gì với JavaScript trên browser ?.md",
+    "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
+    "Evergreen/concept-base/technical/devops/docker/Tại sao phải sử dụng Docker.md",
+    "Draw template.md",
+    "Ape_Bot_Admin.png",
+    "Evergreen/concept-base/technical/database/SQL/Index là gì ? Khi nào nên đánh index ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/Trình bày tóm tắt vòng đời cách chạy của Framework Nestjs ?.md",
+    "Evergreen/concept-base/technical/data-structure/Big O là gì ?.md",
+    "Evergreen/optional-base/career",
+    "Evergreen/concept-base/english.md",
+    "Evergreen/concept-base/technical/programming/Typescript",
+    "Evergreen/concept-base/technical/programming/Javascript",
+    "Evergreen/concept-base/technical/design-pattern/What's strategy pattern ?.md",
+    "Evergreen/concept-base/technical/design-pattern/The most common design pattern in OOP ?.md",
+    "Evergreen/concept-base/technical/design-pattern/How many type of Design Pattern in OOP ?.md",
+    "Evergreen/concept-base/english/toeic/vocab/Vocab toeic ngày.md",
+    "Evergreen/concept-base/technical/database/SQL/Trình tự thực hiện của một câu lệnh SQL sẽ diễn ra như thế nào ?.md",
+    "Evergreen/concept-base/english/toeic/vocab",
+    "Evergreen/concept-base/technical/database/NoSQL",
+    "Evergreen/concept-base/technical/database/SQL.md",
+    "Evergreen/concept-base/technical/database/NoSQL.md",
+    "Evergreen/concept-base/technical/database/SQL",
     "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
+    "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
     "Notion/Study Technical Skills/Github/Github Actions.md",
     "TEST 6 RC (1)-OCR.pdf",
-    "Evergreen/concept-base/english.md",
-    "Evergreen/concept-base/english/toeic/test/Test 6 Grammar.md",
-    "Evergreen/concept-base/english/vocab.md",
-    "Evergreen/concept-base/english/toeic/test",
-    "TEST 6 RC (1)-OCR 1.pdf",
-    "TEST 6 RC (1)-OCR 2.pdf",
-    "TEST 7 RC (1)-OCR.pdf",
-    "GIẢI CHI TIẾT ETS 2024 READING - FIX.pdf",
-    "TEST 7 RC (1)-OCR 1.pdf",
-    "Drawing 2024-11-12 09.22.56.excalidraw.md",
-    "TEST 7 RC (1)-OCR.pdf.md",
-    "template.md",
-    "Evergreen/optional-base/technical/Chế độ mặc định transaction trong nestjs là thằng đầu tiên ?.md",
-    "Notion/Study Technical Skills/NestJS/NestJS.md",
-    "Notion/Issue thường gặp/Issue thường gặp.md",
-    "Notion/Study Technical Skills/Database/SQL/Transaction.md",
-    "Notion/Study Technical Skills/Database/SQL/Compare 4 type of transaction in SQL.md",
-    "+ transaction.md",
-    "Draw template.md",
-    "Evergreen/concept-base/technical/git/Git fetch khác gì với git pull ? Khi nào thì dùng git fetch.md",
-    "Evergreen/optional-base/technical",
-    "Evergreen/concept-base/technical/git/Các lệnh git thường dùng.md",
-    "Evergreen/concept-base/technical/devops/docker",
-    "Excalidraw/Drawing 2024-11-10 19.42.06.excalidraw.md",
-    "Evergreen/concept-base/technical/devops",
-    "MyBlog/Ideas/Thói quen là chìa khoá.md",
-    "MyBlog/Ideas/Flow git mình hay dùng nhất ở công ty.md",
-    "MyBlog/Ideas/Học Cao Đẳng như mình thì làm sao tạo ra lợi thế cạnh tranh ?.md",
-    "MyBlog/Ideas/Làm thế nào để viết blog nhanh hơn và post lên trên internet ?.md",
-    "MyBlog/free-style/Ứng dụng ghi chú.md",
-    "MOC/MOC - Self grow.md",
-    "DailyWork/Sample.md",
-    "Ape_Bot_Admin.png",
     "Untitled.canvas",
     "Pasted image 20241110194807.png",
     "Pasted image 20241110194809.png",

@@ -2,4 +2,4 @@
 
 
 
-#design-pattern #technical #flashcards
+#design-pattern #technical

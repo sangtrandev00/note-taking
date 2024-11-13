@@ -16,7 +16,7 @@
 
 [[TypeScript]]
 
-[[JavaScript]]
+[[Notion/Study Technical Skills/JavaScript/JavaScript]]
 
 [[Git]]
 
