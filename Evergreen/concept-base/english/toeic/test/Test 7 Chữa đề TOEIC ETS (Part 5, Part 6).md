@@ -37,7 +37,7 @@ Here's a breakdown of when to use V0 and Ving at the beginning of a sentence:
 - **Describing ongoing actions or states:**
     - Example: "Running is a good way to stay fit."
     - Example: "Knowing the answer, she smiled."
-- **Introducing a clause that expresses reason or cause:**
+- **Introducing a clause (Mệnh đề) that expresses reason or cause:**
     - Example: "Being tired, she went to bed early."
     - Example: "Having finished the work, they went out for dinner."
 
@@ -162,7 +162,7 @@ If the sender wanted to say that the job itself is captivating or stimulating, t
 	- synonyms:
 		- warning (n): Cảnh báo 
 		- alert (n)
-- likewise (adv): 
+- **likewise** (adv): 
 	- Cũng như thế, cũng như vậy
 	- synonyms:
 		- also
@@ -182,8 +182,12 @@ If the sender wanted to say that the job itself is captivating or stimulating, t
 		- solely
 		- entirely
 		- just
-- appetizer platter (n):
+- **appetizer platter** (n):
 	- Đĩa khai vị
+	- relates:
+		- dessert (n)
+			-  sweet food eaten at the end of a meal
+			- Món tráng miệng
 - banquet (n)
 	- Bữa tiệc
 	- synonyms:
@@ -200,7 +204,7 @@ If the sender wanted to say that the job itself is captivating or stimulating, t
 		- pleasant
 - sharp (adj)
 	- Bén
-	- synonyms:
+	- **synonyms**:
 		- keen (adj)
 			- Bén
 		- sharpened (adj)
@@ -216,7 +220,6 @@ If the sender wanted to say that the job itself is captivating or stimulating, t
 		- skilled: Giỏi, có tay nghề cao
 		- talented (adj): Giỏi
 		- proficient (adj): 
-- 
 
 ## Ghi chú
 

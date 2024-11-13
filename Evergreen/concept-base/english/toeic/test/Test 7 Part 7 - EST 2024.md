@@ -21,18 +21,32 @@ Luyện được 6 đề rồi => Theo như chia sẻ của thầy cô đi trư�
 	- synonyms:
 		- related
 		- include
+	- relates:
+		- consist of
+		- contain
+		- feature
 - **fact-finding**:
 	- Tìm kiếm sự thật
 	- synonyms:
 		- analysis: Phân tích
 		- research: Tìm kiếm
+			- Relates:
+				- search for
+				- look for
+				- seek
+				- direct
+				- locate
 - incorporate
 	- Phối hợp, kết hợp
 	- synonyms:
 		- intergrate (v): Tích hợp
 		- comprise (v):
-- open-plan office area
+- **open-plan** office area
 	- Văn phòng không gian mở
+		- Remind me ?
+			- Toà nhà
+				- Building
+				- Facility
 - collaborate
 	- Cộng tác, kết hợp
 	- synonyms:
@@ -41,7 +55,9 @@ Luyện được 6 đề rồi => Theo như chia sẻ của thầy cô đi trư�
 		- get together
 		- unite (v): Hợp nhất, kết hợp
 		- combine (v)
-- tailored to:
+	- Remind me of ?
+		- Một nghệ sĩ Rapper đến từ Campodia trên Rap việt mùa 3
+- **tailored to:**
 	- Phù hợp với
 	- synonyms:
 		- customized (v): Tuỳ chỉnh
@@ -56,8 +72,43 @@ Luyện được 6 đề rồi => Theo như chia sẻ của thầy cô đi trư�
 	- Kiểm tra mắt hàng năm
 - break room (n): 
 	- Phòng nghỉ
+	- Từ liên quan ?
+		- Phòng khách:
+			- Living room
+		- Ban công ?
+			- Balcony
+		- Hiên nhà
+			- Porch
+		- Vườn ?
+			- Garden
+				- relates:
+					- Landscape
+						- Dọn vườn, cây cảnh
+					- potted plant
+						- Chậu cây
+					- a bunch of flower
+		- Mái nhà ?
+			- Roof
+			- Từ liên quan
+				- Xẻng
+					- Crowbar
+				- Lắp, trám:
+					- seal
+				- secure
+					- Sử chữa, bảo vệ
+					- relates:
+						- enclose
+						- attach
 - stocking service (n): 
 	- Dịch vụ cung cấp hàng dự trữ
+	- relates
+		- inventory
+			- Kho
+		- supply store
+			- Kho cung cấp
+	- Remind me of ?
+		- vending machine (n)
+			- Máy bán hàng tự động
 - stock
 	- (n):
 		- Hàng hoá
@@ -79,13 +130,31 @@ Luyện được 6 đề rồi => Theo như chia sẻ của thầy cô đi trư�
 			- Phá huỷ
 		- smash (v)
 		- crack (v)
+	- remind me of ?
+		- defective product
+		- damge
 - cabinet (n): 
 	- Tủ
-- shelving (n):
+	- relates:
+		- Phòng chứa quần áo/ tủ chứa quần áo
+			- closet
+		- Ngăn kéo
+			- drawer
+			- relates:
+				- documents, handouts
+- **shelving** (n):
 	- Kệ
-- pantry (n)
+	- relates:
+		- Book shelf
+			- Kệ sách
+- **pantry** (n)
 	- Phòng đựng thức ăn
-- fixtures (n)
+	- relates:
+		- storage
+		- store
+	- remind me of ?
+		- 
+- **fixtures** (n)
 	- Đồ dùng, vật bất động
 		- synonyms:
 			- attachment (n)
@@ -125,7 +194,12 @@ Luyện được 6 đề rồi => Theo như chia sẻ của thầy cô đi trư�
 	- Dây
 		- synonyms:
 			- string (n)
-			- lace (n)
+			- **lace** (n)
+				- relates:
+					- Thêu:
+						- sewing
+					- Quần áo:
+						- clothing
 			- thread (n)
 			- ribbon ():  Dãi băng
 			- cable (n): Dây cáp
@@ -137,6 +211,9 @@ Luyện được 6 đề rồi => Theo như chia sẻ của thầy cô đi trư�
 			- Tiền trả trước
 		- part payment (n)
 		- prepayment (n): Tiền trả trước
+	- remind me of ?
+		- resident (n): 
+			- Dân cư, khách ở
 - is subject to (v)
 	- Phải chịu
 	- Ex: is subject to additional fee

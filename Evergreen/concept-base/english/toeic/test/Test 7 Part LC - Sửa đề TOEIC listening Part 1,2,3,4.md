@@ -10,7 +10,6 @@ tags:
   - "#vocab"
 ---
 
-
 ## Danh sách từ vựng cần ôn
 
 - He's emptying soil from a pot

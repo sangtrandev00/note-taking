@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md",
+                "file": "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4"
+              "title": "Ôn từ vựng Ngày 13-11-2024"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md"
+                "file": "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4"
+              "title": "Outline of Ôn từ vựng Ngày 13-11-2024"
             }
           },
           {
@@ -251,8 +251,18 @@
   },
   "active": "50c998cc5ea014b2",
   "lastOpenFiles": [
-    "Evergreen/concept-base/english/method/Kỹ thuật học tiếng anh từ một người có thể nói đa ngôn ngữ.md",
+    "Evergreen/concept-base/english/toeic/vocab/Vocab toeic ngày.md",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md",
+    "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
+    "Evergreen/concept-base/english/toeic/test/Test 6 Grammar.md",
+    "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
+    "DailyWork/Sample.md",
+    "DailyNote/Template.md",
+    "DailyNote/2024-11-10.md",
+    "DailyNote/2024-11-11.md",
+    "Evergreen/optional-base/career/Mindset đúng ?.md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md",
+    "Evergreen/concept-base/english/method/Kỹ thuật học tiếng anh từ một người có thể nói đa ngôn ngữ.md",
     "Evergreen/concept-base/english/method",
     "Evergreen/concept-base/technical/database/SQL/Giải thích các thành phần trong câu lệnh explain sql query trong MySQL ?.md",
     "Evergreen/concept-base/technical/roadmap/backend",
@@ -274,19 +284,9 @@
     "Evergreen/concept-base/english.md",
     "Evergreen/concept-base/technical/programming/Typescript",
     "Evergreen/concept-base/technical/programming/Javascript",
-    "Evergreen/concept-base/technical/design-pattern/What's strategy pattern ?.md",
-    "Evergreen/concept-base/technical/design-pattern/The most common design pattern in OOP ?.md",
-    "Evergreen/concept-base/technical/design-pattern/How many type of Design Pattern in OOP ?.md",
-    "Evergreen/concept-base/english/toeic/vocab/Vocab toeic ngày.md",
-    "Evergreen/concept-base/technical/database/SQL/Trình tự thực hiện của một câu lệnh SQL sẽ diễn ra như thế nào ?.md",
     "Evergreen/concept-base/english/toeic/vocab",
     "Evergreen/concept-base/technical/database/NoSQL",
-    "Evergreen/concept-base/technical/database/SQL.md",
-    "Evergreen/concept-base/technical/database/NoSQL.md",
     "Evergreen/concept-base/technical/database/SQL",
-    "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
-    "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
-    "Notion/Study Technical Skills/Github/Github Actions.md",
     "TEST 6 RC (1)-OCR.pdf",
     "Untitled.canvas",
     "Pasted image 20241110194807.png",
