@@ -57,7 +57,7 @@ Luyện được 6 đề rồi => Theo như chia sẻ của thầy cô đi trư�
 		- combine (v)
 	- Remind me of ?
 		- Một nghệ sĩ Rapper đến từ Campodia trên Rap việt mùa 3
-- **tailored to:**
+- **tailored to:** (2)
 	- Phù hợp với
 	- synonyms:
 		- customized (v): Tuỳ chỉnh
@@ -147,7 +147,7 @@ Luyện được 6 đề rồi => Theo như chia sẻ của thầy cô đi trư�
 	- relates:
 		- Book shelf
 			- Kệ sách
-- **pantry** (n)
+- **pantry** (n) (2)
 	- Phòng đựng thức ăn
 	- relates:
 		- storage
@@ -219,10 +219,14 @@ Luyện được 6 đề rồi => Theo như chia sẻ của thầy cô đi trư�
 	- Ex: is subject to additional fee
 		- Phải chịu thêm chi phí
 - recipient (n)
-	- Người nhân
+	- Người nhận
 	- synonyms:
 		- receiver (n)
 			- Người nhận
+	- remind me of
+		- receptionist (n):
+			- Lễ tân
+		- reception (n)
 ## Lưu ý
 
 - Nên dịch các đoạn văn cuối (mặc dù đúng hay sai)

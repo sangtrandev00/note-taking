@@ -21,9 +21,12 @@ tags:
 	- synonyms: 
 		- relax
 		- take a rest
-- Some stools are being wiped down
+- **Some stools** are being wiped down
 	- Một vài cái ghế đẩu đang được lau sạch
-- restock (v)
+	- relates:
+		- chair
+		- kitchen
+- **restock** (2) (v)
 	- Bổ sung, chất lại
 	- synonyms
 		- refurbish (v)
@@ -34,20 +37,29 @@ tags:
 	- Có một số cửa sổ cạnh khu vực tiếp khách
 -  The sun is being blocked by **some curtains**
 	- Mặt trời đang bị che bởi một số tấm rèm
-- floral arrangements
+- **floral arrangements** (2)
 	- Dịch vụ cắm hoa
+	- relates:
+		- florist:
+			- Người bán hoa
+		- flower
 - The florist
 	- Người bán hoa
 - the drawer
 	- Ngăn kéo
 - downstairs
 	- Tầng dưới
+	- relates:
+		- upstairs
 - gave a speech
 	- Phát biểu
-- budgetary needs
+- **budgetary** needs
 	- Nhu cầu ngân sách
-- **outreach** coordinator
+- **outreach** coordinator (2)
 	- Điều phối viên tiếp cận cộng đồng
+	- relates:
+		- public
+		- community
 - We're fully funded **through** the end of the year
 	- Chúng ta đã được cấp vốn đầy đủ đến cuối năm
 	- Through ở đây có thể thay thế **to** không ?
@@ -60,6 +72,7 @@ tags:
 	- synonyms:
 		- summaries
 		- information
+		- documents
 - table setup
 	- Bàn dọn sẵn
 - snacks aisle
@@ -88,6 +101,11 @@ tags:
 	- related:
 		- say (v)
 		- express (v)
+		- address (v)
+			- Đề cập đến, nói đến
+			- synonyms:
+				- talk to
+				- speak to
 - well-stocked (adj)
 	- Đầy đủ
 	- synonyms:
@@ -107,7 +125,8 @@ tags:
 	- synonyms:
 		- taste
 		- essence
-- debrief (v)
+	- perfume (n)
+- **debrief** (v) (2)
 	- Hỏi, thẩm vấn, phỏng vấn
 	- synonyms
 		- interview
@@ -122,7 +141,7 @@ tags:
 	-  to keep and protect something from damage, change, or waste
 - carbon footprint
 	- Khí thải carbon
-- parade (n)
+- p**arade** (n) (2)
 	- Buổi diễu hành
 	- synonyms
 		- walk

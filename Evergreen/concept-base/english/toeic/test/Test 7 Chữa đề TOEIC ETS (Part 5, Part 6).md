@@ -182,7 +182,7 @@ If the sender wanted to say that the job itself is captivating or stimulating, t
 		- solely
 		- entirely
 		- just
-- **appetizer platter** (n):
+- **appetizer platter** (n): (2)
 	- Đĩa khai vị
 	- relates:
 		- dessert (n)
