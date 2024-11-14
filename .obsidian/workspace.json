@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md",
+                "file": "Evergreen/concept-base/english/toeic/test/Test 8 RC - Chữa đề ETS 2024 - Part 5,6,7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ôn từ vựng Ngày 13-11-2024"
+              "title": "Test 8 RC - Chữa đề ETS 2024 - Part 5,6,7"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md"
+                "file": "Evergreen/concept-base/english/toeic/test/Test 8 RC - Chữa đề ETS 2024 - Part 5,6,7.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ôn từ vựng Ngày 13-11-2024"
+              "title": "Outline of Test 8 RC - Chữa đề ETS 2024 - Part 5,6,7"
             }
           },
           {
@@ -251,8 +251,9 @@
   },
   "active": "50c998cc5ea014b2",
   "lastOpenFiles": [
-    "Evergreen/concept-base/english/toeic/vocab/Vocab toeic ngày.md",
     "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md",
+    "Evergreen/concept-base/english/toeic/test/Test 8 RC - Chữa đề ETS 2024 - Part 5,6,7.md",
+    "Evergreen/concept-base/english/toeic/vocab/Vocab toeic ngày.md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
     "Evergreen/concept-base/english/toeic/test/Test 6 Grammar.md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
@@ -281,7 +282,6 @@
     "Evergreen/concept-base/technical/backend/nestjs/Trình bày tóm tắt vòng đời cách chạy của Framework Nestjs ?.md",
     "Evergreen/concept-base/technical/data-structure/Big O là gì ?.md",
     "Evergreen/optional-base/career",
-    "Evergreen/concept-base/english.md",
     "Evergreen/concept-base/technical/programming/Typescript",
     "Evergreen/concept-base/technical/programming/Javascript",
     "Evergreen/concept-base/english/toeic/vocab",
