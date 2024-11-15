@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2023 - Chữa đề RC Part 5,6,7.md",
+                "file": "Evergreen/optional-base/career/Làm lập trình viên có giàu được không ? Làm sao kiếm được 100 củ khoai lang 1 tháng ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 1 ETS 2023 - Chữa đề RC Part 5,6,7"
+              "title": "Làm lập trình viên có giàu được không ? Làm sao kiếm được 100 củ khoai lang 1 tháng ?"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 241.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2023 - Chữa đề RC Part 5,6,7.md"
+                "file": "Evergreen/optional-base/career/Làm lập trình viên có giàu được không ? Làm sao kiếm được 100 củ khoai lang 1 tháng ?.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test 1 ETS 2023 - Chữa đề RC Part 5,6,7"
+              "title": "Outline of Làm lập trình viên có giàu được không ? Làm sao kiếm được 100 củ khoai lang 1 tháng ?"
             }
           },
           {
@@ -224,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,14 +249,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a25bdd7f39d2f8be",
+  "active": "f74d2c49adac955a",
   "lastOpenFiles": [
-    "Evergreen/concept-base/english/toeic/test/Test 2 ETS 2022 - Chữa đề RC.md",
+    "Evergreen/concept-base/book",
+    "Evergreen/optional-base/career/Mindset đúng ?.md",
+    "Evergreen/optional-base/career/Làm lập trình viên có giàu được không ? Làm sao kiếm được 100 củ khoai lang 1 tháng ?.md",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 15-11-2024.md",
+    "Evergreen/optional-base/career/Untitled",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 14-11-2024.md",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md",
+    "Evergreen/concept-base/english/toeic/vocab/Vocab toeic ngày.md",
     "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2023 - Chữa đề RC Part 5,6,7.md",
+    "Evergreen/concept-base/english/toeic/test/Test 2 ETS 2022 - Chữa đề RC.md",
     "Evergreen/concept-base/english/toeic/test/Test 8 RC - Chữa đề ETS 2024 - Part 5,6,7.md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 14-11-2024.md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 15-11-2024.md",
     "Evergreen/concept-base/university/semester01/MA003_math-dai-so-tuyen-tinh",
     "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh",
     "Evergreen/concept-base/university/semester01/IE103_information-management",
@@ -266,27 +272,21 @@
     "Evergreen/concept-base/university/semester02/MA004_math-cau-truc-roi-rac",
     "Evergreen/concept-base/university/semester02/IT003_dsa-cau-truc-du-lieu-va-giai-thuat",
     "Evergreen/concept-base/university/semester01/Untitled/Untitled",
-    "Evergreen/concept-base/university/semester01/IE005_introduction-it",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
     "2024-11-14.md",
     "Evergreen/concept-base/technical/design-pattern/Các loại design pattern phổ biến dễ học dễ ứng dụng ?.md",
     "Evergreen/concept-base/english/method/Kỹ thuật học tiếng anh từ một người có thể nói đa ngôn ngữ.md",
     "Evergreen/concept-base/english/vocab.md",
-    "Evergreen/concept-base/english/toeic/vocab/Vocab toeic ngày.md",
     "Evergreen/concept-base/english/toeic/test/Test 6 Grammar.md",
     "DailyWork/Sample.md",
     "DailyNote/Template.md",
     "DailyNote/2024-11-10.md",
     "DailyNote/2024-11-11.md",
-    "Evergreen/optional-base/career/Mindset đúng ?.md",
     "Evergreen/concept-base/technical/database/SQL/Giải thích các thành phần trong câu lệnh explain sql query trong MySQL ?.md",
     "Evergreen/optional-base/technical/Chế độ mặc định transaction trong nestjs là thằng đầu tiên ?.md",
     "Evergreen/concept-base/technical/database/SQL/Tại sao các database lại hỗ trợ bulk insert tốt hơn ?.md",
     "Evergreen/concept-base/technical/frontend/angular/Trình bày cơ chế rendering của Angular ?.md",
-    "Evergreen/concept-base/technical/programming/Javascript.md",
-    "Evergreen/concept-base/technical/backend/nodejs/NodeJS là đơn luồng hay đa luồng ?.md",
     "Ape_Bot_Admin.png",
     "Untitled.canvas",
     "Pasted image 20241110194807.png",

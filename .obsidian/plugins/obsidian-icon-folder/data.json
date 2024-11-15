@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiDatabase",
-      "🏫",
-      "🧑‍💻",
-      "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "🌲"
+      "LiBookOpen",
+      "LiFrame",
+      "LiCloudUpload",
+      "LiAlignJustify",
+      "LiScreenShare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,15 @@
   "Evergreen/concept-base/english": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
   "Evergreen/concept-base/technical": "🧑‍💻",
   "Evergreen/concept-base/university": "🏫",
-  "Evergreen/concept-base/technical/database": "LiDatabase"
+  "Evergreen/concept-base/technical/database": "LiDatabase",
+  "Evergreen/concept-base/technical/roadmap": "LiRoute",
+  "Evergreen/concept-base/technical/programming": "LiLanguages",
+  "Evergreen/concept-base/technical/git": "LiGithub",
+  "Evergreen/concept-base/technical/algorithm": "🤔",
+  "Evergreen/concept-base/technical/backend": "LiBackpack",
+  "Evergreen/concept-base/technical/frontend": "LiScreenShare",
+  "Evergreen/concept-base/technical/design-pattern": "LiAlignJustify",
+  "Evergreen/concept-base/technical/devops": "LiCloudUpload",
+  "Evergreen/concept-base/technical/data-structure": "LiFrame",
+  "Evergreen/concept-base/book": "LiBookOpen"
 }
