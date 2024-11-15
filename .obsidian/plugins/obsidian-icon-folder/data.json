@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiDatabase",
+      "🏫",
+      "🧑‍💻",
+      "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "🌲"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -26,5 +32,10 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "Evergreen": "🌲",
+  "Evergreen/concept-base/english": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "Evergreen/concept-base/technical": "🧑‍💻",
+  "Evergreen/concept-base/university": "🏫",
+  "Evergreen/concept-base/technical/database": "LiDatabase"
 }

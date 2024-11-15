@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 14-11-2024.md",
+                "file": "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2023 - Chữa đề RC Part 5,6,7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ôn từ vựng ngày 14-11-2024"
+              "title": "Test 1 ETS 2023 - Chữa đề RC Part 5,6,7"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 297.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 14-11-2024.md"
+                "file": "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2023 - Chữa đề RC Part 5,6,7.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ôn từ vựng ngày 14-11-2024"
+              "title": "Outline of Test 1 ETS 2023 - Chữa đề RC Part 5,6,7"
             }
           },
           {
@@ -251,12 +251,25 @@
   },
   "active": "a25bdd7f39d2f8be",
   "lastOpenFiles": [
-    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 14-11-2024.md",
-    "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
-    "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
+    "Evergreen/concept-base/english/toeic/test/Test 2 ETS 2022 - Chữa đề RC.md",
+    "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2023 - Chữa đề RC Part 5,6,7.md",
     "Evergreen/concept-base/english/toeic/test/Test 8 RC - Chữa đề ETS 2024 - Part 5,6,7.md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 14-11-2024.md",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 15-11-2024.md",
+    "Evergreen/concept-base/university/semester01/MA003_math-dai-so-tuyen-tinh",
+    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh",
+    "Evergreen/concept-base/university/semester01/IE103_information-management",
+    "Evergreen/concept-base/university/semester01/IE101_infra",
+    "Evergreen/concept-base/university/semester02/IE105",
+    "Evergreen/concept-base/university/semester02/MA005_math-xac-suat-thong-ke",
+    "Evergreen/concept-base/university/semester02/MA004_math-cau-truc-roi-rac",
+    "Evergreen/concept-base/university/semester02/IT003_dsa-cau-truc-du-lieu-va-giai-thuat",
+    "Evergreen/concept-base/university/semester01/Untitled/Untitled",
+    "Evergreen/concept-base/university/semester01/IE005_introduction-it",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md",
+    "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
+    "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
     "2024-11-14.md",
     "Evergreen/concept-base/technical/design-pattern/Các loại design pattern phổ biến dễ học dễ ứng dụng ?.md",
     "Evergreen/concept-base/english/method/Kỹ thuật học tiếng anh từ một người có thể nói đa ngôn ngữ.md",
@@ -268,26 +281,13 @@
     "DailyNote/2024-11-10.md",
     "DailyNote/2024-11-11.md",
     "Evergreen/optional-base/career/Mindset đúng ?.md",
-    "Evergreen/concept-base/english/method",
     "Evergreen/concept-base/technical/database/SQL/Giải thích các thành phần trong câu lệnh explain sql query trong MySQL ?.md",
-    "Evergreen/concept-base/technical/roadmap/backend",
-    "Evergreen/concept-base/technical/roadmap",
     "Evergreen/optional-base/technical/Chế độ mặc định transaction trong nestjs là thằng đầu tiên ?.md",
     "Evergreen/concept-base/technical/database/SQL/Tại sao các database lại hỗ trợ bulk insert tốt hơn ?.md",
     "Evergreen/concept-base/technical/frontend/angular/Trình bày cơ chế rendering của Angular ?.md",
     "Evergreen/concept-base/technical/programming/Javascript.md",
     "Evergreen/concept-base/technical/backend/nodejs/NodeJS là đơn luồng hay đa luồng ?.md",
-    "Evergreen/concept-base/technical/backend/nodejs/Event loop của NodeJS khác gì với JavaScript trên browser ?.md",
-    "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
-    "Evergreen/concept-base/technical/devops/docker/Tại sao phải sử dụng Docker.md",
     "Ape_Bot_Admin.png",
-    "Evergreen/optional-base/career",
-    "Evergreen/concept-base/technical/programming/Typescript",
-    "Evergreen/concept-base/technical/programming/Javascript",
-    "Evergreen/concept-base/english/toeic/vocab",
-    "Evergreen/concept-base/technical/database/NoSQL",
-    "Evergreen/concept-base/technical/database/SQL",
-    "TEST 6 RC (1)-OCR.pdf",
     "Untitled.canvas",
     "Pasted image 20241110194807.png",
     "Pasted image 20241110194809.png",
