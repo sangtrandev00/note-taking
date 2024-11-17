@@ -1,3 +1,13 @@
+---
+profileName: sangtrandev00
+postId: 3036
+postType: post
+categories:
+  - 124
+tags:
+  - "#english"
+  - "#toeic"
+---
 
 
 ## Từ vựng
