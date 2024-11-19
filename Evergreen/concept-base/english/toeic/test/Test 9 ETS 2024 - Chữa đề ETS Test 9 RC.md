@@ -9,7 +9,6 @@ tags:
   - "#toeic"
 ---
 
-
 ## Ngữ pháp
 
 ### Đại từ quan hệ lượt bỏ
@@ -60,46 +59,48 @@ Có đủ tiền **còn lại** trong ngân sách để trang trải chi phí 
 	- Flexible with
 - result from (phrase)
 	- Có kết quả từ
-- off-season (n)
+- **off-season** (n)
 	- Mùa thấp điểm
 	- Mùa cao điểm ?
 - reduced hour (n)
 	- Số giờ giảm
 - delivering memorable presentations (n)
 	- Truyền tải một bài thuyết trình rất đáng nhớ.
-- residential unit (n)
+- **residential unit** (2) (n)
 	- Đơn vị nhà ở
 - resources cabinet (n)
 	- Tủ
-- travelers’ lounge (n)
+- **travelers’ lounge** (2) (n)
 	- Phòng chờ
 - flight attendant (n)
 	- Tiếp viên hàng không
 - media relation (n)
 	- Quan hệ truyền thông
-- be on leave:
+- **be on leave:**
 	- Nghỉ phép
+	- synonyms:
+		- on a vacation
 - 500-megawatt wind-solar hybrid power
 	- Danh từ bổ nghĩa cho plant
 -  **500-megawatt wind-solar hybrid power plant**
 	- Công ty TNHH Sehelec thông báo sẽ bắt đầu xây dựng dự án **nhà máy** điện kết hợp gió-mặt trời 500 megawatt (MW) phía ngoài Bangalore, Ấn Độ.
 - Ltd. - Limited (n)
 	- Công ty trách nhiệm hữu hạn
-- in turn 
+- **in turn**  (2)
 	- Dẫn đến kết quả là
 - front desk
 	- Quầy lễ tân
-	- bustling
+- **bustling** (2)
 		- Nhiệt tình, náo nhiệt
 		- relates:
 			- vibrant
 - construction materials (n)
 	- Vật liệu xây dựng nhà
--  Pillows and sheets (n)
+-  **Pillows and sheets** (2)(n)
 	- Gối và ra trải giường
-- Wholesale food items (n)
+- **Wholesale** food items (2) (n)
 	- Bán buôn các mặt hàng thực phẩm
-- Spare automobile parts (n)
+- **Spare automobile parts** (n)
 	- Phụ tùng dự phòng ô tô
 - freight company (n)
 	- Công ty vận tải
@@ -110,7 +111,7 @@ Có đủ tiền **còn lại** trong ngân sách để trang trải chi phí 
 	- synonyms:
 		- funfair (n):
 			- Hội chợ
-- Erecting a tent (n)
+- **Erecting** a tent (n)
 	- Dựng lều
 - place (v)
 	- Đặt
@@ -122,7 +123,7 @@ Có đủ tiền **còn lại** trong ngân sách để trang trải chi phí 
 	- Vượt qua
 	- synonyms
 		- exceed (v)
-- fleet (n)
+- **fleet** (n)
 	- Tàu, xe lửa
 - **electrified tracks** (n)
 	- Đường ray điện hoá
@@ -131,7 +132,7 @@ Có đủ tiền **còn lại** trong ngân sách để trang trải chi phí 
 	- sign the contract
 - manufacture (v)
 	- Sản xuất
-- **reclinable** seat (n)
+- **reclinable** seat (2) (n)
 	- Ghế có thể ngã
 - slow season (n)
 	- Mùa ít bận rộn
@@ -147,7 +148,7 @@ Có đủ tiền **còn lại** trong ngân sách để trang trải chi phí 
 	- Chú ý đến thời gian
 - characteristic (n)
 	- Đặc điểm, tính cách
-- adopt (v)
+- **adopt** (v)
 	- Áp dụng
 	- synonyms:
 		- apply (v)

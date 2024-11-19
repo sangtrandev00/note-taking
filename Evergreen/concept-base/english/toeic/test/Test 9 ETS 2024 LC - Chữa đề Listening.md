@@ -50,11 +50,11 @@ tags:
 	- Khăn trải bàn
 - napkins (n)
 	- Khăn ăn
-- linens (n)
+- **linens** (1) (n)
 	- Trải giường
-- put them ahead of job sixten (n)
+- **put them ahead of** job sixten (n)
 	- Đặt họ trước công việc 16
--  commercial laundry facility (n)
+-  commercial **laundry** facility (n)
 	- Cơ sở giặt đồ thương mại
 - washer (n)
 	- Máy giặt đồ
@@ -66,30 +66,30 @@ tags:
 	- Lịch nghỉ phép
 - a department's social event (n)
 	- Một sự kiện xã hội của bộ phận
-- strive (v)
+- **strive** (v)
 	- Cố gắng
 	- synonyms
 		- attempt (v)
 		- try
 - due on (v)
 	- Đến hạn vào
-- otherwise (adv)
+- **otherwise** (adv)
 	- một cách khác
 - as always 
 	- Như mọi khi, như luôn
 - **It doesn't make financial sense for our kitchen to stay open late.**
 	- Nó sẽ không có ý nghĩa gì về mặt tài chính nếu phòng bếp của chúng ta mở cửa muộn
-- reassure (v)
+- **reassure** (v)
 	- Trấn an
 - weekday (n)
 	- Ngày trong tuần
 - parkland (n)
 	- Công viên
-- firehouse (n)
+- **firehouse** (1) (n)
 	- Trạm cứu hoả
-- hardcover books (n)
+- **hardcover** books (n)
 	- Sách bìa cứng
-- paperbacks (n)
+- **paperbacks** (n)
 	- Sách mềm
 - going-out-of-business sale (n)
 	- Đợt giảm giá sắp ngừng kinh doanh
