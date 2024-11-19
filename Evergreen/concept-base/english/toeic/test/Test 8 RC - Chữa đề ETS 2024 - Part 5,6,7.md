@@ -85,27 +85,27 @@ a small fee.
 		- researchers (n): Các nhà nghiên cứu
 		- researching (Ving)
 		- researched (V3/ed)
-- offerings (n)
+- **offerings** (2) (n)
 	- Dịch vụ
 	- synonyms:
 		- services
-- substantially (adv)
+- **substantially** (2) (adv)
 	- Một cách đáng kể
 	- synonyms:
 		- considerably
 		- significantly
 - Corporate travel planners (n)
 	- Người lập kế hoạch du lịch cho công ty
-- gourmet (n)
+- **gourmet** (2) (n)
 	- Người sành ăn
 	- Thực phẩm chất lượng cao
-- A housing complex (n)
+- **A housing complex** (2) (n)
 	- Khu nhà ở phức hợp
 - fence repair (n)
 	- Sửa chữa hàng rào
-- groundskeeping (n)
+- **groundskeeping** (2) (n)
 	- Việc chăm sóc
-- leasing (v)
+- **leasing**  (2) (v)
 	- Cho thuê
 	- Việc cho thuê
 - landscaping (v)
@@ -114,17 +114,17 @@ a small fee.
 	- Cải tạo, cải thiện
 	- synonyms:
 		- improvements (n)
-- waterproof (adj)
+- **waterproof** (2) (adj)
 	- Không thấm nước
-- insulation material (n)
+- **insulation material** (2) (n)
 	- Vật liệu cách nhiệt
-- **proprietary** (adj)
+- **proprietary** (2) (adj)
 	- Độc quyền
 	- synonyms:
 		- solely
 		- only
 		- exclusive
-- curator of (n):
+- **curator of** (2) (n):
 	- Người phụ trách
 - **permanent collection** (n)
 	- Bộ sưu tập cố định
@@ -142,13 +142,13 @@ a small fee.
 	- Người tham dự
 - digital panel (n)
 	- Bảng điện tử
-- last-minute permits (n)
+- **last-minute permits** (n)
 	- Giấy phép vào phút cuối
 	- permit requirement
 		- Yêu cầu về giấy phép
 - trails (n)
 	- Đường mòn
-- foot traffic (n)
+- **foot traffic** (2) (n)
 	- Lưu lượng người đi bộ
 - issue (v)
 	- Phát
@@ -156,7 +156,7 @@ a small fee.
 		- grant (v)
 - hiker (n)
 	- Người đi bộ đường dài
-- jams (n)
+- **jams** (2) (n)
 	- Ngũ cốc
 	- relates:
 		- cereals (n)
@@ -167,7 +167,7 @@ a small fee.
 - **corporate retreat** (n)
 	- Kỳ nghỉ công ty, kỳ nghỉ doanh nghiệp
 	- **corporate travel**
-- packing slip (n)
+- **packing slip** (n)
 	- Phiếu đóng gói
 - agenda items (n)
 	- Các mục nghị sự (mục lục)
