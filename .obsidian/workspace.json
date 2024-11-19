@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1c0f16b505377f8",
+        "id": "905067f4b59d35ce",
         "type": "tabs",
         "children": [
           {
-            "id": "1467667d6a0bbf9d",
+            "id": "983edfdce63c46db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 9 ETS 2024 LC - Chữa đề Listening.md",
+                "file": "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6,7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 9 ETS 2024 LC - Chữa đề Listening"
+              "title": "Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6,7"
             }
           }
         ]
@@ -73,11 +73,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 200
   },
   "right": {
     "id": "598567424d2350c6",
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 9 ETS 2024 LC - Chữa đề Listening.md"
+                "file": "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6,7.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test 9 ETS 2024 LC - Chữa đề Listening"
+              "title": "Outline of Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6,7"
             }
           },
           {
@@ -249,15 +250,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1467667d6a0bbf9d",
+  "active": "2be1e09d7d73aefd",
   "lastOpenFiles": [
-    "Evergreen/concept-base/english/toeic/test/Test 9 ETS 2024 - Chữa đề ETS Test 9 RC.md",
+    "Untitled.canvas",
     "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
-    "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
-    "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md",
-    "Evergreen/concept-base/english/toeic/test/Test 8 RC - Chữa đề ETS 2024 - Part 5,6,7.md",
-    "Evergreen/concept-base/english/toeic/test/Test 9 ETS 2024 LC - Chữa đề Listening.md",
+    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6,7.md",
+    "Evergreen/concept-base/english/toeic/test/Test 6 Grammar.md",
+    "template.md",
     "Untitled 1.md",
+    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề LC Toeic Part 1,2,3,4..md",
+    "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md",
+    "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
+    "Evergreen/concept-base/english/toeic/test/Test 9 ETS 2024 LC - Chữa đề Listening.md",
+    "Evergreen/concept-base/english/toeic/test/Test 9 ETS 2024 - Chữa đề ETS Test 9 RC.md",
+    "Evergreen/concept-base/english/toeic/test/Test 8 RC - Chữa đề ETS 2024 - Part 5,6,7.md",
     "Untitled.md",
     "Evergreen/concept-base/english/toeic/test/Test 2 ETS 2022 - Chữa đề RC (Part 5,6).md",
     "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 15-11-2024.md",
@@ -282,13 +288,7 @@
     "Evergreen/optional-base/career/Làm lập trình viên có giàu được không ? Làm sao kiếm được 100 củ khoai lang 1 tháng ?.md",
     "Evergreen/optional-base/career/Mindset đúng ?.md",
     "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 14-11-2024.md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md",
-    "Evergreen/concept-base/english/toeic/vocab/Vocab toeic ngày.md",
-    "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2023 - Chữa đề RC Part 5,6,7.md",
-    "2024-11-14.md",
-    "Evergreen/concept-base/technical/design-pattern/Các loại design pattern phổ biến dễ học dễ ứng dụng ?.md",
     "Ape_Bot_Admin.png",
-    "Untitled.canvas",
     "Pasted image 20241110194807.png",
     "Pasted image 20241110194809.png",
     "Untitled 2.canvas",
