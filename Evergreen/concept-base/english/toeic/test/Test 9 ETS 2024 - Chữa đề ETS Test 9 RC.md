@@ -76,7 +76,7 @@ Có đủ tiền **còn lại** trong ngân sách để trang trải chi phí 
 	- Tiếp viên hàng không
 - media relation (n)
 	- Quan hệ truyền thông
-- **be on leave:**
+- **be on leave:** (2)
 	- Nghỉ phép
 	- synonyms:
 		- on a vacation

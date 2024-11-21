@@ -14,7 +14,7 @@
 		- lovely
 		- attractive
 		- pleasing
-- excess (n)
+- **excess** (1) (n)
 	- Sự dư thừa
 	- example:
 		- excess inventory (n)
@@ -26,7 +26,7 @@
 		- too much
 - excess (adj)
 	- Dư thừa
-		- synonyms:
+	- synonyms:
 			- extra
 			- unused
 			- redundant
@@ -55,7 +55,7 @@
 	- Một cách ngắn gọn, xúc tích
 	- synonyms:
 		- shortly (adv)
-- abundantly (adv)
+- **abundantly** (1) (adv)
 	- Một cách dồi dào, một cách dư thừa
 	- synonyms:
 		- plentifully (adv)
@@ -63,7 +63,7 @@
 		- in abundance
 - employee productivity (n)
 	- Hiệu suất của nhân viên
-- solicit (v)
+- **solicit** (1) (v)
 	- Thu thập, mời mộc
 	- synonyms:
 		- ask for
@@ -76,7 +76,7 @@
 	- Having ở đầu câu -> Dịch là lý do (vì)
 - additionally (adv)
 	- Ngoài ra, thêm vào đó
-- Subsequently (adv)
+- **Subsequently** (1) (adv)
 	- Sau đó, rồi thì
 	- synonyms:
 		- later on
@@ -88,9 +88,9 @@
 	- furniture (n)
 - festivities (n)
 	- Lễ, lễ hội
-- once-influential 
+- o**nce-influential** (1) 
 	- Từng có ảnh hưởng
-- imposing structure (n)
+- **imposing** structure (n)
 	- Kiến trúc hùng vĩ
 - payroll database (n)
 	- Cơ sở dữ liệu bảng lương
@@ -110,15 +110,15 @@
 	- Đôi bảo trì
 	- synonyms:
 		-   a maintaince team, group
-- planned outage (n)
+- planned **outage** (1) (n)
 	- Mất điện theo kế hoạch, ngừng hoạt động theo kế hoạch
 - transformer (n)
 	- Máy biến áp
 - Nonetheless
 	- Tuy nhiên, dù sao đi nữa
 	- synonyms:
-		- nevertheless3
-- roll out (v)
+		- nevertheless
+- **roll out** (1) (v)
 	- Triển khai
 	- synonyms:
 		- launch
@@ -128,7 +128,7 @@
 	- Cổng thông tin
 	- synonyms
 		- client
-- bitterly (adv)
+- **bitterly** (adv)
 	- Đắng cay, cảm xúc tiêu cực
 -  flower bed (n)
 	- Luống hoa
@@ -136,9 +136,9 @@
 	- Trồng lại
 - oversee (v)
 	- Giám sát, quản lý
-- magnetic (adj)
+- **magnetic** (2) (adj)
 	- Thuộc về từ tính, rất hấp dẫn lỗi cuống
-- chaotic (adj)
+- **chaotic** (adj)
 	- Hỗn loạn
 - greet (v)
 	- Đón nhận, chào đón

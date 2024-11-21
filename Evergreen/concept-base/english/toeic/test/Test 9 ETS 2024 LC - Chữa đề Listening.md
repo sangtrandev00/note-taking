@@ -32,7 +32,7 @@ tags:
 	- **we need to advocate for a larger marketing budget**
 - pedestrian (n)
 	- Người đi bộ
-- bring up (v)
+- **bring up** (2) (v)
 	- Thảo luận
 	- synonyms:
 		- discuss (v)
@@ -50,7 +50,7 @@ tags:
 	- Khăn trải bàn
 - napkins (n)
 	- Khăn ăn
-- **linens** (1) (n)
+- **linens** (2) (n)
 	- Trải giường
 - **put them ahead of** job sixten (n)
 	- Đặt họ trước công việc 16
@@ -85,7 +85,7 @@ tags:
 	- Ngày trong tuần
 - parkland (n)
 	- Công viên
-- **firehouse** (1) (n)
+- **firehouse** (2) (n)
 	- Trạm cứu hoả
 - **hardcover** books (n)
 	- Sách bìa cứng
