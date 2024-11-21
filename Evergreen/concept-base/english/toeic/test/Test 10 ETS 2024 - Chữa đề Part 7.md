@@ -1,5 +1,13 @@
-
-
+---
+profileName: sangtrandev00
+postId: 3103
+postType: post
+categories:
+  - 124
+tags:
+  - "#english"
+  - "#toeic"
+---
 ## Từ vựng
 
 - office complex
@@ -47,11 +55,70 @@
 	- Trải qua sự suy giảm trong kinh doanh
 - makes lighthouses a thing of the past
 	- Làm ngọn hải đắng trở thành quá khứ
-
+- the quoted price (n)
+	- Giá niêm yết
+- labor (n)
+	- Công nhân
+	- synonyms:
+		- worker
+- valances (n)
+	- rèm trang trí, phần phụ của rèm cửa
+	- relates:
+		- window
+- drapes (n)
+	- Rèm của, mành cửa
+- shades (n)
+	- Rèm
+- dedicated (adj)
+	- Tận tuỵ
+- a **novice** supervisor (n)
+	- Một người giám sát mới vào nghề
+	- synonyms:
+		- learner
+		- beginner
+		- newbie
+		- student
+		- pupil
+- communication plans (n)
+	- kế hoạch truyền thông
+- webinar (n)
+	- Hội thảo trực tuyến
+- toiletries (n)
+	- Đồ vệ sinh
+	- relates:
+		- soap
+		- shampoo
+- flavor purchases (n)
+	- Vị kem được mua
+- cone (n)
+	- Cái cốc, cái hủ
+- service the kiosks (n)
+	- Phục vụ các ki-ốt
+- bus line (n)
+	- Tuyến xe buýt
+- self-service checkout kiosk (n)
+	- Trạm thanh toán tự phục vụ
+- formal written agreement (n)
+	- Thoả thuận văn bản chính thức
+- pastries (n)
+	- Bánh ngọt
+	- relates:
+		- bakery
+		- pancake
+- **brick-and-mortar store** (n)
+	- Cửa hàng vật liệu xây dựng
+- **respondents** (n)
+	- Người tham gia khảo sát
+- **customer engagement** (n)
+	- Sự tương tác với khách hàng
+- **venture capital** (n)
+	- Vốn đầu tư mạo hiểm
+- keynote speaker (n)
+	- Diễn giả chính
 ## Lưu ý
 - Lưu ý chỗ tìm đáp án của các câu đầu tiên
 
 ---
 ## Relates
 
-#toeic #english 
+#toeic #english
