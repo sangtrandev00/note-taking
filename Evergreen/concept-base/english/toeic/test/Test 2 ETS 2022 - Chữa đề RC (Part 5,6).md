@@ -22,8 +22,8 @@ tags:
 	- (B) total
 	- **(C) every** (Mọi vé)
 	- (D) entire
-- Orchestra (n)
-	- Dàn nhặc
+- **Orchestra** (n)
+	- Dàn nhạc
 - entire dùng khi nào ?
 - Cater (v)
 	- Phục vụ đồ ăn

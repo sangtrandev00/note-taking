@@ -55,6 +55,7 @@
 	- Một cách ngắn gọn, xúc tích
 	- synonyms:
 		- shortly (adv)
+		- concisely (adv)
 - **abundantly** (1) (adv)
 	- Một cách dồi dào, một cách dư thừa
 	- synonyms:
@@ -118,7 +119,7 @@
 	- Tuy nhiên, dù sao đi nữa
 	- synonyms:
 		- nevertheless
-- **roll out** (1) (v)
+- **roll out** (2) (v)
 	- Triển khai
 	- synonyms:
 		- launch
@@ -138,6 +139,8 @@
 	- Giám sát, quản lý
 - **magnetic** (2) (adj)
 	- Thuộc về từ tính, rất hấp dẫn lỗi cuống
+	- synonyms
+		- attractive
 - **chaotic** (adj)
 	- Hỗn loạn
 - greet (v)

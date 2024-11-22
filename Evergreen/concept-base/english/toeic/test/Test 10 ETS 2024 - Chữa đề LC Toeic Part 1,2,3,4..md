@@ -44,7 +44,7 @@ categories:
 		- entertainment (n)
 - lawmaker (n)
 	- Người làm luật, nhà lập pháp
-- **aside from** (2)
+- **aside from** (3)
 	- Ngoài ra
 	- synonyms
 		- on the other hand
@@ -70,7 +70,7 @@ categories:
 	- Có tấm đệm
 - padded straps
 	- Dây đai có đệm
-- exhibitors
+- **exhibitors** (2)
 	- Nhà triển lãm, nhà trưng bày
 ## Lưu ý
 

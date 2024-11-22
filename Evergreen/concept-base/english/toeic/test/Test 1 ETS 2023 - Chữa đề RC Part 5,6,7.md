@@ -20,15 +20,15 @@ categories:
 - unless
 	- Trừ khi
 	- if not
-- fine lines (n)
+- **fine lines** (2) (n)
 	- Đường nhăn
 - wrinkle (n)
 	- Nếp nhăn
 - arise (v)
 	- Phát sinh, xảy ra
-- Precipitation (n)
+- **Precipitation** (2) (n)
 	- Lượng mưa
-- establish **explicit** policy (n)
+- establish **explicit** policy (n) (2)
 	- Xây dựng các chính sách cụ thể
 	- explicit (adj)
 		- Rõ ràng, chính xác
@@ -49,10 +49,10 @@ categories:
 	- Một cách chăm chỉ, tinh tấn
 	- synonyms:
 		- word hard
-- Lucrative (adj)
+- **Lucrative** (2) (adj)
 	- Béo bở
 	- producing a lot of money
-- crafted
+- **crafted** (2)
 	- Chế tác
 	- beautifull crafted: 
 		- Chết tác tuyệt vời
@@ -77,7 +77,7 @@ categories:
 	- Hợp pháp
 	- relates:
 		- illegal
-- treatment (n)
+- **treatment** (n) (2)
 	- Sự điều trị
 - retreat (n)
 	- Về ở ẩn, rút luôi, nghỉ ngơi
@@ -99,50 +99,56 @@ categories:
 	- (n) Làm đẹp, mỹ phẩm 
 - tenants (n)
 	- Người thuê
-- outage (n)
+- **outage** (n)
 	- Việc trì hoãn, ngưng hoạt động, thiếu hụt
-- headset (n)
+- **headset** (2) (n)
 	- Tai nghe
 	- headphone (n)
-- well attended (n)
+- **well attended** (2) (n)
 	- Được tham dự với số lượng đông
 - Monorail (n)
 	- Đường ray
-- Be slated: 
+- **Be slated** (2): 
 	- Được dự kiên
 	- to be expected to happen
 - A cargo-handling company
 	- Công ty cung cấp dịch vụ hàng hoá
 -  rain or shine (n)
 	- Kể cả trời mưa hay nắng
-- discouraged (adj)
+- **discouraged** (adj) (2)
 	- Nản lòng
 - vendor (n)
 	- Người bán hàng
 	- Nhà cung cấp
-- detectors (n)
+- **detectors** (n) (2)
 	- Thiết bị phát hiện
-- distinguished (adj)
+- **distinguished** (adj)
 	- Đáng trọng
-- alumni (n)
+	- Đáng được kính trọng
+	- synonyms:
+		- successful
+- **alumni**  (2) (n)
 	- Cựu sinh viên
-- undergone 
+	- synonyms:
+		- old student
+		- postgraduate
+- **undergone** (2)
 	- go through
 	- Qua
 	- Example:
 		- undergone over the time
-- institution (n)
+- **institution** (n) (2)
 	- Học viện/ tổ chức
-- sophisticated (adj)
+- **sophisticated** (adj) (2)
 	- Phức tạp
 	- synonyms:
 		- complex (adj)
 		- diverse (adj)
 			- Đa dạng
 		- complicated (adj)
-- **vocational** school (n)
+- **vocational** school (2) (n)
 	- Trường dạy nghề
-- Array of disciplines (n)
+- **Array of disciplines** (2) (n)
 	- Đa dạng lĩnh vực
 	- relates:
 		- many fields
@@ -150,30 +156,32 @@ categories:
 		- diverse
 - reporter (n)
 	- Phóng viên
-- well-rounded (adj)
+- **well-rounded** (2) (adj)
 	- Toàn diện
-- calming noise machine (n)
+	- synonyms:
+		- comprehensive
+- **calming noise machine** (2) (n)
 	- Máy móc rất ít tiếng ồn
-- cubicles (n)
+- **cubicles** (n) (2)
 	- Chỗ làm việc
 	- workspace
-- respite (n)
+- **respite** (n) (2)
 	- Sự nghỉ ngơi
 - **double-glazed** window (n)
 	- Cửa kính 2 lớp
-- blinds (n)
+- **blinds** (n) (2)
 	- Rèm cửa
-- glare (n)
+- **glare** (n) (2)
 	- Sự chói mắt
 - Editor (n)
 	- Người chịu trách nhiệm cho tạp chí, bài báo
-- on-the-move employees (n)
+- **on-the-move employees** (2) (n)
 	- Những nhân viên chuẩn bị di chuyển
-- portable reading lamp (n)
+- **portable reading lamp** (n)
 	- Đèn có thể tháo dời
 - conclude 
 	- kết thúc
-- Double-decker bus (n)
+- **Double-decker** bus (2) (n)
 	- Xe buýt 2 tầng
 - packable (adj)
 	- Có thể đóng gói

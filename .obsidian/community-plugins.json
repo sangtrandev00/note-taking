@@ -17,5 +17,7 @@
   "pdf-plus",
   "obsidian-wordpress",
   "obsidian-markmind",
-  "obsidian-toggle-list"
+  "obsidian-toggle-list",
+  "code-styler",
+  "vscode-editor"
 ]
