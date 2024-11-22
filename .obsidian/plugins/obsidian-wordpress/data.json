@@ -10,13 +10,13 @@
       "savePassword": true,
       "isDefault": true,
       "lastSelectedCategories": [
-        124
+        39
       ],
       "username": "sangtrandev00",
       "encryptedPassword": {
-        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"SbyzgR6yHWbG9zUm06htPAgo3JTFqe-SBz-KhXSpggo\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
-        "vector": "sSVyZoAy9i9+wHCd",
-        "encrypted": "dsUXJtLBgzLnCyGK7XuR45/LIMiat9fg+5Y7Oga/5w=="
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"vwfe6wM2gLNINfAm5comFPveLU8O1unFrtE4bHUdCLE\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "8Qm+Qs0K/+Vmfis0",
+        "encrypted": "tBcgU63lrNBv0NKjyS6ezRUPpRt/D7Ya+9Xxm9b8Zw=="
       }
     }
   ],

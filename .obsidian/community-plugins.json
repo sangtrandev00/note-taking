@@ -19,5 +19,6 @@
   "obsidian-markmind",
   "obsidian-toggle-list",
   "code-styler",
-  "vscode-editor"
+  "vscode-editor",
+  "obsidian-format-code"
 ]
