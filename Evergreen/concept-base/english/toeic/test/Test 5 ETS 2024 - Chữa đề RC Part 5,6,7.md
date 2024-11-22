@@ -1,4 +1,3 @@
-
 Thật may mắn về đề Test 5 ngày mình đã được đúng chỉ tiêu đề ra về Toeic. Overall tổng cộng là 825 -> 840 với 85 câu RC và 78 câu LC. Hi vọng lúc thi mình vẫn giữ được phong độ này. Bây giờ là lúc sửa đề TOEIC thôi nào. Let's go!
 ## Ngữ pháp
 
@@ -179,10 +178,99 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 		- shy
 		- bashful
 		- low-key
+- servicing your bike
+	- Bảo dưỡng chiếc xe đạp của bạn
+-  brake mechanisms (n)
+	- Cơ cấu phanh, cơ cấu thắng
+- What does that come to?
+	- Điều đó dẫn tới cái gì 
+- gear (n)
+	- Bánh răng
+- drivetrain cleaning (n)
+	- Việc vệ sinh hệ thống truyền động
+- a head of
+	- Sớm, ở phía trước
+	- = soon
+- plumbing system (n)
+	- Hệ thống ống nước
+- satellite clinic (n)
+	- Phòng khám vệ tinh
+- is housed (v)
+	- Nằm trong
+	- Example: is housed in the historic Brandmore shoe factory
+		- Nằm trong nhà máy giày Brandmore lịch sử
+- exterior (n)
+	- Vẻ ngoài
+- a state of-the-art x-ray facility (n)
+	- Cơ sở chụp X quang hiện đại 
+- Move forward (v)
+	- Tiến hành, tiếp tục
+- Drivetrain (n)
+	- Hệ thống truyền động
+- Archive (n)
+	- Kho lưu trữ
+- Remarks (n)
+	- Bài phát biểu
+- Followwing up (phr.v)
+	- Theo dõi
+- processing patient samples (n)
+	- Xử lý mẫu bệnh phẩm
+- walk-in freezer (n)
+	- Tủ đông không cửa ngăn
+-  is on  back order (n)
+	- Đã được đặt hàng lại
+- wallmounted device (n)
+	- Thiết bị treo tường
+- **aluminum flooring** (n)
+	- Sàn nhôm
+- **galvanized steel panels** (n)
+	- Tôn mạ kẽm
+- Grand total (n)
+	- Tổng giá trị
+- simultaneously (adv)
+	- Đồng thời
+	- synonyms:
+		- at the same time
+		- at once
+		- concurently
+- retail art (n)
+	- Nghệ thuật bán lẻ
+- Craft vendor (n)
+	- Người bán đồ thủ công, mỹ nghệ
+- boardwalk (n)
+	- Lối đi lót bằng ván, lối đi hướng ra biển
+- Gallery manager (n)
+	- Quản lý phòng tranh
+- Acquire (v)
+	- Mua lại
+	- Đạt được
+	- synonyms:
+		- purchase
+		- obtain
+		- get
+		- receive
+		- gain
+		- earn
+		- win
+		- buy
+- Supplement (v)
+	- Bổ sung, thêm
+	- synonyms:
+		- increase (v)
+		- boost (v)
+		- enlarge (v)
+		- complement (v)
+		- widen (v)
+		- broaden (v)
+- Travel request (n)
+	- Yêu cầu công tác
 
-## Lưu ý
+
+		- ## Lưu ý
 - Lúc nào cũng vậy, cẩn thận, dịch kỹ làm đúng thôi là mình có thể đã có thêm 5 đáp án đúng từ phần reading này rồi!
 - Thật vậy, mọi thông tin đều có trong các đoạn trích thôi, và những từ vựng thì không quá khó nếu mình có thể kết nối được thông tin!
+- Đúc kết kinh nghiệm của mình thì: Các đoạn cuối sẽ có những đáp án dạng câu hỏi suy luận (tìm đáp án ở 2 -> 3 đoạn văn), thường chiếm khoảng 5 -> 7 câu ở các câu hỏi cuối. Dấu hiệu nhận biết các dạng câu hỏi đó là thương bắt đầu bằng How, Điều gì đúng về ? Điều gì không được đề cập ? Why ? 
+- Chiến lược là nếu gặp khoảng 5 câu hỏi suy luận như vậy, mình chấp nhận lụi để tập trung thời gian và năng lượng cho các đáp án khác để tăng điểm của bản thân!
 
 
 ---
@@ -191,3 +279,4 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 #toeic #english 
 
 https://tienganhmoingay.com/ngu-phap-tieng-anh/nhan-biet-menh-de-quan-he-rut-gon/
+https://zim.vn/ets-2024-test-5-part-7
