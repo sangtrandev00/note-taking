@@ -1,4 +1,13 @@
-
+---
+profileName: sangtrandev00
+postId: 3159
+postType: post
+categories:
+  - 39
+tags:
+  - "#english"
+  - "#toeic"
+---
 Đề Test 5 listening này mình làm cũng khá ổn, có một số câu nghe khó và dựa vào suy luận loại trừ đáp án không nghe rõ được. Nhìn chung cũng đạt chỉ tiêu mình đề ra kết quả là 85/100. Đi thi giữ phong độ này hoặc hơn một chút nữa là tuyệt vời.
 
 ## Từ vựng
@@ -50,10 +59,26 @@
 	- Lối đi bộ
 - visitor pass (n)
 	- Thẻ vào cửa cho khách tham quan
+- clear debris from the walkways 
+	- Dọn sạch các mảnh vụn
+- This is a little out of the ordinary
+	- Điều này thì khác thường một chút
+- haste (n)
+	- Sự vội vã, hấp tấp
+- The lease agreement (n)
+	- Hợp đồng cho thuê
+- settled (adj)
+	- Ổn định, thoải mái
+- claim (v)
+	- nhận lấy
+	- Đồi bồi thường
+	- Tuyên bố
+- household belongings (n)
+	- Tài sản gia định
 
 ## Lưu ý
 
 ---
 ## Relates
 
-#toeic #english 
+#toeic #english
