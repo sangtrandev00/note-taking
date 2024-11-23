@@ -33,7 +33,7 @@ a small fee.
 
 ## Từ vựng liên quan
 
-- garments:
+- **garments** (2):
 	- Trang phục
 	- synonyms:
 		- clothing
@@ -45,7 +45,7 @@ a small fee.
 		- track
 - tray
 	- Cái mâm, cái máng, cái dĩa
-- jewel-toned fabrics (n)
+- j**ewel-toned fabrics** (n)
 	- Loại vãi có tông màu quý
 - leadership
 	- (n): Khả năng lãnh đạo
@@ -103,28 +103,30 @@ a small fee.
 	- Khu nhà ở phức hợp
 - fence repair (n)
 	- Sửa chữa hàng rào
-- **groundskeeping** (2) (n)
+- **groundskeeping** (3) (n)
 	- Việc chăm sóc
-- **leasing**  (2) (v)
+- **leasing**  (3) (v)
 	- Cho thuê
 	- Việc cho thuê
+	- synonyms:
+		- rent
 - landscaping (v)
 	- Sửa chữa cảnh quan, cải thiện khung cảnh
 - enhancements (n)
 	- Cải tạo, cải thiện
 	- synonyms:
 		- improvements (n)
-- **waterproof** (2) (adj)
+- **waterproof** (3) (adj)
 	- Không thấm nước
-- **insulation material** (2) (n)
+- **insulation material** (3) (n)
 	- Vật liệu cách nhiệt
-- **proprietary** (2) (adj)
+- **proprietary** (3) (adj)
 	- Độc quyền
 	- synonyms:
 		- solely
 		- only
 		- exclusive
-- **curator of** (2) (n):
+- **curator of** (3) (n):
 	- Người phụ trách
 - **permanent collection** (n)
 	- Bộ sưu tập cố định
@@ -146,17 +148,17 @@ a small fee.
 	- Giấy phép vào phút cuối
 	- permit requirement
 		- Yêu cầu về giấy phép
-- trails (n)
+- **trails** (n)
 	- Đường mòn
-- **foot traffic** (2) (n)
+- **foot traffic** (3) (n)
 	- Lưu lượng người đi bộ
 - issue (v)
 	- Phát
 	- synonyms:
 		- grant (v)
-- hiker (n)
+- **hiker** (2) (n)
 	- Người đi bộ đường dài
-- **jams** (2) (n)
+- **jams** (3) (n)
 	- Ngũ cốc
 	- relates:
 		- cereals (n)

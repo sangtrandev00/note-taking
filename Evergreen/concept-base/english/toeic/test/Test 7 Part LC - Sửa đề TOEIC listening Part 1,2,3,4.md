@@ -12,7 +12,7 @@ tags:
 
 ## Danh sách từ vựng cần ôn
 
-- He's emptying soil from a pot
+- **He's emptying soil from a pot**
 	- Anh ấy đang đổ đất ra khỏi chậu
 - The man is resting his arm on a counter
 	- Người đàn ông đang đặt tay trên quầy
@@ -21,7 +21,7 @@ tags:
 	- synonyms: 
 		- relax
 		- take a rest
-- **Some stools** are being wiped down
+- **Some stools** (3) are being wiped down
 	- Một vài cái ghế đẩu đang được lau sạch
 	- relates:
 		- chair
@@ -63,7 +63,7 @@ tags:
 - We're fully funded **through** the end of the year
 	- Chúng ta đã được cấp vốn đầy đủ đến cuối năm
 	- Through ở đây có thể thay thế **to** không ?
--  annual checkup
+- annual checkup
 	- Chăm sóc sức khoẻ hàng năm
 - supply closet
 	- Tủ cung cấp đồ
@@ -126,7 +126,7 @@ tags:
 		- taste
 		- essence
 	- perfume (n)
-- **debrief** (v) (2)
+- **debrief** (v) (3)
 	- Hỏi, thẩm vấn, phỏng vấn
 	- synonyms
 		- interview
@@ -136,12 +136,12 @@ tags:
 	- Lấy ra
 	- synonyms:
 		- take out
-- conserve (v)
+- **conserve** (v) (3)
 	- Bảo tồn
 	-  to keep and protect something from damage, change, or waste
-- carbon footprint
+- **carbon footprint**
 	- Khí thải carbon
-- p**arade** (n) (2)
+- p**arade** (n) (3)
 	- Buổi diễu hành
 	- synonyms
 		- walk
