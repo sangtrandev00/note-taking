@@ -1,4 +1,4 @@
-Thật may mắn về đề Test 5 ngày mình đã được đúng chỉ tiêu đề ra về Toeic. Overall tổng cộng là 825 -> 840 với 85 câu RC và 78 câu LC. Hi vọng lúc thi mình vẫn giữ được phong độ này. Bây giờ là lúc sửa đề TOEIC thôi nào. Let's go!
+gitThật may mắn về đề Test 5 ngày mình đã được đúng chỉ tiêu đề ra về Toeic. Overall tổng cộng là 825 -> 840 với 85 câu RC và 78 câu LC. Hi vọng lúc thi mình vẫn giữ được phong độ này. Bây giờ là lúc sửa đề TOEIC thôi nào. Let's go!
 ## Ngữ pháp
 
 ### Mệnh đề quan hệ rút gọn

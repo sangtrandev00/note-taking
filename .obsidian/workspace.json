@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "1f5625e2b04f1602",
+        "id": "e19d42316c353c74",
         "type": "tabs",
         "children": [
           {
-            "id": "3cfc99cf637e16c8",
+            "id": "95d62d64eb72c76b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề LC Part 1,2,3,4.md",
+                "file": "Evergreen/concept-base/english/toeic/test/Test 2 ETS 2022 - Chữa đề RC (Part 5,6).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 5 ETS 2024 - Chữa đề LC Part 1,2,3,4"
+              "title": "Test 2 ETS 2022 - Chữa đề RC (Part 5,6)"
+            }
+          },
+          {
+            "id": "a03b5b9a08c4ff56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/english/toeic/grammar/Sự khác biệt giữa among và between là gì ?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sự khác biệt giữa among và between là gì ?"
+            }
+          },
+          {
+            "id": "0c05dcf2dba6411f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/english/toeic/vocab/Ôn tập từ vựng ngày 24-11-2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ôn tập từ vựng ngày 24-11-2024"
+            }
+          },
+          {
+            "id": "56b287a93ba9e51d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/english/toeic/grammar/Phân biệt within trong bài thi TOEIC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phân biệt within trong bài thi TOEIC"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 200
   },
   "right": {
     "id": "598567424d2350c6",
@@ -139,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề LC Part 1,2,3,4.md"
+                "file": "Evergreen/concept-base/english/toeic/vocab/Ôn tập từ vựng ngày 24-11-2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test 5 ETS 2024 - Chữa đề LC Part 1,2,3,4"
+              "title": "Outline of Ôn tập từ vựng ngày 24-11-2024"
             }
           },
           {
@@ -250,37 +293,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1934d5c844c19203",
+  "active": "0c05dcf2dba6411f",
   "lastOpenFiles": [
+    "Evergreen/concept-base/english/toeic/test/Test 3 ETS 2022 - Chữa đề RC Part 5,6,7.md",
+    "Evergreen/concept-base/english/toeic/grammar/Phân biệt within trong bài thi TOEIC.md",
+    "Evergreen/concept-base/english/toeic/grammar/Sự khác biệt giữa among và between là gì ?.md",
+    "Evergreen/concept-base/english/toeic/test/Test 2 ETS 2022 - Chữa đề RC (Part 5,6).md",
+    "Evergreen/concept-base/english/toeic/grammar/Phân biệt both of, neither of, either of.md",
+    "Evergreen/concept-base/technical/git/Làm sao để up file lên github khi vượt quá max.md",
+    "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2022 - Chữa đề RC Part 5,6,7.md",
+    "Untitled.canvas",
+    "[.md",
+    "Evergreen/concept-base/technical/git/Git fetch khác gì với git pull ? Khi nào thì dùng git fetch.md",
+    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề RC Part 5,6,7.md",
+    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6.md",
+    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề Part 7.md",
+    "Notion/Study English/TOEIC/TOEIC.md",
+    "Chiến lược nghe Part 4.md",
+    "Notion/Study Technical Skills/Docker/Docker Tutorial/11 Docker Compose (Xem lại).md",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn tập từ vựng ngày 24-11-2024.md",
+    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề LC Part 1,2,3,4.md",
     "Evergreen/concept-base/english/toeic/test/Test 8 RC - Chữa đề ETS 2024 - Part 5,6,7.md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
     "Evergreen/concept-base/english/toeic/test/Test 6 Grammar.md",
-    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề RC Part 5,6,7.md",
-    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề LC Part 1,2,3,4.md",
-    "Evergreen/concept-base/english/toeic/test/Test 2 ETS 2022 - Chữa đề RC (Part 5,6).md",
     "Evergreen/concept-base/technical/algorithm/Upload to test format code with obsidian.md",
-    "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2023 - Chữa đề RC Part 5,6,7.md",
-    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6.md",
     "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề LC Toeic Part 1,2,3,4..md",
-    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề Part 7.md",
     "Evergreen/concept-base/english/toeic/test/Test 9 ETS 2024 LC - Chữa đề Listening.md",
     "Evergreen/concept-base/english/toeic/test/Test 9 ETS 2024 - Chữa đề ETS Test 9 RC.md",
-    "Untitled.canvas",
-    "template.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 15-11-2024.md",
-    "MyBlog/Ideas/Học Cao Đẳng như mình thì làm sao tạo ra lợi thế cạnh tranh ?.md",
-    "Evergreen/optional-base/technical/Chế độ mặc định transaction trong nestjs là thằng đầu tiên ?.md",
-    "Notion/FPT Polytechnic/Thực tập tốt nghiệp.md",
-    "Notion/Issue thường gặp/Issue thường gặp.md",
-    "Evergreen/concept-base/technical/experience/issues/BA là core của dự án, Tại sao mọi nghiệp vụ phải đều qua tay BA ?.md",
     "Evergreen/concept-base/technical/devops/ci-cd",
-    "Evergreen/concept-base/english/vocab.md",
     "Evergreen/concept-base/english/vocab",
-    "Evergreen/concept-base/technical/experience/issues/Làm sao giải quyết các vấn đề tồn đọng ? Người cũ đi, người mới ở lại gồng gánh.md",
     "Evergreen/concept-base/technical/experience/apetechs-company/ntsc",
     "Evergreen/concept-base/technical/experience/apetechs-company/quoc-thinh",
     "Evergreen/concept-base/technical/experience/apetechs-company/pms",
