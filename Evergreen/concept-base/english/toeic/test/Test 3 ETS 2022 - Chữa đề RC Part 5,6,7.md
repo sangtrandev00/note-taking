@@ -1,3 +1,13 @@
+---
+profileName: sangtrandev00
+postId: 3184
+postType: post
+categories:
+  - 39
+tags:
+  - "#english"
+  - "#toeic"
+---
 Với đề ngày mình đã đạt mục tiêu thực hành đạt >800+ TOEIC ETS 2022 (Cụ thể 825 -> 840) với 85LC + 78RC. Tuy nhiên vẫn có các câu đánh lụi khá may mắn ở phần Reading part 7. Phần Part 7 mình đã lụi khá nhiều vì tốn thời gian cho các câu đầu. Cảm thấy thực sự chưa hài lòng lắm. Tuy nhiên đây là cơ hội 1 tuần trước kì thi để chuẩn bị thật kỹ lưỡng hơn.
 
 ## Ngữ pháp
@@ -155,7 +165,87 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 	- Xây dựng lịch trình
 - Furnish (v)
 	- Trang bị nội thất
-
+- a thriving community (n)
+	- Cộng đồng lớn mạnh
+	- thành công
+	- synonyms
+		- rise
+		- increase
+		- progress
+		- boom
+		- develop
+- venture into (v)
+	- Mạo hiểm vào
+	- synonyms:
+		- go
+		- travel
+		- journey
+- Enthusiast (n)
+	- Người say mê
+- Housewarming (n)
+	- Tân gia
+- expedited shipping (n)
+	- Giao hàng khẩn cấp, nhanh
+- Grill (n)
+	- Vĩ nướng
+- Kettle (n)
+	- Cái ấm
+- Grater (n)
+	- cái nạo, cái đồ bào
+- Countertop Electric Grill (n)
+	- Bàn nướng điện
+- Egg Beater (n)
+	- Máy đánh trứng
+- Tea kettle
+	- Ấm trà
+- Toaster
+	- Máy nướng bánh
+- Cheese Grater (n)
+	- Bào phô mai
+- boarding pass (n)
+	- Vé máy bay
+- Round-trip flight (n)
+	- Chuyến bay khứ hồi
+- Base fare  (n)
+	- Giá vé cơ bản
+- Fiscal year (n)
+	- Năm tài chính
+- Checked bag (n)
+	- Hành lý kí gửi
+- are entitled to 
+	- Được quyền, được cho phép
+	- synonyms:
+		- Have the right to
+		- Are permitted to
+		- Are eligible for
+- rollout (n)
+	- Sự triển khai
+- Affordability (n)
+	- Khả năng mua
+- Overwhelmingly (adv)
+	- Ấp đảo
+- planner (n)
+	- Nhà quy hoặc
+- Corporative
+	- Hợp tác
+	- adj
+- Shingle (n)
+	- Mái nhà, mái lợp
+- Shingle roof
+	- Nhà mái lợp
+- Dental Hygienist (n)
+	- Chuyên gia vệ sinh răng miệng
+- Newcomer (n)
+	- Người mới đến
+- disposal (n)
+	- Việc tiêu huỷ
+- fabricate (v)
+	- Chế tạo
+	- synonyms:
+		- make up
+		- build
+		- make
+		- create
 ## Lưu ý
 
 - Vấn đề tập trung và sức khoẻ cũng là yếu tố tiên quyết trong kỳ thi sắp tới. Cho nên mình phải rèn lại thói quen ngủ sớm hơn 12h và luyện tập thể dục điều độ hơn một chút, không thì đầu óc không tỉnh táo và thiếu tí thông minh
