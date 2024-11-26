@@ -196,23 +196,27 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 	- Vĩ nướng
 - **Kettle** (n)
 	- Cái ấm
+	- relates:
+		- household
 - **Grater** (n)
 	- cái nạo, cái đồ bào
-- Countertop Electric Grill (n)
+		- relates:
+			- kitchen
+- Countertop **Electric Grill** (n)
 	- Bàn nướng điện
 - Egg **Beater** (n)
 	- Máy đánh trứng
 - Tea kettle
 	- Ấm trà
-- **Toaster**
+- **Toaster** (2)
 	- Máy nướng bánh
-- Cheese **Grater** (n)
+- Cheese **Grater** (n) (2)
 	- Bào phô mai
 - boarding pass (n)
 	- Vé máy bay
 - Round-trip flight (n)
 	- Chuyến bay khứ hồi
-- Base fare  (n)
+- **Base fare** (2)  (n)
 	- Giá vé cơ bản
 - Fiscal year (n)
 	- Năm tài chính
@@ -239,12 +243,15 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 	- Mái nhà, mái lợp
 - Shingle roof
 	- Nhà mái lợp
-- Dental **Hygienist** (n)
+- Dental **Hygienist**  (2) (n)
 	- Chuyên gia vệ sinh răng miệng
 - Newcomer (n)
 	- Người mới đến
 - disposal (n)
 	- Việc tiêu huỷ
+	- synonyms:
+		- destroy
+		- throw out
 - **fabricate** (v)
 	- Chế tạo
 	- synonyms:
@@ -252,6 +259,8 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 		- build
 		- make
 		- create
+	- relates:
+		- factory (n)
 ## Lưu ý
 
 - Vấn đề tập trung và sức khoẻ cũng là yếu tố tiên quyết trong kỳ thi sắp tới. Cho nên mình phải rèn lại thói quen ngủ sớm hơn 12h và luyện tập thể dục điều độ hơn một chút, không thì đầu óc không tỉnh táo và thiếu tí thông minh

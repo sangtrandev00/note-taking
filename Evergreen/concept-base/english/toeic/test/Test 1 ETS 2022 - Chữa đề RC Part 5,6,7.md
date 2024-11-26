@@ -20,24 +20,32 @@ categories:
 - unless
 	- Trừ khi
 	- if not
-- **fine lines** (2) (n)
+- **fine lines** (3) (n)
 	- Đường nhăn
+	- relates:
+		- fabric
 - wrinkle (n)
 	- Nếp nhăn
-- arise (v)
+- **arise** (v)
 	- Phát sinh, xảy ra
-- **Precipitation** (2) (n)
+- **Precipitation** (3) (n)
 	- Lượng mưa
+	- relates
+		- raining
+		- forecast
+		- weather
 - establish **explicit** policy (n) (2)
 	- Xây dựng các chính sách cụ thể
 	- explicit (adj)
 		- Rõ ràng, chính xác
--  When __ applied, Tilda’s **Restorative Cream** reduces the appearance of fine lines and wrinkles.
-	- consistently
+-  When __ applied, Tilda’s **Restorative Cream** reduces the appearance of **fine lines** and wrinkles.
+	- **consistently**
 	- Khi áp dụng một cách nhất quán
 - Restoration
 	- Sự phục hồi
-- Now that
+	- wordform:
+		- restore (v)
+- **Now that**
 	- Giờ đây
 	- Example:
 		- .__ Peura Insurance has located a larger office space, it will begin negotiating the rental agreement.
@@ -49,13 +57,19 @@ categories:
 	- Một cách chăm chỉ, tinh tấn
 	- synonyms:
 		- word hard
-- **Lucrative** (2) (adj)
+- **Lucrative** (3) (adj)
 	- Béo bở
 	- producing a lot of money
+	- remind ?
+		- fat
+		- big guy
 - **crafted** (2)
 	- Chế tác
 	- beautifull crafted: 
 		- Chết tác tuyệt vời
+	- remind ?
+		- sketch (n)
+		- figma (n)
 - Attempt (v)
 	- Cố gắng
 	- synonyms
@@ -81,9 +95,11 @@ categories:
 	- Sự điều trị
 - retreat (n)
 	- Về ở ẩn, rút luôi, nghỉ ngơi
-- event (n)
+	- relates:
+- **event** (n)
 	- Sự kiện
-	- Refers to a planned occurrence, such as a class, workshop, or demonstration. It implies a structured activity with a specific purpose
+	- Refers to a planned occurrence, such as a class, workshop, or demonstration. It implies a structured **activity with a specific purpose**
+	- Question ?: Làm thế nào phân biệt giữa sự kiện và trip
 - Trip (n)
 	- Chuyến đi
 	- Refers to a journey or visit to a place. It doesn't necessarily imply a specific activity or engagement
@@ -104,14 +120,14 @@ categories:
 - **headset** (2) (n)
 	- Tai nghe
 	- headphone (n)
-- **well attended** (2) (n)
+- **well attended** (3) (n)
 	- Được tham dự với số lượng đông
 - Monorail (n)
 	- Đường ray
-- **Be slated** (2): 
+- **Be slated** (3): 
 	- Được dự kiên
 	- to be expected to happen
-- A cargo-handling company
+- **A cargo-handling company**
 	- Công ty cung cấp dịch vụ hàng hoá
 -  rain or shine (n)
 	- Kể cả trời mưa hay nắng
@@ -127,12 +143,16 @@ categories:
 	- Đáng được kính trọng
 	- synonyms:
 		- successful
+		- famous
+		- famed
+		- renowed
+		- well known
 - **alumni**  (2) (n)
 	- Cựu sinh viên
 	- synonyms:
 		- old student
 		- postgraduate
-- **undergone** (2)
+- **undergone** (3)
 	- go through
 	- Qua
 	- Example:
@@ -148,39 +168,52 @@ categories:
 		- complicated (adj)
 - **vocational** school (2) (n)
 	- Trường dạy nghề
-- **Array of disciplines** (2) (n)
+- **Array of disciplines** (3) (n)
 	- Đa dạng lĩnh vực
 	- relates:
 		- many fields
 		- various
 		- diverse
+	- synonyms:
+		- various sectors
+		- various fields
 - reporter (n)
 	- Phóng viên
 - **well-rounded** (2) (adj)
 	- Toàn diện
 	- synonyms:
 		- comprehensive
+		- excellent
 - **calming noise machine** (2) (n)
 	- Máy móc rất ít tiếng ồn
-- **cubicles** (n) (2)
+- **cubicles** (n) (3)
 	- Chỗ làm việc
 	- workspace
-- **respite** (n) (2)
+- **respite** (n) (3)
 	- Sự nghỉ ngơi
 - **double-glazed** window (n)
 	- Cửa kính 2 lớp
-- **blinds** (n) (2)
+- **blinds** (n) (3)
 	- Rèm cửa
+	- relates:
+		- window
 - **glare** (n) (2)
 	- Sự chói mắt
+	- synonyms
+		- strong light
+		- shine
 - Editor (n)
 	- Người chịu trách nhiệm cho tạp chí, bài báo
-- **on-the-move employees** (2) (n)
+- **on-the-move employees** (3) (n)
 	- Những nhân viên chuẩn bị di chuyển
 - **portable reading lamp** (n)
 	- Đèn có thể tháo dời
 - conclude 
 	- kết thúc
+	- synonyms:
+		- end
+		- finish
+		- complete
 - **Double-decker** bus (2) (n)
 	- Xe buýt 2 tầng
 - packable (adj)
