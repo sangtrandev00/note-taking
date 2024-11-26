@@ -83,10 +83,10 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 	- Một thợ xây mới
 - neither of
 	- Không cái này cái kia
-	- Danh từ số nhiều
+	- + Danh từ số nhiều
 	- Example:
 		- of the two candidates for the position had the necessary qualifications
-- Pool (v)
+- **Pool** (v)
 	- Thu tiền
 	- synonyms
 		- collect (v)
@@ -94,7 +94,7 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 	- Nhân viên phục vụ
 - two **emerging** data companies (n)
 	- Hai dữ liệu của công ty đang nổi lên
-- Conservative (adj)
+- **Conservative**  (1) (adj)
 	- Thận trọng
 	- conservatively (adv)
 		- Một cách thận trọng
@@ -103,9 +103,9 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 		- 
 - controversial (adj)
 	- Gây tranh cãi
-- conventional (adj)
+- **conventional** (adj)
 	- theo hiệp ước, theo thoả thuận
-- Expenditure (n)
+- **Expenditure** (n)
 	- Sự tiêu dùng
 	- synonyms:
 		- spending
@@ -122,7 +122,7 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 	- official (adj)
 	- legal
 	- validated
-- factual (adj)
+- **factual** (adj)
 	- Thực tế
 	- synonyms:
 		- accurate
@@ -132,7 +132,8 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 	- Có tính quy định
 	- adj
 	- word form 
-		- regulate
+		- regulate (v)
+		- regulator (n)
 - regulator (n)
 	- Máy điều chỉnh
 	- Người làm việc có quy tắc
@@ -140,7 +141,7 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 	- Lựa chọn mua cổ phiếu
 - administrator (n)
 	- Nhân viên hành chính
-- **fiscal management** (n)
+- **fiscal management** (2) (n)
 	- Điều hành ngân sách
 - the nonprofit sector (n)
 	- Mảng phi lợi nhuận
@@ -156,9 +157,14 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 - oversee (v)
 	- Giám sát
 	- synonyms:
-- itineraries (n)
+- **itineraries** (n)
 	- Lịch trình
 	- /aɪˈtɪnərərɪ/
+	- synonyms:
+		- schedule
+		- journey
+		- guidebook
+		- path
 - craft (v)
 	- Xây dựng, phát thảo
 - craft itineraries (n)
@@ -174,7 +180,7 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 		- progress
 		- boom
 		- develop
-- venture into (v)
+- **venture** into (v)
 	- Mạo hiểm vào
 	- synonyms:
 		- go
@@ -188,19 +194,19 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 	- Giao hàng khẩn cấp, nhanh
 - Grill (n)
 	- Vĩ nướng
-- Kettle (n)
+- **Kettle** (n)
 	- Cái ấm
-- Grater (n)
+- **Grater** (n)
 	- cái nạo, cái đồ bào
 - Countertop Electric Grill (n)
 	- Bàn nướng điện
-- Egg Beater (n)
+- Egg **Beater** (n)
 	- Máy đánh trứng
 - Tea kettle
 	- Ấm trà
-- Toaster
+- **Toaster**
 	- Máy nướng bánh
-- Cheese Grater (n)
+- Cheese **Grater** (n)
 	- Bào phô mai
 - boarding pass (n)
 	- Vé máy bay
@@ -218,28 +224,28 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 		- Have the right to
 		- Are permitted to
 		- Are eligible for
-- rollout (n)
+- **rollout** (n)
 	- Sự triển khai
 - Affordability (n)
 	- Khả năng mua
-- Overwhelmingly (adv)
+- **Overwhelmingly** (adv)
 	- Ấp đảo
 - planner (n)
 	- Nhà quy hoặc
-- Corporative
+- **Corporative**
 	- Hợp tác
 	- adj
 - Shingle (n)
 	- Mái nhà, mái lợp
 - Shingle roof
 	- Nhà mái lợp
-- Dental Hygienist (n)
+- Dental **Hygienist** (n)
 	- Chuyên gia vệ sinh răng miệng
 - Newcomer (n)
 	- Người mới đến
 - disposal (n)
 	- Việc tiêu huỷ
-- fabricate (v)
+- **fabricate** (v)
 	- Chế tạo
 	- synonyms:
 		- make up
