@@ -12,40 +12,69 @@ tags:
 
 - office complex
 	- Khu phức hợp văn phòng
+	- includes
+		- clinic
+		- department
 - physical Therapy Associates 
 	- Hiệp hội vật lý trị liệu
 - No Trespassing
 	- Không xâm phạm
 - No soliciting
-	- Không mời
+	- Không mời, không nài nỉ, van xin
+	- synonyms:
+		- beg
+		- request
+		- ask for
 - **Office Park**
 	- Khu văn phòng
-- internist (n)
+	- relates:
+		- office complex
+- **internist** (n)
 	- Bác sĩ nội khoa
+	- relates:
+		- doctor
+		- dentist
+	- remind ?
+		- Răng của mình bị đau
+		- Mình bị nhổ răng
 - pharmaceutical (n)
 	- Dược phẩm
 - revised menu (n)
 	- Thực đơn đã được sửa đổi
-- **back cover** (n)
+- **back cover** (n) (2)
 	- Bìa sau
-- Booksellers (n)
-	- Nhà sách
-- flourish in (v)
+	- relates:
+		- handcover (n)
+			- Bìa cứng
+- **Booksellers** (n)
+	- Nhà sách, người bán sách
+	- synonyms:
+		- book store (n)
+			- Nhà sách
+- **flourish in** (v) (2)
 	- Phát triển
+	- synonyms:
+		- develop
+		- grow
+		- thrive
 - **fast-paced** and **demanding** work environment (n)
 	- Tôi phát triển trong một môi trường làm việc có nhịp độ nhanh và khắt khe
 - tend (v)
 	- Có xu hướng, thường
 - Sales associate (n)
 	- Cộng tác viên bán hàng
+	- relates:
+		- part time job
 - drive up (v) 
 	- Đến trực tiếp, lái xe
 - automotive needs (n)
 	- Những nhu cầu liên quan đến xe hơi
 - routine inspections (n)
 	- Kiểm tra định kỳ
--  building demolition (n)
+-  building **demolition** (n)
 	- Phá dỡ toà nhà
+	- synonyms:
+		- building destruction
 - demolish the lighthouse (v)
 	- Phá bỏ ngọn hải đăng
 	- synonyms:
@@ -61,14 +90,18 @@ tags:
 	- Công nhân
 	- synonyms:
 		- worker
-- valances (n)
+- **valances** (n)
 	- rèm trang trí, phần phụ của rèm cửa
 	- relates:
 		- window
-- drapes (n)
+- **drapes** (n)
 	- Rèm của, mành cửa
-- shades (n)
+	- relates:
+		- window
+- **shades** (n)
 	- Rèm
+	- relates:
+		- window
 - dedicated (adj)
 	- Tận tuỵ
 - a **novice** supervisor (n)
@@ -83,24 +116,24 @@ tags:
 	- kế hoạch truyền thông
 - webinar (n)
 	- Hội thảo trực tuyến
-- toiletries (n)
+- **toiletries** (n)
 	- Đồ vệ sinh
 	- relates:
 		- soap
 		- shampoo
-- flavor purchases (n)
+- **flavor purchases** (n)
 	- Vị kem được mua
-- cone (n)
+- **cone** (n)
 	- Cái cốc, cái hủ
-- service the kiosks (n)
+- **service** the **kiosks** (n)
 	- Phục vụ các ki-ốt
 - bus line (n)
 	- Tuyến xe buýt
 - self-service checkout kiosk (n)
 	- Trạm thanh toán tự phục vụ
-- formal written agreement (n)
+- formal written **agreement** (n)
 	- Thoả thuận văn bản chính thức
-- pastries (n)
+- **pastries** (n)
 	- Bánh ngọt
 	- relates:
 		- bakery
@@ -109,8 +142,14 @@ tags:
 	- Cửa hàng vật liệu xây dựng
 - **respondents** (n)
 	- Người tham gia khảo sát
-- **customer engagement** (n)
+	- synonyms:
+		- interviewee
+		- replier
+		- witness
+- **customer engagement** (n) (2)
 	- Sự tương tác với khách hàng
+	- synonyms:
+		- customer interaction
 - **venture capital** (n)
 	- Vốn đầu tư mạo hiểm
 - keynote speaker (n)

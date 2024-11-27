@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2022 - Chữa đề RC Part 5,6,7.md",
+                "file": "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 1 ETS 2022 - Chữa đề RC Part 5,6,7"
+              "title": "Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6"
             }
           }
         ],
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 243.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2022 - Chữa đề RC Part 5,6,7.md"
+                "file": "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test 1 ETS 2022 - Chữa đề RC Part 5,6,7"
+              "title": "Outline of Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6"
             }
           },
           {
@@ -253,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545.5
+    "width": 531.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,14 +279,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56b287a93ba9e51d",
+  "active": "2be1e09d7d73aefd",
   "lastOpenFiles": [
     "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề Part 7.md",
-    "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2022 - Chữa đề RC Part 5,6,7.md",
+    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6.md",
+    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề LC Toeic Part 1,2,3,4..md",
+    "Evergreen/concept-base/english/toeic/test/Test 3 ETS 2022 - Chữa đề RC Part 5,6,7.md",
     "Evergreen/concept-base/english/toeic/test/Test 2 ETS 2022 - Chữa đề RC (Part 5,6).md",
+    "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2022 - Chữa đề RC Part 5,6,7.md",
     "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2022 - Chữa đề LC Part 1,2,3,4.md",
     "Evergreen/concept-base/english/toeic/test/Test 3 ETS 2022 - Sửa đề LC Part 1,2,3,4.md",
-    "Evergreen/concept-base/english/toeic/test/Test 3 ETS 2022 - Chữa đề RC Part 5,6,7.md",
     "Evergreen/concept-base/english/toeic/grammar/Sự khác biệt giữa among và between là gì ?.md",
     "Evergreen/concept-base/english/toeic/grammar/Phân biệt within trong bài thi TOEIC.md",
     "Evergreen/concept-base/english/toeic/test/Test 6 Grammar.md",
@@ -298,7 +300,6 @@
     "[.md",
     "Evergreen/concept-base/technical/git/Git fetch khác gì với git pull ? Khi nào thì dùng git fetch.md",
     "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề RC Part 5,6,7.md",
-    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6.md",
     "Notion/Study English/TOEIC/TOEIC.md",
     "Chiến lược nghe Part 4.md",
     "Notion/Study Technical Skills/Docker/Docker Tutorial/11 Docker Compose (Xem lại).md",
@@ -307,7 +308,6 @@
     "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
     "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
-    "Evergreen/concept-base/technical/algorithm/Upload to test format code with obsidian.md",
     "Evergreen/concept-base/technical/devops/ci-cd",
     "Evergreen/concept-base/english/vocab",
     "Evergreen/concept-base/technical/experience/apetechs-company/ntsc",

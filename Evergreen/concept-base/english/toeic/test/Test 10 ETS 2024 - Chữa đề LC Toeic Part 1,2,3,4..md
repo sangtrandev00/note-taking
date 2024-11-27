@@ -26,12 +26,16 @@ categories:
 	- Người phụ nữ muốn tặng gì cho người tham dự hội nghị ?
 - pass out (v)
 	- Phát ra, truyền ra
+	- synonyms
+		- deliver
 - seaport (n)
 	- Thị trấn, cảng biển
 - traffic volume (n)
 	- Lưu lượng giao thông
 - A safety barricade (n)
 	- Một rào chắn an toàn
+	- synonyms:
+		- barrier
 - **Park rangers** (1) (n)
 	- Kiểm lâm viên
 - Government officials (n)
@@ -44,7 +48,7 @@ categories:
 		- entertainment (n)
 - lawmaker (n)
 	- Người làm luật, nhà lập pháp
-- **aside from** (3)
+- **aside from** (4)
 	- Ngoài ra
 	- synonyms
 		- on the other hand
@@ -58,7 +62,7 @@ categories:
 	- Một triển lãm bảo tàng
 - **booth** (1) (n)
 	- Gian hàng
-- raffle (n)
+- **raffle** (2) (n)
 	- Cào trúng thưởng, xổ số
 - mowers and tractors (n)
 	- Máy cắt cỏ và máy kéo
@@ -66,6 +70,10 @@ categories:
 	- Tay lái
 - Otherwise
 	- Nếu không thì
+	- synonyms:
+		- or else
+		- if not
+		- or
 - padded (adj)
 	- Có tấm đệm
 - padded straps
