@@ -25,7 +25,7 @@ tags:
 	- Các lớp học bằng cách sử dụng phần mềm xếp lịch nhân viên mới sẽ bắt đầu vào tháng 12
 - Dental Hygienist (n)
 	- Chuyên gia vệ sinh răng miệng
-- **A panel of**
+- **A panel of** (2)
 	- Một hội đồng
 	- Example: A __ of four dental hygienists spoke about careers in their field
 		- 1 hội đồng gồm 4 chuyên gia vệ sinh răng miệng đã nói về sự nghiệp trong lĩnh vực của họ
@@ -36,7 +36,7 @@ tags:
 	- Da
 	- relates:
 		- clothing
-- aerial (adj)
+- **aerial** (2) (adj)
 	- Trên không
 	- relates:
 		- air
@@ -44,8 +44,9 @@ tags:
 		- Buổi hội thảo về nhiếp ảnh gia trên không
 - town square (n)
 	- Quảng trường
-- Patent (n)
+- **Patent** (n)
 	- Bằng sáng chế
+	- Example: A patent invention is protected by law
 	- synonyms:
 		- copyright (n)
 			- Bảng quyền
@@ -55,7 +56,7 @@ tags:
 		- license
 - Office supplies (n)
 	- Đồ dùng văn phòng
-- excessive (adj)
+- **excessive** (adj)
 	- Quá mức, dư thừa
 	- synonyms:
 		- a bit much
@@ -81,7 +82,7 @@ tags:
 	- Bí ngô
 	- relates:
 		- vegetable
-- Burst (v)
+- **Burst** (v)
 	- Bị vỡ, bể, nổ
 	- Example:  when a pipe **burst** in the kitchen
 	- synonyms:
@@ -107,11 +108,11 @@ tags:
 		- The disease spread quickly _among_ the members of the community
 		- The house is nestled _among_ the trees.
 	- Meaning: in or through (a group of people or things)
-- crane operation (n)
+- **crane** operation (2) (n)
 	- Những người vận hành trục, cần cẩu, cẩu công
 	- example:
 		- **crane operators** must check that all moving parts of the machine are fastened securely before use
-- harsh condition
+- **harsh** condition
 	- Điều kiện khắc nghiệt
 	- synonyms:
 		- cruel (ạdj)
@@ -151,7 +152,7 @@ tags:
 	- Nghiên cứu cây cảnh
 	- relates:
 		- plant
-- varietals (n)
+- **varietals** (n)
 	- Giống cây
 	- relates:
 		- tree
@@ -160,14 +161,19 @@ tags:
 	- relates:
 		- hot
 	- Example: Gardeners in desert regions  (n)
-		- Những người làm vườn trong khu vực xa mạc
+		- Những người làm vườn trong khu vực xa mạc'
+	- similar word:
+		- dessert
+			- Món tráng miệng
 - thrive in  (v)
 	- Phát triển
 	- synonyms:
 		- develop
 		- enhance
-- flavorful (adj)
+- **flavorful** (2) (adj)
 	- Có hương vị
+	- remind ?
+		- smell
 	- synnonyms:
 		- bitter
 		- strong
@@ -192,7 +198,7 @@ tags:
 	- cà chua đóng hộp
 - fresh-baked **muffins** (n)
 	- Bánh xốp mới nướng
-- muffins (n)
+- **muffins** (2) (n)
 	- Bánh nướng
 	- relates
 		- pancakge
@@ -205,10 +211,10 @@ tags:
 	- Bước vào lĩnh vực
 	- synonyms
 		- begin
-		- 
+		- start
 - open-air pedestrian mall (n)
 	- Trung tâm mua sắm ngoài trời
-- shipyard (n)
+- **shipyard** (n)
 	- bãi tàu
 	- relates
 		- container
@@ -230,7 +236,7 @@ tags:
 		- scripts
 		- editor
 		- author
-- Cap (v)
+- **Cap** (v) (2)
 	- Giới hạn
 	- Example: Classes are capped at ten students
 	- synonyms
@@ -245,7 +251,7 @@ tags:
 		- script
 		- scenario
 		- text
-- Foundation(n)
+- **Foundation**(n)
 	- Tổ chức
 	- synonyms:
 		- institution
@@ -257,21 +263,21 @@ tags:
 		- refristergrator
 		- mixer
 		- toaster
-- resolution (n)
+- **resolution** (n)
 	- Sự quyết định, sự giải quyết
 	- synonyms:
 		- resolve
 		- decision
 		- plan
-- Ceramic (n)
+- **Ceramic** (2) (n)
 	- Gốm
 	- relates:
-		- building material
-- porcelain (n)
+		- building material 
+- **porcelain**  (2(n)
 	- Sứ
 	- relates
 		- building material
-- stone tile (n)
+- **stone tile** (n)
 	- Gạch ngói bằng đá
 	- relates:
 		- building materla
@@ -279,6 +285,11 @@ tags:
 	- Thông thạo 2 ngôn ngữ
 - polyglot (n)
 	- Thông thạo nhiều ngôn ngữ người
+	- rootword
+		- glot (n)
+			- Cái lưỡi
+		- poly
+			- Nhiều
 - Significant (adj)
 	- Đáng kể
 	- synonyms:
@@ -288,7 +299,7 @@ tags:
 	- Bắt đầu
 	- start
 	- begin
--  a **potluck** lunch (n)
+-  a **potluck** lunch (n) (2)
 	- Một buổi tụ họp ăn trưa vào buổi chiều
 	- retales:
 		- crowded
@@ -296,15 +307,20 @@ tags:
 			- Bữa tiệc
 - all genres (n)
 	- Tất cả các thể loại
-- Deface (v)
+- **De**face (v)
 	- hỏng
 	- relates:
 		- book
-- torn (v)
+	- rootword
+		- defective
+		- destructive
+		- destroy
+		- defend
+- **torn** (v) (2)
 	- Xé rách
 	- relates:
 		- book
-- It could not have been better (n)
+- It **could not have been** better (n)
 	- Nó không thể nào tốt hơn
 	- câu hỏi:
 		- Làm sao có thể dịch được các câu tương tự
@@ -319,7 +335,7 @@ tags:
 	- synonyms
 		- abroad to work
 		- business stay
-- back out (v)
+- **back out** (v)
 	- Rút lui
 - lease (v)
 	- Thuê

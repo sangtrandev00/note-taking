@@ -117,15 +117,15 @@ tags:
 		- redirect (v)
 		- reroute (v)
 		- transsfer (v)
-- **lumber (2)** (n)
+- **lumber (3)** (n)
 	- Gỗ xẻ
 	- relates:
 		- wooden
-- **plywood** (2)
+- **plywood** (3)
 	- Gỗ ván
 	- relates
 		- wooden
-- **fiberboard** (2)
+- **fiberboard** (3)
 	- Tấm sợi
 	- **wood product**
 - **Appliance** (n)
@@ -139,11 +139,12 @@ tags:
 		- rice cooker
 		- stove
 		- clothes dryer
-- **Scrap** (n)
+- **Scrap** (3) (n)
 	- Sắt vụng
 	- relates
 		- diposal
 		- garbage
+		- steel
 - **Dumpster** (n)
 	- Thùng rác lớn
 	- relates:
@@ -154,7 +155,7 @@ tags:
 	- Độ dài
 - drinks and treats (n)
 	- Đồ uống và đồ ăn nhẹ
-- **heads-up** (n)
+- **heads-up**  (3) (n)
 	- Lời nhắc nhỏ
 - questionnaire (n)
 	- Bảng câu hỏi

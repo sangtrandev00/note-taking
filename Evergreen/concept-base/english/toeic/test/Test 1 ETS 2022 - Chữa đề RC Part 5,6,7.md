@@ -28,7 +28,7 @@ categories:
 	- Nếp nhăn
 - **arise** (v)
 	- Phát sinh, xảy ra
-- **Precipitation** (3) (n)
+- **Precipitation** (4) (n)
 	- Lượng mưa
 	- relates
 		- raining
@@ -57,13 +57,13 @@ categories:
 	- Một cách chăm chỉ, tinh tấn
 	- synonyms:
 		- word hard
-- **Lucrative** (3) (adj)
+- **Lucrative** (4) (adj)
 	- Béo bở
 	- producing a lot of money
 	- remind ?
 		- fat
 		- big guy
-- **crafted** (2)
+- **crafted** (3)
 	- Chế tác
 	- beautifull crafted: 
 		- Chết tác tuyệt vời
@@ -124,7 +124,7 @@ categories:
 	- Được tham dự với số lượng đông
 - Monorail (n)
 	- Đường ray
-- **Be slated** (3): 
+- **Be slated** (4): 
 	- Được dự kiên
 	- to be expected to happen
 - **A cargo-handling company**
@@ -168,7 +168,7 @@ categories:
 		- complicated (adj)
 - **vocational** school (2) (n)
 	- Trường dạy nghề
-- **Array of disciplines** (3) (n)
+- **Array of disciplines** (4) (n)
 	- Đa dạng lĩnh vực
 	- relates:
 		- many fields
@@ -186,14 +186,17 @@ categories:
 		- excellent
 - **calming noise machine** (2) (n)
 	- Máy móc rất ít tiếng ồn
-- **cubicles** (n) (3)
+- **cubicles** (n) (4)
 	- Chỗ làm việc
 	- workspace
 - **respite** (n) (3)
 	- Sự nghỉ ngơi
+	- relates:
+		- relax
+		- rest
 - **double-glazed** window (n)
 	- Cửa kính 2 lớp
-- **blinds** (n) (3)
+- **blinds** (n) (4)
 	- Rèm cửa
 	- relates:
 		- window

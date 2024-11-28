@@ -200,7 +200,7 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 		- household
 - **Grater** (n)
 	- cái nạo, cái đồ bào
-		- relates:
+	- relates:
 			- kitchen
 - Countertop **Electric Grill** (n)
 	- Bàn nướng điện
@@ -210,7 +210,7 @@ Trường hợp ngoại lệ: Khi kết hợp với the next: during the next 3
 	- Ấm trà
 - **Toaster** (2)
 	- Máy nướng bánh
-- Cheese **Grater** (n) (2)
+- Cheese **Grater** (n) (3)
 	- Bào phô mai
 - boarding pass (n)
 	- Vé máy bay
