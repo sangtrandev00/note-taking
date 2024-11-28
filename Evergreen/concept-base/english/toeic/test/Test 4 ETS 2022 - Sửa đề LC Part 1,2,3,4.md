@@ -1,3 +1,10 @@
+---
+profileName: sangtrandev00
+postId: 3205
+postType: post
+categories:
+  - 39
+---
 Đề này mình nghe cũng khá ổn. Vẫn còn một số trục trặc khi nghe ở Part 2, và Part 3. Bây giờ chỉ có cách nghe lại và dùng kỹ thuật shadowing để luyện tai.
 
 ## Từ vựng
@@ -36,11 +43,83 @@
 		- evidently
 		- it seems (that)
 - a message board (n)
-	- 
+- popular time (n)
+	- synonyms:
+		- busy time
+	- Thời gian phổ biến
+- message board (n)
+	- Bảng thông báo
+- slab (n)
+	- Đá phiến
+	- relates:
+		- desgin
+		- interior design
+			- Thiết kế nội thất
+- granite (n)
+	- Đá granite
+	- relates:
+		- interior design
+- marble (n)
+	- Đá cẩm thạc
+	- relates:
+		- interior design
+- polish (v)
+	- Đánh bóng
+- mearsurement (n)
+	- Sự đo đạc
+- exterior bike rack (n)
+	- Giá đỡ xe đạp, bên ngoài
+	- ![Pasted image 20241128112050.png](https://trannhatsang.com/wp-content/uploads/2024/11/Pasted-image-20241128112050-1.png)
+- go biking in the moutain
+	- Chạy xe đạp
+	- ![Pasted image 20241128112247.png](https://trannhatsang.com/wp-content/uploads/2024/11/Pasted-image-20241128112247-1.png)
+- **Our grilled tuna dish** (n)
+	- Món cá ngừ nướng
+	- ![Pasted image 20241128113239.png](https://trannhatsang.com/wp-content/uploads/2024/11/Pasted-image-20241128113239-1.png)
+- divide up (v)
+	- Chia ra
+- help each other
+	- work together
+	- Giúp đỡ lẫn nhau
+- Worthwhile (adj)
+	- Xứng đáng
+	- synonyms:
+		- valuable
+		- worth it
+- worthwhile investment (n)
+	- Sự đầu tư xứng đáng
+- on behalf of the company
+	- Thay mặt cho công ty
+- ID badges (n)
+	- Thẻ nhận dạng
+- phone cases (n)
+	- Ốp điện thoại
+- infect (v)
+	- Lây nhiễm
+	- Example: become infected with a virus
+		- Bị lây nhiễm bởi virus
+- readership (n)
+	- Đọc giả, người đọc
+- undergone (v)
+	- Tiến hành, trải qua
+	- synonyms:
+		- go through
+		- experience (v)
+		- engage in
+		- undertake (v)
+- earplug (n)
+	- Tai nghe
+- major renovation (n)
+	- Một cuộc cải tạo lớn, chính thức
+- superstore (n)
+	- Siêu thị lớn
+- express lane (n)
+	- Làn nhanh
+
 ## Lưu ý
 
 
 ----
 ## Relates
 
-#toeic #english 
+#toeic #english
