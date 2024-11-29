@@ -16,8 +16,10 @@ tags:
 	- Con đường ngoài trời
 	- Example: She's **hiking on an outdoor path**
 		- Cô ấy đang đi bộ trên con đường ngoài trời
-- She's **walking out of a tunnel** 
+- She's **walking out of a tunnel** (2)
 	- Cô ấy bước ra khỏi đường hầm
+	- remind ?
+		- Cái hang
 - He's **plugging a cord** into a **wall outlet**
 	- Anh ấy cấm dây vào ổ cắm trên tường
 - He's **holding the handle of a shopping cart**
@@ -32,7 +34,7 @@ tags:
 	- Một vài cái chậu cây bị cắt tỉa
 - The usual one
 	- Một cái thông thường
-- To the assembly plant in Dublin 
+- To the **assembly plant** (2) in Dublin 
 	- Đến nhà máy lắp ráp ở Dublin
 	- Trả lời cho dạng câu hỏi nào ?
 		- Where ?
@@ -46,11 +48,19 @@ tags:
 	- Hãy nhìn vào tủ hồ sơ
 - The machines have been assembling them.
 	- Máy móc đang tập hợp chúng
-- different trailheads (n)
+- different **trailheads** (n)
 	- Đầu đường mòn khác nhau
-- solar lanterns (n)
+	- remind ?
+		- hiking
+		- trekking
+			- Leo núi
+- solar **lanterns** (n)
 	- Đèn lồng làm bằng năng lượng mặt trời
-- set aside 
+	- remind ?
+		- light
+		- renewerable energy
+			- Năng lượng mặt trời
+- **set aside** 
 	- Dành riêng
 	- Example: we'll set them aside for you
 - former owner (n)
@@ -59,22 +69,30 @@ tags:
 	- Lối đi bộ
 - visitor pass (n)
 	- Thẻ vào cửa cho khách tham quan
-- clear debris from the walkways 
+- clear **debris** from the walkways 
 	- Dọn sạch các mảnh vụn
+	- remind ?
+		- garbage
 - This is a little out of the ordinary
 	- Điều này thì khác thường một chút
-- haste (n)
+- **haste** (n)
 	- Sự vội vã, hấp tấp
+	- synonyms:
+		- hurry
+		- urge
+		- expedited
 - The lease agreement (n)
 	- Hợp đồng cho thuê
 - settled (adj)
 	- Ổn định, thoải mái
-- claim (v)
+- **claim** (v)
 	- nhận lấy
 	- Đồi bồi thường
 	- Tuyên bố
 - household belongings (n)
-	- Tài sản gia định
+	- Tài sản gia đình
+	- synonyms:
+		- asset
 
 ## Lưu ý
 

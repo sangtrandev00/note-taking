@@ -1,4 +1,4 @@
-gitThật may mắn về đề Test 5 ngày mình đã được đúng chỉ tiêu đề ra về Toeic. Overall tổng cộng là 825 -> 840 với 85 câu RC và 78 câu LC. Hi vọng lúc thi mình vẫn giữ được phong độ này. Bây giờ là lúc sửa đề TOEIC thôi nào. Let's go!
+Thật may mắn về đề Test 5 ngày mình đã được đúng chỉ tiêu đề ra về Toeic. Overall tổng cộng là 825 -> 840 với 85 câu LC và 78 câu RC. Hi vọng lúc thi mình vẫn giữ được phong độ này. Bây giờ là lúc sửa đề TOEIC thôi nào. Let's go!
 ## Ngữ pháp
 
 ### Mệnh đề quan hệ rút gọn
@@ -9,12 +9,11 @@ Ving (Hiện tại tiếp diễn)
 V3/ed (Quá khư đơn, Hiện tại hoàn thành)
 V0 (So sánh nhất, có từ bổ nghĩa first, second)
 Dùng trong những trường hợp nào
-## Tại sao lại có mệnh đề quan hệ rút gọn
+### Tại sao lại có mệnh đề quan hệ rút gọn
 Trong một câu đơn chỉ có một động từ được chia thì.
 
 Mỗi câu đơn chỉ có một **động từ chính**.  
 Nếu một câu có nhiều động từ chính thì đó là một câu ghép từ nhiều câu đơn lại với nhau.
-
 
 ## Từ vựng
 
@@ -23,7 +22,7 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 	- upon the time of the order
 - ever
 	- Đã từng
-- intentionally (adv)
+- **intentionally** (adv)
 	- Chủ tâm, định ý
 - multiple (adj)
 	- Nhiều
@@ -39,17 +38,19 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 	- Thực chất
 	- synonyms:
 		- in fact
-- debate over something (v)
+- **debate over** something (v)
 	- Tranh luận về vấn đề gì đó
-- imitative (adj)
+- **imitative**  (2) (adj)
 	- Mang tính bắt chước
 	- word form
 		- imitate (v)
 			- Bắt chước
 		- imitations (n)
 			- Sự bắt chước
-- trustee (n)
+- **trustee** (n)
 	- Người được uỷ thác
+	- synonyms:
+		- authorized people
 - issue (v)
 	- Cấp
 	- synonyms
@@ -58,20 +59,27 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 		- accommodate (v)
 - filter pitcher (n)
 	- Bình lọc nước
-- prime (v)
+- **prime** (v) (2)
 	- Mồi, chuẩn bị
 	- priming
 - **screw** the filter **clockwise** (v)
 	- Vặn theo chiều kim đồng hồ
-- screw (v)
+- **screw** (v) (2)
 	- Vặn
-- clogged (adj)
+	- synonyms:
+		- attach
+		- fasten
+		- secure
+		- turn
+	- remind ?
+		- Đinh ốc, vít
+- **clogged** (2) (adj)
 	- Bị tắc
 	- synonyms:
 		- block
 		- plug
 		- seal
-- diminished (v)
+- **diminished** (v) (2)
 	- Bị giảm
 	- word form
 		- diminishable (adj)
@@ -85,15 +93,15 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 	- Lịch hẹn không yêu cầu, không cần đặt lịch hẹn trước
 - service line (n)
 	- Đường dây dịch vụ khách hàng
-- postage (n)
+- **postage**  (2) (n)
 	- Bưu phí, chi phí vận chuyển
 - scams (n)
 	- Lừa đảo
 	- synonyms:
 		- trick
-- fraud (n)
+- **fraud** (n) (2)
 	- Gian lận, xảo trá
-- cyberattacks (n)
+- **cyberattacks** (n)
 	- Tấn công mạng
 - **sessions** (n)
 	- Buổi, phiên họp
@@ -103,12 +111,13 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 	- Đệm, nệm
 - canvas overnight bag  (n)
 	- Túi vải canvas qua đêm
-- binder (n)
+- **binder** (n) (2)
 	- Bìa hồ sơ
 	- relates:
 		- document
 		- folder
 		- notebook
+		- hardcover
 - electronic communications (n)
 	- Liên lạc điện tử
 	- relates:
@@ -116,27 +125,33 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 		- website
 		- telegram
 		- messenger
-- Construction Superintendent (n)
+- Construction **Superintendent** (n)
 	- Giám đốc xây dựng
-- a 50-kilometre radius (n)
+	- relates:
+		- excecutive
+- a 50-kilometrer radius (n)
 	- Trong bán kinh 50km
-- Chequing (n)
+- **Chequing** (n)
 	- Thanh toán vãng lai
+	- synonyms:
+		- checkout
 - Savings (n)
 	- Tiết kiệm
 - Monthly paper statement (n)
 	- Bảng kê giấy gửi hàng tháng
-- word of (n)
+	- remind ?
+		- Dự án greenleaf
+- **word of** (2) (n)
 	- Tin đồn
 	- synonyms
 		- rummor
 	- Ex: word of our little gym has spread
-- staff involvement (n)
+- **staff involvement** (n)
 	- Sự tham gia của nhân viên
-- pay stubs (n)
+- pay **stubs** (n) (2)
 	- Phiếu lương
-	- payroll
-- burdensome
+	- **payroll**
+- **burdensome** (2)
 	- Nặng nề
 	- synonyms:
 		- troublesome
@@ -146,8 +161,10 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 	- daily job site
 - Aussie Coffee Fair (n)
 	- Hội chợ coffe Úc
-- roasters (n)
+- **roasters** (n) (2)
 	- Người rang cà phê
+	- remind 
+		- Cà phê rang xây
 - demonstration (n)
 	- Sự trình bày
 		- synonyms
@@ -161,16 +178,19 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 			- proof
 			- evidence
 			- indication
-- brewing (v)
-	- Pha chê
+- **brewing** (v) (2)
+	- Pha chế
 	- Example: brewing the best cup of coffee
 		- Pha cà phê ngon nhất
 	- synonyms:
 		- make
 		- develop
--  a separate caterer (n)
+	- remind ?
+		- Nhân viên pha cà phê
+		- Mình pha cà phê mỗi ngày
+-  a separate **caterer** (n) (2)
 	- Nhà cung cấp thực phẩm/đồ ăn riêng
-- Modest (adj)
+- **Modest** (adj)
 	- Khiêm tốn
 	- Example: modest country
 	- synonyms:
@@ -178,15 +198,18 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 		- shy
 		- bashful
 		- low-key
-- servicing your bike
+- **servicing** your bike 
 	- Bảo dưỡng chiếc xe đạp của bạn
--  brake mechanisms (n)
+	- synonyms:
+		- maitain
+		- ensurance
+-  brake **mechanisms** (n) (2)
 	- Cơ cấu phanh, cơ cấu thắng
 - What does that come to?
 	- Điều đó dẫn tới cái gì 
-- gear (n)
+- **gear** (n) (2)
 	- Bánh răng
-- drivetrain cleaning (n)
+- **drivetrain cleaning** (n) (2)
 	- Việc vệ sinh hệ thống truyền động
 - a head of
 	- Sớm, ở phía trước
@@ -203,29 +226,34 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 	- Vẻ ngoài
 - a state of-the-art x-ray facility (n)
 	- Cơ sở chụp X quang hiện đại 
-- Move forward (v)
+- **Move forward** (v)
 	- Tiến hành, tiếp tục
-- Drivetrain (n)
+	- synonyms:
+		- carry out
+- **Drivetrain** (n)
 	- Hệ thống truyền động
 - Archive (n)
 	- Kho lưu trữ
-- Remarks (n)
+- **Remarks** (n) (2)
 	- Bài phát biểu
+	- synonyms:
+		- give a speech
 - Followwing up (phr.v)
 	- Theo dõi
 - processing patient samples (n)
 	- Xử lý mẫu bệnh phẩm
-- walk-in freezer (n)
+- walk-in **freezer** (n) (2)
 	- Tủ đông không cửa ngăn
--  is on  back order (n)
-	- Đã được đặt hàng lại
-- wallmounted device (n)
+-  **is on back order** (n) (2)
+	- Đã được đặt hàng lạis
+	- order again
+- **wallmounted device** (n) (2)
 	- Thiết bị treo tường
-- **aluminum flooring** (n)
+- **aluminum flooring** (n) (2)
 	- Sàn nhôm
-- **galvanized steel panels** (n)
+- **galvanized steel panels** (n) (2)
 	- Tôn mạ kẽm
-- Grand total (n)
+- **Grand total** (n)
 	- Tổng giá trị
 - simultaneously (adv)
 	- Đồng thời
@@ -235,9 +263,9 @@ Nếu một câu có nhiều động từ chính thì đó là một câu ghép 
 		- concurently
 - retail art (n)
 	- Nghệ thuật bán lẻ
-- Craft vendor (n)
+- **Craft** vendor (n)
 	- Người bán đồ thủ công, mỹ nghệ
-- boardwalk (n)
+- **boardwalk** (n) (2)
 	- Lối đi lót bằng ván, lối đi hướng ra biển
 - Gallery manager (n)
 	- Quản lý phòng tranh

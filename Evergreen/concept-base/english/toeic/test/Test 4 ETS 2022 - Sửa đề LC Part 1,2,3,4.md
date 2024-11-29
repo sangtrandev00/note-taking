@@ -27,12 +27,14 @@ categories:
 	- Hội thảo
 	- synonysm:
 		- workshop
-- acient Egypt (n)
+- acient **Egypt** (n)
 	- Ai cập cổ đại
 - main entrance (n)
 	- Lối vào chính
 - **lavendar** soap (n)
 	- Xà phòng oải hương
+	- remind 
+		- Xà phòng thơm
 - eco-friendly company (n)
 	- Công ty thân thiện với môi trường
 - sustainability (n)
@@ -49,31 +51,38 @@ categories:
 	- Thời gian phổ biến
 - message board (n)
 	- Bảng thông báo
-- slab (n)
+- **slab** (n)
 	- Đá phiến
 	- relates:
 		- desgin
 		- interior design
 			- Thiết kế nội thất
+	- remind ?
+		- rock
+		- hard
 - granite (n)
 	- Đá granite
 	- relates:
 		- interior design
-- marble (n)
+- **marble** (n)
 	- Đá cẩm thạc
 	- relates:
 		- interior design
 - polish (v)
 	- Đánh bóng
+	- synonyms:
+		- shine
+		- wax
+		- vamish
 - mearsurement (n)
 	- Sự đo đạc
-- exterior bike rack (n)
+- **exterior bike rack** (n)
 	- Giá đỡ xe đạp, bên ngoài
 	- ![Pasted image 20241128112050.png](https://trannhatsang.com/wp-content/uploads/2024/11/Pasted-image-20241128112050-1.png)
 - go biking in the moutain
 	- Chạy xe đạp
 	- ![Pasted image 20241128112247.png](https://trannhatsang.com/wp-content/uploads/2024/11/Pasted-image-20241128112247-1.png)
-- **Our grilled tuna dish** (n)
+- **Our grilled tuna dish** (n) (2)
 	- Món cá ngừ nướng
 	- ![Pasted image 20241128113239.png](https://trannhatsang.com/wp-content/uploads/2024/11/Pasted-image-20241128113239-1.png)
 - divide up (v)
@@ -81,7 +90,7 @@ categories:
 - help each other
 	- work together
 	- Giúp đỡ lẫn nhau
-- Worthwhile (adj)
+- **Worthwhile** (adj)
 	- Xứng đáng
 	- synonyms:
 		- valuable
@@ -94,7 +103,7 @@ categories:
 	- Thẻ nhận dạng
 - phone cases (n)
 	- Ốp điện thoại
-- infect (v)
+- **infect** (v)
 	- Lây nhiễm
 	- Example: become infected with a virus
 		- Bị lây nhiễm bởi virus
