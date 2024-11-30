@@ -21,7 +21,7 @@ tags:
 	- synonyms: 
 		- relax
 		- take a rest
-- **Some stools** (3) are being wiped down
+- **Some stools** (4) are being wiped down
 	- Một vài cái ghế đẩu đang được lau sạch
 	- relates:
 		- chair
@@ -33,7 +33,7 @@ tags:
 		- remodel (v)
 - **Bike racks** have been placed near **a lawn**
 	- Giá để xe được đặt gần bãi cỏ
-- There are some windows by **a seating area**
+- There are some windows by **a seating area** (2)
 	- Có một số cửa sổ cạnh khu vực tiếp khách
 -  The sun is being blocked by **some curtains**
 	- Mặt trời đang bị che bởi một số tấm rèm
@@ -75,6 +75,8 @@ tags:
 		- documents
 - table setup
 	- Bàn dọn sẵn
+	- synonyms:
+		- table setting
 - snacks aisle
 	- Lối đi ăn nhẹ
 	- Liên quan ?
@@ -126,7 +128,7 @@ tags:
 		- taste
 		- essence
 	- perfume (n)
-- **debrief** (v) (3)
+- **debrief** (v) (4)
 	- Hỏi, thẩm vấn, phỏng vấn
 	- synonyms
 		- interview
