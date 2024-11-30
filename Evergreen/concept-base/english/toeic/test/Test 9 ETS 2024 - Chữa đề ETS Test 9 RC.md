@@ -70,7 +70,7 @@ Có đủ tiền **còn lại** trong ngân sách để trang trải chi phí 
 	- Đơn vị nhà ở
 - resources cabinet (n)
 	- Tủ
-- **travelers’ lounge** (2) (n)
+- **travelers’ lounge** (3) (n)
 	- Phòng chờ
 - flight attendant (n)
 	- Tiếp viên hàng không
@@ -86,11 +86,13 @@ Có đủ tiền **còn lại** trong ngân sách để trang trải chi phí 
 	- Công ty TNHH Sehelec thông báo sẽ bắt đầu xây dựng dự án **nhà máy** điện kết hợp gió-mặt trời 500 megawatt (MW) phía ngoài Bangalore, Ấn Độ.
 - Ltd. - Limited (n)
 	- Công ty trách nhiệm hữu hạn
-- **in turn**  (2)
+- **in turn**  (3)
 	- Dẫn đến kết quả là
+	- remind ?
+		- lead to
 - front desk
 	- Quầy lễ tân
-- **bustling** (2)
+- **bustling** (3)
 		- Nhiệt tình, náo nhiệt
 		- relates:
 			- vibrant
@@ -123,8 +125,10 @@ Có đủ tiền **còn lại** trong ngân sách để trang trải chi phí 
 	- Vượt qua
 	- synonyms
 		- exceed (v)
-- **fleet** (n)
+- **fleet**  (2) (n)
 	- Tàu, xe lửa
+	- remind ?
+		- train
 - **electrified tracks** (n)
 	- Đường ray điện hoá
 - **entered into a contract** 
@@ -148,7 +152,7 @@ Có đủ tiền **còn lại** trong ngân sách để trang trải chi phí 
 	- Chú ý đến thời gian
 - characteristic (n)
 	- Đặc điểm, tính cách
-- **adopt** (v)
+- **adopt** (v) (3)
 	- Áp dụng
 	- synonyms:
 		- apply (v)
@@ -160,7 +164,7 @@ Có đủ tiền **còn lại** trong ngân sách để trang trải chi phí 
 	- Những người lần đầu tiên tham dự
 	- synonyms:
 		- new commers
-- reception (n)
+- **reception** (n)
 	- Tiệc chiu đãi
 	- Example: 
 		- Since this is your first time attending, I recommend you go to the newcomers' reception on the first night

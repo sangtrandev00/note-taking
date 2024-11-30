@@ -118,15 +118,15 @@ a small fee.
 		- improvements (n)
 - **waterproof** (3) (adj)
 	- Không thấm nước
-- **insulation material** (3) (n)
+- **insulation material** (4) (n)
 	- Vật liệu cách nhiệt
-- **proprietary** (3) (adj)
+- **proprietary** (4) (adj)
 	- Độc quyền
 	- synonyms:
 		- solely
 		- only
 		- exclusive
-- **curator of** (3) (n):
+- **curator of** (4) (n):
 	- Người phụ trách
 - **permanent collection** (n)
 	- Bộ sưu tập cố định
@@ -158,7 +158,7 @@ a small fee.
 		- grant (v)
 - **hiker** (2) (n)
 	- Người đi bộ đường dài
-- **jams** (3) (n)
+- **jams** (4) (n)
 	- Ngũ cốc
 	- relates:
 		- cereals (n)

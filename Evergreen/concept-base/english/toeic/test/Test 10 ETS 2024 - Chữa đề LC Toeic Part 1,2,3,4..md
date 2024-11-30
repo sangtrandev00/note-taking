@@ -48,7 +48,7 @@ categories:
 		- entertainment (n)
 - lawmaker (n)
 	- Người làm luật, nhà lập pháp
-- **aside from** (4)
+- **aside from**5)
 	- Ngoài ra
 	- synonyms
 		- on the other hand
@@ -76,7 +76,7 @@ categories:
 		- or
 - padded (adj)
 	- Có tấm đệm
-- padded straps
+- **padded straps**
 	- Dây đai có đệm
 - **exhibitors** (2)
 	- Nhà triển lãm, nhà trưng bày

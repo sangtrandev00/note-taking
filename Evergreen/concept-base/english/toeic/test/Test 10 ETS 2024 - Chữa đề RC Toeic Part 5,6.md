@@ -45,7 +45,7 @@
 			- Sản xuất
 - distribution center (**phrase.n**)
 	- Trung tâm phân phối
-- **break ground** (1) (v)
+- **break ground** (2) (v)
 	- Khởi công
 - momentarily (adv)
 	- Trong một khoảnh khắc
@@ -91,7 +91,7 @@
 	- Lễ, lễ hội
 - o**nce-influential** (1) 
 	- Từng có ảnh hưởng
-- **imposing** structure (n)
+- **imposing** structure (n) (2)
 	- Kiến trúc hùng vĩ
 - payroll database (n)
 	- Cơ sở dữ liệu bảng lương

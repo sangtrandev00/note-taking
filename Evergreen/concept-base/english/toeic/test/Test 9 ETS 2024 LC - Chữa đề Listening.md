@@ -38,19 +38,21 @@ tags:
 		- discuss (v)
 - acceptable bid (n)
 	- Gói thầu được chấp nhận
-- justified (ạdj)
+- **justified** (ạdj) (2)
 	- Chính đáng
+	- remind ?
+		- judge
 - I know how important conservation is to you
 	- Việc bảo tồn quan trọng với bạn như thế nào
-- a business loan (n)
+- **a business loan** (n)
 	- Một khoản vay kinh doanh
 - finance your business project 
 	- Tài trợ cho dự án kinh doanh doanh của bạn
 - tablecloths (n)
 	- Khăn trải bàn
-- napkins (n)
+- **napkins** (n) (2)
 	- Khăn ăn
-- **linens** (2) (n)
+- **linens** (3) (n)
 	- Trải giường
 - **put them ahead of** job sixten (n)
 	- Đặt họ trước công việc 16
@@ -66,7 +68,7 @@ tags:
 	- Lịch nghỉ phép
 - a department's social event (n)
 	- Một sự kiện xã hội của bộ phận
-- **strive** (v)
+- **strive** (v) (2)
 	- Cố gắng
 	- synonyms
 		- attempt (v)
@@ -75,7 +77,10 @@ tags:
 	- Đến hạn vào
 - **otherwise** (adv)
 	- một cách khác
-- as always 
+	- synonyms:
+		- if not
+		- or else
+- **as always** 
 	- Như mọi khi, như luôn
 - **It doesn't make financial sense for our kitchen to stay open late.**
 	- Nó sẽ không có ý nghĩa gì về mặt tài chính nếu phòng bếp của chúng ta mở cửa muộn
@@ -91,7 +96,7 @@ tags:
 	- Sách bìa cứng
 - **paperbacks** (n)
 	- Sách mềm
-- going-out-of-business sale (n)
+- **going-out-of-business** sale (n)
 	- Đợt giảm giá sắp ngừng kinh doanh
 
 

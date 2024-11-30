@@ -17,8 +17,13 @@ tags:
 		- department
 - physical Therapy Associates 
 	- Hiệp hội vật lý trị liệu
-- No Trespassing
+- **No Trespassing**
 	- Không xâm phạm
+	- without permission
+	- synonyms:
+		- harmful
+		- do wrong
+		- offend
 - No soliciting
 	- Không mời, không nài nỉ, van xin
 	- synonyms:
@@ -29,7 +34,7 @@ tags:
 	- Khu văn phòng
 	- relates:
 		- office complex
-- **internist** (n)
+- **internist** (2) (n)
 	- Bác sĩ nội khoa
 	- relates:
 		- doctor
@@ -51,7 +56,7 @@ tags:
 	- synonyms:
 		- book store (n)
 			- Nhà sách
-- **flourish in** (v) (2)
+- **flourish in** (v) (3)
 	- Phát triển
 	- synonyms:
 		- develop
@@ -90,11 +95,11 @@ tags:
 	- Công nhân
 	- synonyms:
 		- worker
-- **valances** (n)
+- **valances** (n) (3)
 	- rèm trang trí, phần phụ của rèm cửa
 	- relates:
 		- window
-- **drapes** (n)
+- **drapes** (n) (3)
 	- Rèm của, mành cửa
 	- relates:
 		- window

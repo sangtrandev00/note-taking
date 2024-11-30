@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3225
+postType: post
+categories:
+  - 39
+---
 Về cảm nhận khi làm RC, gần như quá trình làm khá bị sao nhãn. Có thể do tiếng ồn xung quanh cộng với sự tập trung bi giảm dần về sau vì bài thi cũng khá dài. Đề này có thể là đề cuối của mình trước thi rồi. Cố gắng xem lại nghĩa của câu và những câu bị sai và rút kinh nghiệm để khi thi đạt mốc >= 75. Bài này mình đạt môc 76/100. Tuy nhiên khi làm xong vẫn cảm thấy mình có thể làm tốt hơn nữa!
 
 ## Ngữ pháp
@@ -54,12 +60,91 @@ Về cảm nhận khi làm RC, gần như quá trình làm khá bị sao nhãn. 
 		- suffer
 		- sustain
 		- experience
+- Corrugated Fiberboard (n)
+	- Ván sợi uống nếp
+- offered to (v)
+	- Được cung cấp:
+	- Example: It is one of several classes offered to business owner
+		- Nó là một trong số lớp học được cung cấp cho chủ doanh nghiệp
+- Housekeeping (n)
+	- Dọn dẹp phòng, dọn dẹp nhà
+- Reportedly (adv)
+	- Được cho là (Theo nhiều người nói)
+	- synonyms:
+		- evidently
+		- apparently
+- Evening wear (n)
+	- Trang phục buổi tối
+- reinstate (v)
+	- Khôi phục lại
+	- synonyms:
+		- restore
+		- put back
+		- replace
+		- reinstall
+- a punch card (n)
+	- Thẻ đục lỗ
+- redeem (v)
+	- chuộc lại, trao đổi
+	- synonyms:
+		- retrieve
+		- regain
+		- recover
+		- get
+	- trao đổi
+		- trade in
+- pay off (v)
+	- Trả
+	- synonyms:
+		- return
+		- payback
+		- reward
+- set free (v)
+	- Giải phóng
+- win over
+	- Thuyết phục
+	- synonyms:
+		- convince
+		- bring
+- Accrue (v)
+	- Tích luỹ
+	- synonyms:
+		- accumulate
+		- collect
+		- gather
+- Unparalleled (adj)
+	- Không thể so sánh
+	- synonyms:
+		- exceptional
+			- Đặc biệt, xuất chúng
+		- unique (adj)
+		- rare
+- cupholder (n)
+	- Khây giữ cốc
+- cargo area (n)
+	- Khu chở hàng
+- enhance backseat speaker (n)
+	- Loa phía sau
+- Some air vents (n)
+	- Ống thông hơi
+- navigation system (n)
+	- Hệ thống định vị
+- for sale (n)
+	- Để bán
+- Nursery (n)
+	- Vườn ươm, nhà trẻ
+- Wagon (n)
+	- Xe đẩy
+	- synonyms:
+		- Shoping cart
 
 ## Lưu ý
 
+- Sai ở một số câu bị bẫy và chưa đọc kỹ. Điều lưu ý là luôn luôn dựa vào bằng chứng trong đề
+- Tới gần các đề này rồi, thì phần từ vựng gần như không ảnh hưởng với mình nhiều nữa. Lượng từ vựng gần như không quá lạ, chỉ là do mình dịch và tìm được các hints từ bài thôi!
 
 ----
 ## Relates
 
 
-#toeic #english 
+#toeic #english
