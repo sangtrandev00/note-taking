@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3229
+postType: post
+categories:
+  - 39
+---
 ## Ngữ pháp
 
 ## Từ vựng
@@ -16,7 +22,7 @@
 	- Cây cầu bắt qua con sông
 - Doorway (n)
 	- Ô cửa, cửa vào
-	- ![[Pasted image 20241201085805.png]]
+	- ![Pasted image 20241201085805.png](https://trannhatsang.com/wp-content/uploads/2024/12/Pasted-image-20241201085805.png)
 - **Weren't** those lightbubs replace replace recently ?
 	- Không phải cái bóng đền này được thay thế gần đây sao ?
 - Anna left them a message
@@ -140,4 +146,4 @@
 ## Relates
 
 
-#toeic #english 
+#toeic #english
