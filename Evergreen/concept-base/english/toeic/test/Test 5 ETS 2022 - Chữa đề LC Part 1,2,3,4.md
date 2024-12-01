@@ -106,6 +106,32 @@
 	- Máy khâu
 - knot (n)
 	- Nút thắt
+-  small to large business **gatherings** (n)
+	- Cuộc gặp mặt kinh doanh từ nhỏ đến lớn
+- interest rate (n)
+	- Lãi xuất
+- Favorable (adj)
+	- Có lợi, có ích
+	- synonyms:
+		- helpful
+		- beneficial
+		- advantageous
+- Car-part 
+	- Phụ tùng ô tô
+	- Example: At a car-part warehouse
+- Personal belongings (n)
+	- Đồ dùng cá nhân
+- City official (n)
+	- Quan chức thành phố
+	- === mayor (n)
+		- Người đứng đầu
+- History professor (n)
+	- Giáo sư lịch sử
+- A boat dock (n)
+	- Bến cảng tàu
+	- remind ?
+		- container
+		- cargo
 
 ## Lưu ý
 
