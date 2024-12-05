@@ -60,7 +60,7 @@ tags:
 		- light
 		- renewerable energy
 			- Năng lượng mặt trời
-- **set aside** 
+- **set aside** (3)
 	- Dành riêng
 	- Example: we'll set them aside for you
 - former owner (n)
@@ -75,7 +75,7 @@ tags:
 		- garbage
 - This is a little out of the ordinary
 	- Điều này thì khác thường một chút
-- **haste** (n)
+- **haste** (n) (2)
 	- Sự vội vã, hấp tấp
 	- synonyms:
 		- hurry

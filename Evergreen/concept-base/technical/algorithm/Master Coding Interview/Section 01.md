@@ -1,0 +1,38 @@
+
+## Vocab
+
+- intimidate
+	- Hăm doạ
+	- synonyms:
+		- frighten
+		- terrify
+		- scare
+- inflate
+	- Tăng giá trị
+	- synonyms:
+		- increase
+		- raise
+		- boost
+- endorse
+	- tán thành, thừa nhận
+	- synonyms:
+		- validate
+- genuine
+	- Thành thật
+	- synonyms
+		- real
+		- authentic
+		- original
+		- true
+- replicate
+	- Mô phỏng theo
+	- synonyms:
+		- copy
+		- reproduce
+		- duplicate
+- get by
+	- Tồn tại, vượt qua
+	- synonyms:
+		- survive
+		- exist
+- 

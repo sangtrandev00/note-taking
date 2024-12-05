@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3232
+postType: post
+categories:
+  - 39
+---
 Ở phần này mình để ý do làm vội, nên một số câu về dịch nghĩa và ngữ pháp (Ví dụ như danh từ số nhiêu quá khứ cần were thay vì was )
 
 ## Ngữ pháp
@@ -104,4 +110,4 @@
 ## Relates
 
 
-#toeic #english 
+#toeic #english

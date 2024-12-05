@@ -47,6 +47,7 @@ categories:
 	- synonyms:
 		- pole
 		- support
+		- tools
 - Design a set (n)
 	- Thiết kế trường quay
 	- relates
@@ -68,9 +69,9 @@ categories:
 	- Tiếp đầy nhiên liệu
 	- relates:
 		- gasoline
-- Just bring your employee badge (n)
+- Just bring your **employee badge** (n)
 	- Hãy cứ mang thẻ nhân viên của bạn tới
-- Right down franklin boulevard (n)
+- Right down franklin **boulevard** (n)
 	- Ngay dưới đại lộ franklin
 - I have a model number here (n)
 	- Tôi có mẫu số ở đây
@@ -78,31 +79,33 @@ categories:
 	- Làm hơn hãy đóng dấu bao bì
 -   These all-weather tires are very expensive
 - Why aren't the training on the computer lab now
-- runway (n)
+- **runway** (n) (2)
 	- Đường bay
 	- relates ?
 		- airport (n)
 			- Sân bay
 - Fueling station (n)
 	- Trạm tiếp nhiên liệu
-- Preliminary
+- **Preliminary** (2)
 	- Sơ bộ
 	- Example: A preliminary survey shows their biggest concern is the potential increase in traffic
 	- synonyms:
 		- prior
 		- initial
-- city hall (n)
+- **city hall** (n) (2)
 	- Toà thị chính
-- Auditorium (n)
+- **Auditorium** (n) (2)
 	- Khán phòng
 	- synonyms:
 - sight (n)
 	- Điểm tham quan
 	- Example: ’ll probably be too busy with the conference to see any sights
-- plainting initiative
+- planting initiative
 	- Sáng kiến  trồng cây
-- assembly line (n)
+- **assembly line** (n) (2)
 	- Dây chuyền lắp ráp
+	- remind ?
+		- factory
 - time card (n)
 	- Phiếu chấm công
 	- synonyms:

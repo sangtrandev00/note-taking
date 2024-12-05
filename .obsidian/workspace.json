@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 6 ETS 2022 - Chữa đề RC Part 5,6.md",
+                "file": "Evergreen/concept-base/technical/algorithm/Javascript sử dụng thuật toán gì gì?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 6 ETS 2022 - Chữa đề RC Part 5,6"
+              "title": "Javascript sử dụng thuật toán gì gì?"
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "either of",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +88,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 258.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -155,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/test/Test 6 ETS 2022 - Chữa đề RC Part 5,6.md"
+                "file": "Evergreen/concept-base/technical/algorithm/Javascript sử dụng thuật toán gì gì?.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test 6 ETS 2022 - Chữa đề RC Part 5,6"
+              "title": "Outline of Javascript sử dụng thuật toán gì gì?"
             }
           },
           {
@@ -268,33 +267,34 @@
   },
   "active": "dc4a635c3564cd61",
   "lastOpenFiles": [
-    "Notion/Study Technical Skills/Git/Git.md",
-    "Evergreen/concept-base/english/toeic/grammar/Phân biệt both of, neither of, either of.md",
-    "Evergreen/concept-base/english/toeic/test/Test 6 ETS 2022 - Chữa đề RC Part 5,6.md",
-    "Evergreen/concept-base/english/toeic/test/Test 6 ETS 2022 - Chữa đề LC.md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn tập từ vựng ngày 01-12-2024.md",
-    "Evergreen/concept-base/english/vocab/Untitled.md",
-    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2022 - Chữa đề RC Part 5,6,7.md",
-    "Evergreen/concept-base/english/toeic/Chuẩn bị gì trước khi đi thi TOEIC.md",
-    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2022 - Chữa đề LC Part 1,2,3,4.md",
     "Pasted image 20241201085805.png",
-    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề LC Part 1,2,3,4.md",
-    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề RC Toeic Part 5,6.md",
-    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề Part 7.md",
-    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề LC Toeic Part 1,2,3,4..md",
-    "Evergreen/concept-base/english/toeic/test/Test 9 ETS 2024 LC - Chữa đề Listening.md",
-    "Evergreen/concept-base/english/toeic/test/Test 9 ETS 2024 - Chữa đề ETS Test 9 RC.md",
-    "Evergreen/concept-base/english/toeic/test/Test 8 RC - Chữa đề ETS 2024 - Part 5,6,7.md",
-    "Evergreen/concept-base/english/toeic/test/Test 7 Part LC - Sửa đề TOEIC listening Part 1,2,3,4.md",
-    "Evergreen/concept-base/english/toeic/test/Test 7 Part 7 - EST 2024.md",
-    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề RC Part 5,6,7.md",
-    "Evergreen/concept-base/english/toeic/test/Test 1 ETS 2022 - Chữa đề LC Part 1,2,3,4.md",
-    "Evergreen/concept-base/english/toeic/test/Test 7 Chữa đề TOEIC ETS (Part 5, Part 6).md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn tập từ vựng ngày 24-11-2024.md",
-    "Evergreen/concept-base/english/toeic/test/Test 4 ETS 2022 - Sửa đề LC Part 1,2,3,4.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Làm sao để giải quyết các bài toán lập trình ? How to solve coding problem ?.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Chiều dài của mảng có độ phức tạp BigO là bao nhiêu ? Length = Array.length ? How to find ?.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/BigO là gì trong thuật toán.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Section 01.md",
+    "Evergreen/concept-base/english/toeic/Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Những công cụ cần thiết để chuẩn bị cho một cuộc mời phỏng vấn.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview",
+    "Câu hỏi phỏng vấn NAB Starcamp.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview",
+    "Evergreen/concept-base/technical/algorithm/Javascript sử dụng thuật toán gì gì?.md",
     "Evergreen/concept-base/technical/algorithm/Làm bài test codility của Starcamp NAB.md",
-    "Evergreen/concept-base/technical/algorithm/Thuật toán Sort trong Javascript có độ phức tạp là bao nhiêu ?.md",
     "Evergreen/concept-base/technical/algorithm/Sự khác nhau giữa Map và Set trong Javascript là gì ?.md",
+    "Evergreen/concept-base/technical/algorithm/Upload to test format code with obsidian.md",
+    "Evergreen/concept-base/technical/algorithm/Thuật toán Sort trong Javascript có độ phức tạp là bao nhiêu ?.md",
+    "Evergreen/optional-base/career/Phỏng vấn NAB Starcamp.md",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 15-11-2024.md",
+    "Evergreen/concept-base/english/toeic/vocab/Vocab toeic ngày.md",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 14-11-2024.md",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn tập từ vựng ngày 24-11-2024.md",
+    "Evergreen/concept-base/english/toeic/vocab/Ôn tập từ vựng ngày 01-12-2024.md",
+    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề LC Part 1,2,3,4.md",
+    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2022 - Chữa đề LC Part 1,2,3,4.md",
+    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2022 - Chữa đề RC Part 5,6,7.md",
+    "Evergreen/concept-base/english/toeic/test/Test 6 ETS 2024 - Grammar.md",
+    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề RC Part 5,6,7.md",
+    "Evergreen/concept-base/english/toeic/test/Test 6 ETS 2022 - Chữa đề RC Part 5,6.md",
     "Pasted image 20241128170834.png",
     "Pasted image 20241128150749.png",
     "Pasted image 20241128150747.png",
@@ -313,8 +313,6 @@
     "Evergreen/concept-base/technical/experience/apetechs-company/ktg",
     "Evergreen/concept-base/technical/experience/apetechs-company/greenleaf",
     "Evergreen/concept-base/technical/experience/apetechs-company/ntss",
-    "Evergreen/concept-base/technical/experience/apetechs-company/hrm",
-    "Evergreen/concept-base/technical/experience/apetechs-company",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas"

@@ -14,11 +14,11 @@ Về cảm nhận khi làm RC, gần như quá trình làm khá bị sao nhãn. 
 
 - Traffic delays (n)
 	- Trì hoãn giao thông
-	- Example: Traffic are expected next week along Reimers Road.
+	- Example: Traffic deplay are expected next week along Reimers Road.
 - prefer (v)
 	- Thích
 	- Example: Recent graduates tend to workplaces where teamwork and collaboration are encouraged
-- acclaimed (v)
+- **acclaimed** (v) (2)
 	- Được ca ngợi
 	- synonyms:
 		- praised
@@ -28,8 +28,8 @@ Về cảm nhận khi làm RC, gần như quá trình làm khá bị sao nhãn. 
 - oneself 
 	- Bản thân
 	- prepare oneself
-	- Example: Before a job interview, it is critical to prepare oneself for answering the most commonly asked questions.
-- attribute (v)
+	- Example: Before a job interview, it is critical to prepare **oneself** for answering the most commonly asked questions.
+- **attribute** (v)
 	- cho rằng
 	- synonyms:
 		- credit (v)
@@ -54,28 +54,31 @@ Về cảm nhận khi làm RC, gần như quá trình làm khá bị sao nhãn. 
 		- instead
 		- alternately
 		- on the other hand
-- incur (v)
+- **incur** (v) (2)
 	- Gánh chịu
 	- synonyms:
 		- suffer
 		- sustain
 		- experience
-- Corrugated Fiberboard (n)
+- **Corrugated** Fiberboard (n)
 	- Ván sợi uống nếp
+	- remind ?
+		- shipment
+		- cargo
 - offered to (v)
 	- Được cung cấp:
 	- Example: It is one of several classes offered to business owner
 		- Nó là một trong số lớp học được cung cấp cho chủ doanh nghiệp
 - Housekeeping (n)
 	- Dọn dẹp phòng, dọn dẹp nhà
-- Reportedly (adv)
+- **Reportedly** (adv)
 	- Được cho là (Theo nhiều người nói)
 	- synonyms:
 		- evidently
 		- apparently
-- Evening wear (n)
+- Evening **wear** (n)
 	- Trang phục buổi tối
-- reinstate (v)
+- **reinstate** (v) (2)
 	- Khôi phục lại
 	- synonyms:
 		- restore
@@ -101,18 +104,22 @@ Về cảm nhận khi làm RC, gần như quá trình làm khá bị sao nhãn. 
 		- reward
 - set free (v)
 	- Giải phóng
-- win over
+- **win over**
 	- Thuyết phục
 	- synonyms:
 		- convince
 		- bring
-- Accrue (v)
+- **Accrue** (v) (2)
 	- Tích luỹ
 	- synonyms:
 		- accumulate
 		- collect
 		- gather
-- Unparalleled (adj)
+	- rootword ?
+		- acc
+		- relates:
+			- accumulate
+- **Unparalleled** (adj)
 	- Không thể so sánh
 	- synonyms:
 		- exceptional
@@ -125,15 +132,15 @@ Về cảm nhận khi làm RC, gần như quá trình làm khá bị sao nhãn. 
 	- Khu chở hàng
 - enhance backseat speaker (n)
 	- Loa phía sau
-- Some air vents (n)
+- **Some air vents** (n) (2)
 	- Ống thông hơi
 - navigation system (n)
 	- Hệ thống định vị
 - for sale (n)
 	- Để bán
-- Nursery (n)
+- **Nursery** (n)
 	- Vườn ươm, nhà trẻ
-- Wagon (n)
+- **Wagon** (n)
 	- Xe đẩy
 	- synonyms:
 		- Shoping cart
