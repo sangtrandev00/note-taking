@@ -239,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,8 +265,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc4a635c3564cd61",
+  "active": "2be1e09d7d73aefd",
   "lastOpenFiles": [
+    "Pasted image 20241206171543.png",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/How computer store data ? Cách máy tính lưu data như thế nào ?.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Sự khác nhau giữa Static và Dynamic Arrays là gì ?.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Hash Tables",
@@ -300,7 +301,6 @@
     "Evergreen/concept-base/english/toeic/vocab/Ôn tập từ vựng ngày 01-12-2024.md",
     "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề LC Part 1,2,3,4.md",
     "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2022 - Chữa đề LC Part 1,2,3,4.md",
-    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2022 - Chữa đề RC Part 5,6,7.md",
     "Pasted image 20241128170834.png",
     "Pasted image 20241128150749.png",
     "Pasted image 20241128150747.png",
