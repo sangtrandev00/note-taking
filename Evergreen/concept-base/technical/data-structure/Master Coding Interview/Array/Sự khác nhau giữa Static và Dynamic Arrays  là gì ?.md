@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3257
+postType: post
+categories:
+  - 39
+---
 ## Static
  Cố định, Tĩnh, có kích thước không thay đổi
 
@@ -30,7 +36,9 @@ Array, Object, Set, Map ? đều được xây dựng bằng Object ?
 
 ## Lợi ích và bất lợi của Array
 
-![[Pasted image 20241206171543.png]]
+![Pasted image 20241206173240.png](https://trannhatsang.com/wp-content/uploads/2024/12/Pasted-image-20241206173240.png)
+
+
 
 ----
 
