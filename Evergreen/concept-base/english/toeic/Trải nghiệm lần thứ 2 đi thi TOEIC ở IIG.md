@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3284
+postType: post
+categories:
+  - 39
+---
 Đây là lần thứ 2 mình đi thi TOEIC. Cảm nhận chung về kì thi này. Đây là bài thi luyện khả năng tiếp nhận thông tin và khá phù hợp với tình hình hiện tại của mình. Bài khi phải nói là khá dài về phần đọc, cần phải có lượng từ vựng đủ dùng và kỹ năng luyện đề để luyện trong một thời gian đủ ổn. Khả năng tập trung xuyên suốt quá trình làm cũng là điều hết sức quan trọng mà mình đánh giá kì thi này yêu cầu
 Đối với mình, khả năng tự học luôn là thứ mình đặt lên hàng đầu. Vì vậy mình đã dành khoảng 3 tuần để ôn tập lại các kiến thức và tiến hành đăng ký đi thi. 
 Ngày 2/12/2024 vừa rồi là ngày thi của mình. 
@@ -22,9 +28,13 @@ Sau một thời gian khoảng 30p xếp hàng, đi toilet các kiểu thì mìn
 Ở phần này các bạn phải chăm chú nghe rất kỹ nhé. Giám thịi sẽ hướng dẫn bạn cách ghi họ tên, CMND, thông tin của bản thân và đề thi nên các bạn hãy tập trung. Ghi trước toàn bộ rồi mới dành thời gian để tô nhé.
 
 ### Làm bài thi
-
+Đây là khoảng thời gian mình tập trung nhất. 
+- Với phần nghe mình cảm thấy khá ổn. Nhưng ở những part 1,2 có thể chưa quen với loa ở trên IIG, loa hơi rè, và đọc hơi nhanh nên có mấy câu mình lụi. Sau phần này với Part 3,4 mình đã vào form và gần như nghe khá trọn vẹn các câu còn lại. Nói chung cảm thấy khá hài lòng về phần thi này. 
+- Với phần đọc, có lẽ đây là một trong những phần khó nhằn nhất với mình. Phải làm 100 câu đọc trong 75 phút, mình phải làm vô cùng cấp tốc ở Part 5,6. 2 phần này mình cảm thấy ổn tuy nhiên nó cũng khiến thời gian ở Part 7 mình ít lại. Với phần Part 7, các đoạn văn thực tế so với 15 đề thi thử mình làm thì dài hơn một chút (đó là cảm nhận cá nhân). Vẫn có vài đoạn đáp án mình phân vân chưa chắc ăn. Làm gần cuối sức tập trung và trí nhớ của mình cũng giảm. Ở phần này mình lụi tận 12 câu. Cầu may thì mong đúng được 3 câu trong số đó là may mắn lắm rồi
+- Tóm lại, mục tiêu của mình sau phần thi căng thẳng đó là đạt được 85 - 88 LC /100 câu. 75 - 80 RC/100.
+	
 ### Kết thúc quá trình
-
+Wow. Phải nói là rất nhẹ nhõm sau khi kết thúc thi. Mình ngồi định hình tâm lý một xíu và có xoay đi xoay lại một tí cho "hoàn hồn" trở lại sau phần thi liên tục không có một phút nghỉ này. Lúc này giám thị sẽ kiểm tra các bài thi điền sai tên, khoanh chưa chính xác theo thủ tục và sau phần kiểm tra này mọi người sẽ được ra về.
 ## Cảm nhận cá nhân
 
 Nhìn chung mình cũng cảm thấy ổn nhất ở phần nghe. Phần reading thì lụi lên đến 12 câu, nên cũng không tự tin lắm. Tuy vậy nó khá sát so với những gì mình ôn tập. Cho nên mình luôn đoán thang điểm sẽ nằm trong phạm vi mình đã dự trù và đạt được chỉ tiêu mình mong muốn.
@@ -41,4 +51,4 @@ Và cuối cùng thì mình chúc các bạn may mắn
 
 
 
-#english #toeic 
+#english #toeic

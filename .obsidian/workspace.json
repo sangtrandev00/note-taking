@@ -13,30 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Study Technical Skills/Git/Git.md",
+                "file": "Evergreen/concept-base/technical/algorithm/Sự khác nhau giữa Map và Set trong Javascript là gì ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Sự khác nhau giữa Map và Set trong Javascript là gì ?"
             }
           },
           {
-            "id": "dc4a635c3564cd61",
+            "id": "117ba5e9d7ad8a29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG.md",
+                "file": "Evergreen/concept-base/technical/programming/Javascript/Deep copy trong Javascript ? Tại sao một lập trình viên Junior cần biết ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG"
+              "title": "Deep copy trong Javascript ? Tại sao một lập trình viên Junior cần biết ?"
+            }
+          },
+          {
+            "id": "2076e238e2d3d802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cấu trúc dữ liệu Trees trong khoa học máy tính"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 349.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -154,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/english/toeic/Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG.md"
+                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG"
+              "title": "Outline of Cấu trúc dữ liệu Trees trong khoa học máy tính"
             }
           },
           {
@@ -265,55 +279,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc4a635c3564cd61",
+  "active": "2076e238e2d3d802",
   "lastOpenFiles": [
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Làm sao để giải quyết các bài toán lập trình ? 15 Bước cụ thể để giải quyết vấn đề.md",
+    "Pasted image 20241210144729.png",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue/Stack và Queue là gì ?.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees",
+    "Pasted image 20241210144210.png",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List/Linkedlist là gì ? Tại sao cần dùng Linkedlist.md",
+    "LinkedList.md",
+    "Evergreen/concept-base/technical/programming/Javascript/Deep copy trong Javascript ? Tại sao một lập trình viên Junior cần biết ?.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Sự khác nhau giữa Static và Dynamic Arrays  là gì ?.md",
+    "Evergreen/concept-base/technical/programming/Javascript/Cách JavaScript hoạt động như thế nào ?.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Tại sao Access trong Javascript rất nhanh ?.md",
+    "Queue & Stack.md",
+    "Pasted image 20241210095255.png",
+    "Pasted image 20241210095206.png",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue",
+    "Pasted image 20241210091940.png",
+    "Pasted image 20241209170446.png",
+    "Evergreen/concept-base/technical/algorithm/Sự khác nhau giữa Map và Set trong Javascript là gì ?.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Những nguyên nhân gây ra Timecomplexity trong bộ nhớ.md",
+    "Pasted image 20241208211003.png",
+    "Evergreen/concept-base/english/toeic/Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Hash Tables/Hashtable là gì ? Tại sao lại quan trọng trong lập trình.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List",
+    "Pasted image 20241208162948.png",
+    "Pasted image 20241208115947.png",
+    "HashMap.md",
+    "Pasted image 20241208094254.png",
+    "Notion/Study Technical Skills/Git/Git.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Làm sao để giải quyết các bài toán lập trình ? 15 Bước cụ thể để giải quyết vấn đề.md",
     "Evergreen/concept-base/technical/data-structure/Big O là gì ?.md",
     "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
     "Pasted image 20241206173240.png",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Những công cụ cần thiết để chuẩn bị cho một cuộc mời phỏng vấn.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Chiều dài của mảng có độ phức tạp BigO là bao nhiêu ? Length = Array.length ? How to find ?.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/How computer store data ? Cách máy tính lưu data như thế nào ?.md",
-    "Pasted image 20241206171543.png",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Hash Tables",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Array",
-    "Pasted image 20241206090617.png",
-    "Pasted image 20241206085401.png",
     "Evergreen/concept-base/technical/algorithm/Giữa lưu trữ giá trị độc nhất của Set và Map cái nào tốt hơn ?.md",
     "Evergreen/optional-base/technical/Chế độ mặc định transaction trong nestjs là thằng đầu tiên ?.md",
     "Evergreen/concept-base/technical/algorithm/Javascript sử dụng thuật toán gì gì?.md",
-    "Pasted image 20241201085805.png",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/BigO là gì trong thuật toán.md",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Section 01.md",
-    "Evergreen/concept-base/english/toeic/Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview",
-    "Câu hỏi phỏng vấn NAB Starcamp.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview",
-    "Evergreen/concept-base/technical/algorithm/Làm bài test codility của Starcamp NAB.md",
-    "Evergreen/concept-base/technical/algorithm/Sự khác nhau giữa Map và Set trong Javascript là gì ?.md",
-    "Evergreen/concept-base/technical/algorithm/Upload to test format code with obsidian.md",
-    "Evergreen/concept-base/technical/algorithm/Thuật toán Sort trong Javascript có độ phức tạp là bao nhiêu ?.md",
-    "Evergreen/optional-base/career/Phỏng vấn NAB Starcamp.md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 15-11-2024.md",
-    "Evergreen/concept-base/english/toeic/vocab/Vocab toeic ngày.md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng ngày 14-11-2024.md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn từ vựng Ngày 13-11-2024.md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn tập từ vựng ngày 24-11-2024.md",
-    "Evergreen/concept-base/english/toeic/vocab/Ôn tập từ vựng ngày 01-12-2024.md",
-    "Evergreen/concept-base/english/toeic/test/Test 5 ETS 2024 - Chữa đề LC Part 1,2,3,4.md",
-    "Pasted image 20241128170834.png",
-    "Pasted image 20241128150749.png",
-    "Pasted image 20241128150747.png",
-    "Pasted image 20241128150516.png",
-    "Pasted image 20241128150039.png",
     "Untitled.canvas",
     "Evergreen/concept-base/technical/devops/ci-cd",
-    "Evergreen/concept-base/english/vocab",
-    "Evergreen/concept-base/technical/experience/apetechs-company/ntsc",
-    "Evergreen/concept-base/technical/experience/apetechs-company/quoc-thinh",
-    "Evergreen/concept-base/technical/experience/apetechs-company/pms",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas"

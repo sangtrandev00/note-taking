@@ -8,8 +8,6 @@
 
   
 
-  
-
 Reset khác gì revert ?
 
 use case khi dùng rebase ?
@@ -28,11 +26,6 @@ Nếu muốn gộp các commit thành một commit thì phải làm như thế n
 
 [https://chatgpt.com/share/a4e48812-feda-493c-874f-7b8ca0a60d0d](https://chatgpt.com/share/a4e48812-feda-493c-874f-7b8ca0a60d0d)
 
-  
-
-  
-
-  
 
 git init
 
