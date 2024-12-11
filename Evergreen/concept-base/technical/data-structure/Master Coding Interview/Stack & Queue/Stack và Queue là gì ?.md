@@ -1,10 +1,13 @@
-
-
-## Remind ?
-
-Callback function ?
+---
+profileName: sangtrandev00
+postId: 3322
+postType: post
+categories:
+  - 39
+---
 
 ## Stack
+Hay còn gọi là hàng đợi một cấu trúc dữ liệu phổ biến trong lập trình. Nguyên tắc của nó là Last In First Out (Vào cuối nhưng ra trước)
 
 ![[Pasted image 20241210095206.png]]
 
@@ -13,6 +16,7 @@ Callback function ?
 + Browser history (forward, backward)
 + Function stack in JS (callback)
 ## Queue
+Hay còn gọi là hàng đợi, cũng là một cấu trúc dữ liệu rất phổ biến trong lập trình. Khác với Stack, Queue có nguyên lý hoạt động như tên gọi của nó First In First Out (Vào trước thì ra trước)
 
 ![[Pasted image 20241210095255.png]]
 
@@ -45,7 +49,12 @@ Là gì ?
 
 
 
-
 ## Reviews  Stack and Queue
 ![[Pasted image 20241210144210.png]]
 
+
+
+---
+## Liên quan
+
+#algorithm #data-structure #stack-queue

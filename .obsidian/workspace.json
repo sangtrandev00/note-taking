@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/algorithm/Sự khác nhau giữa Map và Set trong Javascript là gì ?.md",
+                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue/Stack và Queue là gì ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sự khác nhau giữa Map và Set trong Javascript là gì ?"
-            }
-          },
-          {
-            "id": "117ba5e9d7ad8a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen/concept-base/technical/programming/Javascript/Deep copy trong Javascript ? Tại sao một lập trình viên Junior cần biết ?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deep copy trong Javascript ? Tại sao một lập trình viên Junior cần biết ?"
-            }
-          },
-          {
-            "id": "2076e238e2d3d802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cấu trúc dữ liệu Trees trong khoa học máy tính"
+              "title": "Stack và Queue là gì ?"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 241.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -168,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính.md"
+                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue/Stack và Queue là gì ?.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cấu trúc dữ liệu Trees trong khoa học máy tính"
+              "title": "Outline of Stack và Queue là gì ?"
             }
           },
           {
@@ -279,41 +250,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2076e238e2d3d802",
+  "active": "f74d2c49adac955a",
   "lastOpenFiles": [
-    "Pasted image 20241210144729.png",
+    "Pasted image 20241210095206.png",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue/Stack và Queue là gì ?.md",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính.md",
+    "Evergreen/concept-base/technical/algorithm/Sự khác nhau giữa Map và Set trong Javascript là gì ?.md",
+    "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó).md",
+    "Pasted image 20241211111127.png",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md",
+    "Pasted image 20241211105326.png",
+    "Pasted image 20241211104327.png",
+    "Evergreen/concept-base/technical/programming/Javascript/Deep copy trong Javascript ? Tại sao một lập trình viên Junior cần biết ?.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/OLogN là gì ? trong thuật toán ?.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Hash Tables/Hashtable là gì ? Tại sao lại quan trọng trong lập trình.md",
+    "Pasted image 20241210161441.png",
+    "Pasted image 20241210160235.png",
+    "Pasted image 20241210153712.png",
+    "Pasted image 20241210153151.png",
+    "Pasted image 20241210152642.png",
+    "Câu hỏi phỏng vấn NAB Starcamp.md",
+    "Pasted image 20241210144729.png",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees",
     "Pasted image 20241210144210.png",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List/Linkedlist là gì ? Tại sao cần dùng Linkedlist.md",
     "LinkedList.md",
-    "Evergreen/concept-base/technical/programming/Javascript/Deep copy trong Javascript ? Tại sao một lập trình viên Junior cần biết ?.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Sự khác nhau giữa Static và Dynamic Arrays  là gì ?.md",
     "Evergreen/concept-base/technical/programming/Javascript/Cách JavaScript hoạt động như thế nào ?.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Tại sao Access trong Javascript rất nhanh ?.md",
     "Queue & Stack.md",
-    "Pasted image 20241210095255.png",
-    "Pasted image 20241210095206.png",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue",
-    "Pasted image 20241210091940.png",
-    "Pasted image 20241209170446.png",
-    "Evergreen/concept-base/technical/algorithm/Sự khác nhau giữa Map và Set trong Javascript là gì ?.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Những nguyên nhân gây ra Timecomplexity trong bộ nhớ.md",
-    "Pasted image 20241208211003.png",
     "Evergreen/concept-base/english/toeic/Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG.md",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Hash Tables/Hashtable là gì ? Tại sao lại quan trọng trong lập trình.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List",
-    "Pasted image 20241208162948.png",
-    "Pasted image 20241208115947.png",
     "HashMap.md",
-    "Pasted image 20241208094254.png",
     "Notion/Study Technical Skills/Git/Git.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Làm sao để giải quyết các bài toán lập trình ? 15 Bước cụ thể để giải quyết vấn đề.md",
     "Evergreen/concept-base/technical/data-structure/Big O là gì ?.md",
-    "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
-    "Pasted image 20241206173240.png",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Những công cụ cần thiết để chuẩn bị cho một cuộc mời phỏng vấn.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Chiều dài của mảng có độ phức tạp BigO là bao nhiêu ? Length = Array.length ? How to find ?.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/How computer store data ? Cách máy tính lưu data như thế nào ?.md",
@@ -321,9 +295,6 @@
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Array",
     "Evergreen/concept-base/technical/algorithm/Giữa lưu trữ giá trị độc nhất của Set và Map cái nào tốt hơn ?.md",
-    "Evergreen/optional-base/technical/Chế độ mặc định transaction trong nestjs là thằng đầu tiên ?.md",
-    "Evergreen/concept-base/technical/algorithm/Javascript sử dụng thuật toán gì gì?.md",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/BigO là gì trong thuật toán.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview",
     "Untitled.canvas",
