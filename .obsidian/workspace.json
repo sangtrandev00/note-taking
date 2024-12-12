@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue/Stack và Queue là gì ?.md",
+                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stack và Queue là gì ?"
+              "title": "Cấu trúc dữ liệu Graph"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue/Stack và Queue là gì ?.md"
+                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Stack và Queue là gì ?"
+              "title": "Outline of Cấu trúc dữ liệu Graph"
             }
           },
           {
@@ -250,10 +250,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f74d2c49adac955a",
+  "active": "95d62d64eb72c76b",
   "lastOpenFiles": [
-    "Pasted image 20241210095206.png",
+    "Pasted image 20241212082331.png",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue/Stack và Queue là gì ?.md",
+    "Pasted image 20241210095206.png",
     "Evergreen/concept-base/technical/algorithm/Sự khác nhau giữa Map và Set trong Javascript là gì ?.md",
     "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó).md",
@@ -273,7 +274,6 @@
     "Pasted image 20241210144729.png",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees",
-    "Pasted image 20241210144210.png",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List/Linkedlist là gì ? Tại sao cần dùng Linkedlist.md",
     "LinkedList.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Sự khác nhau giữa Static và Dynamic Arrays  là gì ?.md",
