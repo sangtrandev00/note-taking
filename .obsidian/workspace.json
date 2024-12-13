@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "e19d42316c353c74",
+        "id": "2564d0c090374bd7",
         "type": "tabs",
         "children": [
           {
-            "id": "95d62d64eb72c76b",
+            "id": "56ddf039daac51cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md",
+                "file": "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Sorting/Thuật toán sắp xếp và các loại thuật toán sắp xếp phổ biến.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cấu trúc dữ liệu Graph"
+              "title": "Thuật toán sắp xếp và các loại thuật toán sắp xếp phổ biến"
+            }
+          },
+          {
+            "id": "5e1e22c7625e9ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó)"
+            }
+          },
+          {
+            "id": "fca6165dc007d7ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#data-structure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 239.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -139,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md"
+                "file": "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Sorting/Thuật toán sắp xếp và các loại thuật toán sắp xếp phổ biến.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cấu trúc dữ liệu Graph"
+              "title": "Outline of Thuật toán sắp xếp và các loại thuật toán sắp xếp phổ biến"
             }
           },
           {
@@ -224,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 637.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,55 +274,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95d62d64eb72c76b",
+  "active": "2be1e09d7d73aefd",
   "lastOpenFiles": [
+    "Pasted image 20241213172114.png",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó).md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Sorting/Thuật toán sắp xếp và các loại thuật toán sắp xếp phổ biến.md",
+    "Pasted image 20241213163706.png",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Sorting/Thuật toán sắp xếp nào nhanh nhất ?.md",
+    "Pasted image 20241213095939.png",
+    "Pasted image 20241213095938.png",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Sorting",
+    "Untitled.canvas",
+    "Evergreen/optional-base/career/Phỏng vấn NAB Starcamp.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Recursion/Recursion (Đệ quy) là gì ? Giải thuật quan trọng trong lâp trình.md",
+    "Notion/Study Technical Skills/Study Technical Skills.md",
+    "Notion/Study Technical Skills/Data structure & Algorithm/Data Strucure/Đệ quy (Recursive Function).md",
+    "Evergreen/optional-base/career/Mindset đúng ?.md",
+    "Evergreen/optional-base/career/Làm lập trình viên có giàu được không ? Làm sao kiếm được 100 củ khoai lang 1 tháng ?.md",
+    "Evergreen/concept-base/english.md",
+    "Evergreen/concept-base/technical/database/SQL/Giải thích các thành phần trong câu lệnh explain sql query trong MySQL ?.md",
+    "Evergreen/concept-base/technical/database/SQL/Index là gì ? Khi nào nên đánh index ?.md",
+    "Evergreen/concept-base/technical/backend/nodejs/Event loop của NodeJS khác gì với JavaScript trên browser ?.md",
+    "Evergreen/concept-base/technical/interview",
+    "Evergreen/concept-base/technical/backend/nodejs/NodeJS là đơn luồng hay đa luồng ?.md",
+    "Evergreen/concept-base/technical/programming/Javascript/Eventloop trong Javscript trên browser.md",
+    "Pasted image 20241212160141.png",
+    "Evergreen/concept-base/technical/programming/Javascript/Cách JavaScript hoạt động như thế nào ?.md",
+    "Pasted image 20241212155750.png",
+    "2024-12-12.md",
+    "Evergreen/concept-base/technical/data-structure/Big O là gì ?.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Recursion",
+    "Pasted image 20241212103436.png",
     "Pasted image 20241212082331.png",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue/Stack và Queue là gì ?.md",
     "Pasted image 20241210095206.png",
     "Evergreen/concept-base/technical/algorithm/Sự khác nhau giữa Map và Set trong Javascript là gì ?.md",
     "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó).md",
     "Pasted image 20241211111127.png",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md",
     "Pasted image 20241211105326.png",
-    "Pasted image 20241211104327.png",
     "Evergreen/concept-base/technical/programming/Javascript/Deep copy trong Javascript ? Tại sao một lập trình viên Junior cần biết ?.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/OLogN là gì ? trong thuật toán ?.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Hash Tables/Hashtable là gì ? Tại sao lại quan trọng trong lập trình.md",
-    "Pasted image 20241210161441.png",
-    "Pasted image 20241210160235.png",
-    "Pasted image 20241210153712.png",
-    "Pasted image 20241210153151.png",
-    "Pasted image 20241210152642.png",
-    "Câu hỏi phỏng vấn NAB Starcamp.md",
-    "Pasted image 20241210144729.png",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List/Linkedlist là gì ? Tại sao cần dùng Linkedlist.md",
-    "LinkedList.md",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Sự khác nhau giữa Static và Dynamic Arrays  là gì ?.md",
-    "Evergreen/concept-base/technical/programming/Javascript/Cách JavaScript hoạt động như thế nào ?.md",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Tại sao Access trong Javascript rất nhanh ?.md",
-    "Queue & Stack.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Những nguyên nhân gây ra Timecomplexity trong bộ nhớ.md",
-    "Evergreen/concept-base/english/toeic/Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List",
-    "HashMap.md",
-    "Notion/Study Technical Skills/Git/Git.md",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Làm sao để giải quyết các bài toán lập trình ? 15 Bước cụ thể để giải quyết vấn đề.md",
-    "Evergreen/concept-base/technical/data-structure/Big O là gì ?.md",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Những công cụ cần thiết để chuẩn bị cho một cuộc mời phỏng vấn.md",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Chiều dài của mảng có độ phức tạp BigO là bao nhiêu ? Length = Array.length ? How to find ?.md",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/How computer store data ? Cách máy tính lưu data như thế nào ?.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Hash Tables",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Array",
-    "Evergreen/concept-base/technical/algorithm/Giữa lưu trữ giá trị độc nhất của Set và Map cái nào tốt hơn ?.md",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview",
-    "Untitled.canvas",
-    "Evergreen/concept-base/technical/devops/ci-cd",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas"

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧑‍🤝‍🧑",
       "↗",
       "LiBookOpen",
       "LiFrame",
-      "LiCloudUpload",
-      "LiAlignJustify"
+      "LiCloudUpload"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,6 @@
   "Evergreen/concept-base/technical/devops": "LiCloudUpload",
   "Evergreen/concept-base/technical/data-structure": "LiFrame",
   "Evergreen/concept-base/book": "LiBookOpen",
-  "Evergreen/concept-base/technical/experience": "↗"
+  "Evergreen/concept-base/technical/experience": "↗",
+  "Evergreen/concept-base/technical/interview": "🧑‍🤝‍🧑"
 }

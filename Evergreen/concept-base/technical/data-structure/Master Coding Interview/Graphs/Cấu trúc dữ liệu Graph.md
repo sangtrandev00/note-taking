@@ -10,7 +10,6 @@ LinkedList < Tree < Graph
 
 ## Remind me ?
 
-
 Ứng dụng Graph để xây family tree cho gia đình mình được không ? ==> Thử
 Social Network.
 Liên kết các thành phố với nhau ?
@@ -24,10 +23,7 @@ Graph có thể ứng dụng vào blockchain ?
 
 ### Directed  (Có định hướng) là gì ?
 
-
-
 ### Undirected (Không định hướng) là gì ?
-
 
 ### Weighted (Có trọng số)
 
@@ -35,5 +31,17 @@ Graph có thể ứng dụng vào blockchain ?
 
 ### Cyclic ? (Có thể thành một vòng tròn - Đi vòng ngược lại đỉnh)
 
-### Acylic ?
+### Acylic ? (Không thể quay ngược lại từ điểm xuất phát)
 
+## Cách implemenet Graph bằng code
+
+## Review Graph
+
+![[Pasted image 20241212103436.png]]
+
+## Lưu ý
+Chúng ta sẽ không bao giờ tự build một product mà implmenet graph từ đầu cả. Tốn nhiều nguồn lực, chúng ta có website có sẵn Neo4J (Graph Database)
+Điều này làm mình gợi nhớ đến 1 chuẩn API ? GraphQL ? Liệu nó có liên quan đến CTDL Graph hay không nhỉ ?
+
+--- 
+## Liên quan

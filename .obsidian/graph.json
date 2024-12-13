@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": " toeic",
+  "search": " data",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1478010314190703,
+  "scale": 0.6981037643309045,
   "close": false
 }
