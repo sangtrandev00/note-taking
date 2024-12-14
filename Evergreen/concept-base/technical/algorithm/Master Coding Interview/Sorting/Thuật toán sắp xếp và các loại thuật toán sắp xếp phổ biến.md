@@ -1,10 +1,19 @@
+---
+profileName: sangtrandev00
+postId: 3354
+postType: post
+categories:
+  - 39
+---
+Chắc hẳn trong đa số người học lập trình như chúng ta đã nghe qua về các thuật toán sắp xếp, chúng dường như xuất hiện rất nhiều trong các bài kiểm tra, phỏng vấn. Hôm nay mình sẽ dành thời gian ôn tập và cách tích hợp các loại thuật toán sắp xếp phổ biến nhất.
+
 Yêu cầu trước khi đọc các thuật toán sắp xếp ở mức độ khó như merge sort hoặc quick sort bên dưới thì các bạn phải hiểu thế nào là recursion trước (bài viết đó ở đây >> [[Recursion (Đệ quy) là gì ? Giải thuật quan trọng trong lâp trình]]). Nếu đã học rồi thì các bạn cứ tiếp tục tận hưởng thôi!
 
 Một điều nho nhỏ hơn để hiểu thuật toán như thế nào thì trong đầu mình phải có các. bước chạy của nó. https://visualgo.net/en/sorting là một trong những trang web rất hay để mô hình hoá các bước chạy tuần tự của các thuật toán phổ biến mà đặc biệt là các thuật toán merge. Hãy xem thật kỹ nó trước khi implement từng bước bằng code nhé!
 ## Các loại sắp xếp phổ biến
 
-Bên dưới là các thuật toán sắp xếp phổ biến trong lập trình. Tuy nhiên hôm nay mình sẽ trình bày 5 thuật toán căn bản nhất cần phải biết (bubble, insertion, selection, merge, quick sort )
-![[Pasted image 20241213095939.png]]
+Bên dưới là các thuật toán sắp xếp phổ biến trong lập trình. Tuy nhiên hôm nay mình sẽ trình bày 5 thuật toán căn bản nhất cần phải biết (bubble, insertion, selection, merge, quick sort ) và một số thuật toán sort phụ đính kèm!
+![Pasted image 20241213095939.png](https://trannhatsang.com/wp-content/uploads/2024/12/Pasted-image-20241213095939.png)
 					https://www.bigocheatsheet.com/
 ### Bubble sort - Thuật toán sắp xếp nổi bọt
 
@@ -304,7 +313,7 @@ console.log(answer)
 ### Quick sort - Thuật toán sắp xếp nhanh
 
 Có khá nhiều cách để tích hợp quick sort tuỳ thuộc vào cách chúng ta chọn pivot (đỉnh) của array để so sánh 
-![[Pasted image 20241213163706.png]]
+![Pasted image 20241213163706.png](https://trannhatsang.com/wp-content/uploads/2024/12/Pasted-image-20241213163706.png)
 Đây là một thuật toán khác phức tạp để implement, tham khảo code bên dưới
 ```Typescript
 const numbers = [99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0]
@@ -416,7 +425,7 @@ https://brilliant.org/wiki/heap-sort/
 Trước tiên để hiểu heap sort chúng ta phải đọc qua cấu trúc dữ liệu tree. Cụ thể là Binary Search Tree [[Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó)]]
 
 ### Thế còn các thuật toán sort khác thì sao ? Cụ thể là Heap Radix sort và Counting sort
-![[Pasted image 20241213172114.png]]
+![Pasted image 20241213172114.png](https://trannhatsang.com/wp-content/uploads/2024/12/Pasted-image-20241213172114.png)
 
 2 Thuật toán này còn được gọi là Non - Comparision Sort
 => Chỉ hiệu quả trên một tập hợp dữ liệu nhỏ và dữ liệu là một số nguyên (integer)
@@ -428,7 +437,46 @@ https://www.cs.usfca.edu/~galles/visualization/CountingSort.html
 
 ## Bài tập sử dụng sorting trong các bài phỏng vấn
 
+#1 - Sort 10 schools around your house by distance:
+My Answer: any kind of sort above.
+Solution: Insertion sort. Vì rất nhanh, dễ code, có thể danh sách trên gần được sort rồi!
+#2 - eBay sorts listings by the current Bid amount:
+My Answer: merge sort, quick sort
+Solution: Radix or counting sort 
+Giải thích: Vì bid amount thường nhỏ 1 -> 100$, là số, độ phức tạp O(n + k)
+#3 - Sort scores on ESPN
+My Answer: merge sort, quick sort
+Solution: quick sort
+Giải thích: Tập hợp data thường phức tạp, float number, rất nhiều điểm, thể loại để xử lý
+#4 - Massive database (can't fit all into memory) needs to sort through past year's user data
+My answer: quick sort
+Solution: merge sort
+Giải thích: Vì data rất lớn. Mà database lại quan tâm đến tốc độ => Quick sort có nhược điểm trường hợp xấu nhất có thể là ON^2
 
+#5 - Almost sorted Udemy review data needs to update and add 2 new reviews
+My Answer: insertion sort
+Solution: insertion sort
+Giải thích:
+#6 - Temperature Records for the past 50 years in Canada
+My Answer: merge sort, quick sort
+Solution:
++ radix, counting sort (trường hợp nhiệt độ thì là số thực)
++ quick sort (tối ưu bộ nhớ, nhanh)
+
+Giải thích: 
+#7 - Large user name database needs to be sorted. Data is very random.
+My Answer: merge sort, quick sort
+**Solution: Quick sort**
+Giải thích: Chọn được pivot tốt ?
+
+#8 - You want to teach sorting for the first time!
+bubble sort
+
+==> Lưu ý về khi trả lời các câu hỏi dạng mở như thế này. Mình cứ dùng giống 15 bước giải quyết vấn đề để trả lời. Tất nhiên không cần dùng hết, chỉ giải thích lý do tại sao lại chọn là được phân tích, clearify, communication
+
+## Fun Fact
+### Javascript sử dụng thuật toán sort gì ?
+Tuỳ thuộc vào trình duyệt (engine của trình duyệt: V8 chrome - quick sort | insertion sort (smaller array), Mozilla: merge sort )
 
 ---
 
