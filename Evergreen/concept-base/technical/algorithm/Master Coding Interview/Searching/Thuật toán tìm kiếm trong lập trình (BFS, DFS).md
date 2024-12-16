@@ -1,3 +1,10 @@
+---
+profileName: sangtrandev00
+postId: 3369
+postType: post
+categories:
+  - 39
+---
 
 ## Thuật toán tìm kiếm tuyến tính
 Thuật toán tìm kiếm tuyến tính khá đơn giản, đối tượng được tìm kiếm một cách tuần tự bằng cách lặp từ đầu đến cuối mảng. Độ phức tạp time complexity là O(n)

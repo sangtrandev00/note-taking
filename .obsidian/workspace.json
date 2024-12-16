@@ -20,65 +20,8 @@
               "icon": "lucide-file",
               "title": "Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó)"
             }
-          },
-          {
-            "id": "b712049afad7dcc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Sorting/Thuật toán sắp xếp và các loại thuật toán sắp xếp phổ biến.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thuật toán sắp xếp và các loại thuật toán sắp xếp phổ biến"
-            }
-          },
-          {
-            "id": "e7c733b239dcdbb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cấu trúc dữ liệu Graph"
-            }
-          },
-          {
-            "id": "171888e46f652fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Searching/Thuật toán tìm kiếm trong lập trình (BFS, DFS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thuật toán tìm kiếm trong lập trình (BFS, DFS)"
-            }
-          },
-          {
-            "id": "0241f85a93fe23f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cấu trúc dữ liệu Graph"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 250.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -196,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Searching/Thuật toán tìm kiếm trong lập trình (BFS, DFS).md"
+                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Thuật toán tìm kiếm trong lập trình (BFS, DFS)"
+              "title": "Outline of Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó)"
             }
           },
           {
@@ -281,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,19 +250,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "171888e46f652fdb",
+  "active": "5e1e22c7625e9ca5",
   "lastOpenFiles": [
+    "Evergreen/concept-base/technical/backend/nestjs/Trình bày tóm tắt vòng đời cách chạy của Framework Nestjs ?.md",
+    "Evergreen/concept-base/technical/backend/nodejs/NodeJS là đơn luồng hay đa luồng ?.md",
+    "Evergreen/concept-base/technical/backend/nodejs/Roadmap NodeJS.md",
+    "Evergreen/concept-base/technical/interview/Cách học và thực hành cho interview technical question.md",
+    "Evergreen/concept-base/technical/backend/nodejs/Các khái niệm chính trong NodeJS.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Dynamic Programming/Dynamic Programming là gì ? 1 kỹ thuật hữu ích để giải quyết các bài toán lập trình.md",
+    "Evergreen/concept-base/technical/interview/Coding Interview Preperation - Mọi thứ bạn cần chuẩn bị.md",
+    "Evergreen/concept-base/technical/interview/Chuẩn bị cho việc giới thiệu bản thân và các câu hỏi cuối cùng của buổi phỏng vấn (Nếu được cho phép đặt câu hỏi).md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó).md",
+    "Evergreen/optional-base/business/Có cách nào làm Affiliate marketing để kiếm tiền thụ động mỗi tháng cho ngành nghề Software của mình không ? Chỉ cần làm trong thời gian rảnh!.md",
+    "Evergreen/concept-base/technical/interview/Chuẩn bị cho buổi 1 buổi phỏng vấn hành vi (Behavior Interview).md",
+    "Evergreen/optional-base/business",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Những công cụ cần thiết để chuẩn bị cho một cuộc mời phỏng vấn.md",
+    "Evergreen/concept-base/technical/interview/Tổng quan 4 bước chuẩn bị cho buổi phỏng vấn kỹ sư phần mềm.md",
+    "Evergreen/optional-base/career/template/Template email xin việc.md",
+    "Evergreen/concept-base/technical/interview/Template giới thiệu bản thân.md",
+    "Evergreen/optional-base/career/template/Template xin việc tiếng anh - Template English.md",
+    "Pasted image 20241215170049.png",
+    "Evergreen/optional-base/career/template/Template canh lề tiếng việt email xin việc.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Searching/Thuật toán tìm kiếm trong lập trình (BFS, DFS).md",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Dynamic Programming/Dynamic Programming là gì ?.md",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Dynamic Programming",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Sorting/Thuật toán sắp xếp và các loại thuật toán sắp xếp phổ biến.md",
+    "Evergreen/optional-base/career/template",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Dynamic Programming",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Sorting/Thuật toán sắp xếp nào nhanh nhất ?.md",
     "Untitled 1.canvas",
     "Pasted image 20241214162921.png",
     "Pasted image 20241214162901.png",
     "Pasted image 20241214161941.png",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/How computer store data ? Cách máy tính lưu data như thế nào ?.md",
     "Pasted image 20241214101248.png",
     "Pasted image 20241214100833.png",
@@ -334,29 +295,11 @@
     "Evergreen/optional-base/career/Phỏng vấn NAB Starcamp.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Recursion/Recursion (Đệ quy) là gì ? Giải thuật quan trọng trong lâp trình.md",
     "Notion/Study Technical Skills/Study Technical Skills.md",
-    "Notion/Study Technical Skills/Data structure & Algorithm/Data Strucure/Đệ quy (Recursive Function).md",
-    "Evergreen/optional-base/career/Mindset đúng ?.md",
-    "Evergreen/optional-base/career/Làm lập trình viên có giàu được không ? Làm sao kiếm được 100 củ khoai lang 1 tháng ?.md",
-    "Evergreen/concept-base/english.md",
-    "Evergreen/concept-base/technical/database/SQL/Giải thích các thành phần trong câu lệnh explain sql query trong MySQL ?.md",
-    "Evergreen/concept-base/technical/database/SQL/Index là gì ? Khi nào nên đánh index ?.md",
-    "Evergreen/concept-base/technical/backend/nodejs/Event loop của NodeJS khác gì với JavaScript trên browser ?.md",
     "Evergreen/concept-base/technical/interview",
-    "Evergreen/concept-base/technical/backend/nodejs/NodeJS là đơn luồng hay đa luồng ?.md",
-    "Evergreen/concept-base/technical/programming/Javascript/Eventloop trong Javscript trên browser.md",
-    "Pasted image 20241212160141.png",
-    "Evergreen/concept-base/technical/programming/Javascript/Cách JavaScript hoạt động như thế nào ?.md",
-    "2024-12-12.md",
-    "Evergreen/concept-base/technical/data-structure/Big O là gì ?.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Recursion",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue/Stack và Queue là gì ?.md",
-    "Evergreen/concept-base/technical/algorithm/Sự khác nhau giữa Map và Set trong Javascript là gì ?.md",
-    "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Hash Tables",
     "Untitled 2.canvas",
     "Untitled 3.canvas"
   ]
