@@ -1,3 +1,10 @@
+---
+profileName: sangtrandev00
+postId: 3385
+postType: post
+categories:
+  - 39
+---
 Một kỹ thuật tối ưu trong lập trình. Caching 
 
 ## Dynamic programming là gì ?
@@ -128,7 +135,39 @@ console.log(fibTabulation(10)); // Kết quả: 55
     - **Output**: Giá trị lớn nhất có thể chứa.
     
     **Cách tiếp cận bằng DP:**
+```typescript
 
+function knapsack(
+  weights: number[],
+  values: number[],
+  capacity: number
+): number {
+  const n = weights.length
+  const dp: number[][] = Array(n + 1)
+    .fill(null)
+    .map(() => Array(capacity + 1).fill(0))
+
+  for (let i = 1; i <= n; i++) {
+    for (let w = 0; w <= capacity; w++) {
+      if (weights[i - 1] <= w) {
+        dp[i][w] = Math.max(
+          dp[i - 1][w], // Không chọn vật phẩm i
+          dp[i - 1][w - weights[i - 1]] + values[i - 1] // Chọn vật phẩm i
+        )
+      } else {
+        dp[i][w] = dp[i - 1][w]
+      }
+    }
+  }
+  return dp[n][capacity]
+}
+
+const weights = [1, 2, 3]
+const values = [6, 10, 12]
+const capacity = 5
+console.log(knapsack(weights, values, capacity)) // Kết quả: 22
+
+```
    
 
 ---
@@ -137,21 +176,41 @@ console.log(fibTabulation(10)); // Kết quả: 55
     Tìm độ dài chuỗi con chung dài nhất của hai chuỗi.
     
     **DP giải bài toán này:**
-    
+```typescript
+
+function longestCommonSubsequence(s1: string, s2: string): number {
+    const m = s1.length, n = s2.length;
+    const dp: number[][] = Array(m + 1).fill(null).map(() => Array(n + 1).fill(0));
+
+    for (let i = 1; i <= m; i++) {
+        for (let j = 1; j <= n; j++) {
+            if (s1[i - 1] === s2[j - 1]) {
+                dp[i][j] = dp[i - 1][j - 1] + 1;
+            } else {
+                dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
+            }
+        }
+    }
+    return dp[m][n]; // Cách tiếp cận này chưa tối ưu. Độ phức tạp của thuật toán time complexity là O(n^2) và space complexity
+}
+
+console.log(longestCommonSubsequence("abcde", "ace")); // Kết quả: 3
+
+```
 
 ## Khi nào thì áp dụng kỹ thuật Dynamic Programming ?
-![[Pasted image 20241215170049.png]]
+![Pasted image 20241215170049.png](https://trannhatsang.com/wp-content/uploads/2024/12/Pasted-image-20241215170049.png)
 
 
-Đặt các câu hỏi sau:
+**Đặt các câu hỏi sau:**
 1. Can be divided into subproblem (Có thể chia nhỏ thành các vấn đề phụ ?)
 2. Recursive Solution (Có thể sử dụng đệ quy ?)
 3. Are there repetitive subproblems? (Vấn đề phụ có bị lặp lại ?)
 4. Memoize subproblems (Cần phải lưu trữ các giá trị con)
 5. Demand a raise from your boss (Yêu cầu tăng lương từ Sếp của mình!, Kỹ thuật caching!)
 
-
 ## Có phải trong các ngôn ngữ lập trình khác đều sử dụng closure kết hợp với Hashtable để giải quyết vấn đề này!
+
 
 ## Một trong các bài toán phổ biến thường dùng Dynamic Programming
 
@@ -166,4 +225,7 @@ console.log(fibTabulation(10)); // Kết quả: 55
 Khi kết hợp memorize (caching) của dynamic function với recursive -> ta có thể giảm độ phức tạp không gian từ O(2^n)  xuống còn O(n) => Giảm đi bộ nhớ rất nhiều!
 
 
+---
+## Liên quan
 
+#algorithm #data-structure #dynamic-programming
