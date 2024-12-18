@@ -61,19 +61,17 @@ Explain:
 ### 5. **Handle Performance Optimization** 
 (Step 5: Optimizations and Scaling)  
 Discuss how you ensure **high performance**:
-### 6. **Caching**: 
+### 5.1. **Caching**: 
 Use Redis for fast access to frequently used data.
 - Example: "Cache active employees or frequently queried departments."
-### 7. **Indexes**: 
+### 5.2. **Indexes**: 
 Add indexes on frequently filtered columns (`department`, `isActive`).
 
-### 8. **Pagination**: 
+### 5.3. **Pagination**: 
 For large data sets, use offset and limit for API results.
 
-### 9 **Database Query Optimization**: 
+#### 5.4 **Database Query Optimization**: 
 Write efficient queries (e.g., avoid `SELECT *` and use composite indexes).
-
-
 
 
 ## 1 Bài thực hành mẫu
@@ -109,8 +107,7 @@ _Assuming the interviewer says 'Yes', proceed:_
     
     - Adding Redis improves read performance but increases system complexity.
     - Soft deletes (`isActive`) are efficient for recovery but require additional filtering in queries.
-
-6 **Example Query for Active Employees in HR**:
+    **Example Query for Active Employees in HR**:
 
 ```sql
 SELECT * FROM employees 
