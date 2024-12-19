@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/database/Giải thích về Transaction trong phỏng vấn.md",
+                "file": "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Giải thích về Transaction trong phỏng vấn"
+              "title": "Làm sao tính toán độ phức tạp của thuật toán ?"
+            }
+          },
+          {
+            "id": "c227258279917f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/technical/OOP/Có bao nhiêu hàm khởi tạo trong OOP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Có bao nhiêu hàm khởi tạo trong OOP"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 292.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -154,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/database/Giải thích về Transaction trong phỏng vấn.md"
+                "file": "Evergreen/concept-base/technical/OOP/Có bao nhiêu hàm khởi tạo trong OOP.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Giải thích về Transaction trong phỏng vấn"
+              "title": "Outline of Có bao nhiêu hàm khởi tạo trong OOP"
             }
           },
           {
@@ -239,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 470.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,10 +279,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f74d2c49adac955a",
+  "active": "2be1e09d7d73aefd",
   "lastOpenFiles": [
-    "Evergreen/concept-base/technical/database/SQL/Tại sao có Index thì việc truy vấn dữ liệu nó nhanh hơn.md",
+    "Evergreen/concept-base/technical/interview/Các câu hỏi phỏng vấn Fresher Backend.md",
+    "Evergreen/concept-base/technical/OOP/Có bao nhiêu hàm khởi tạo trong OOP.md",
+    "Evergreen/concept-base/technical/OOP/Ví dụ thực tế về các tính chất của OOP.md",
+    "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
+    "Evergreen/concept-base/technical/data-structure/Big O là gì ?.md",
+    "Evergreen/optional-base/business/Idea mình muốn tạo một web app về việc ôn tập phỏng vấn bằng tiếng việt.md",
+    "Evergreen/concept-base/technical/OOP",
     "Evergreen/concept-base/technical/database/Giải thích về Transaction trong phỏng vấn.md",
+    "Evergreen/concept-base/technical/database/SQL/Tại sao có Index thì việc truy vấn dữ liệu nó nhanh hơn.md",
     "Evergreen/concept-base/technical/OPS",
     "Notion/Study Technical Skills/Database/SQL/Index.md",
     "Evergreen/concept-base/technical/database/SQL/Index là gì ? Khi nào nên đánh index ?.md",
@@ -279,8 +300,6 @@
     "Evergreen/concept-base/technical/frontend/Coookie và Local Storage.md",
     "Evergreen/concept-base/technical/programming/Javascript/Javascript excecution context là gì ?.md",
     "Evergreen/concept-base/technical/interview/Top 13 câu hỏi phỏng vấn NodeJS.md",
-    "Evergreen/concept-base/technical/data-structure/Big O là gì ?.md",
-    "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
     "Evergreen/concept-base/technical/algorithm/Thuật toán Sort trong Javascript có độ phức tạp là bao nhiêu ?.md",
     "Evergreen/concept-base/technical/algorithm/Grind 75 Leetcode/Giải quyết Grind 75 leetcode (Cố gắng đạt 130 trên 169 câu).md",
     "Evergreen/concept-base/technical/system-design/microservice",
@@ -295,15 +314,10 @@
     "Evergreen/concept-base/technical/programming/Javascript/Cách JavaScript hoạt động như thế nào ?.md",
     "Evergreen/concept-base/technical/interview/Chuẩn bị cho buổi phỏng vấn Technical Interviews.md",
     "Evergreen/concept-base/technical/interview/Chuẩn bị cho buổi 1 buổi phỏng vấn hành vi (Behavior Interview).md",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md",
     "Evergreen/concept-base/technical/algorithm/Grind 75 Leetcode",
-    "Sơ đồ hoá Git Graph và các câu lệnh trên Git Graph.md",
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Trees/Cấu trúc dữ liệu Trees trong khoa học máy tính (Chủ đề khó).md",
-    "Evergreen/concept-base/technical/backend/nodejs/Tại sao phải nén file JSON khi lập trình web ?.md",
     "Evergreen/optional-base/business",
     "Pasted image 20241215170049.png",
     "Evergreen/optional-base/career/template",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Dynamic Programming",
     "Untitled 1.canvas",
     "Pasted image 20241214162921.png",
     "Pasted image 20241214162901.png",
