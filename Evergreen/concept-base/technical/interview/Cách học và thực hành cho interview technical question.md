@@ -5,10 +5,12 @@
 
 Có 3 cách tiếp cận
 
-### 1. Tiếp cận theo chiều rộng
+### 1. Tiếp cận theo chiều rộng (Recommend)
+Ít thời gian
 ### 2. Tiếp cận theo chiều sâu
-
-### 3. Tiếp cận theo chiều sâodeJSu -> chiều rộng
+Ít thời gian
+### 3. Tiếp cận theo chiều sâu -> chiều rộng 
+Nhiều thời gian (2 -> 3 tháng), củng cố kiến thức, nền tảng và đa dạng
 
 
 
