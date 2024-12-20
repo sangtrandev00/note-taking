@@ -12,10 +12,24 @@ Hỏi hang sơ qua về công ty, tại sao bạn lại có quan hệ và nhận
 
 Database
 + MySQL
+	+ Quá trình làm việc bạn có thiết kế database không ?
+		+ Bạn đã thiết kế nó như thế nào ?
+			+ Nêu lên tạo bảng
+			+ Liên kế khoá chinh, khoá ngoại
+			+ Đánh index
+			+ Ràng buộc constraint
+				+ Unique
+			+ Chuẩn hoá (Boych, hoặc 3NF)
+			+ Sử dụng trigger
+				+ After insert
+				+ Before insert
+				+ Cho ví dụ ?
 	+ Transaction
+		+ Nêu khái niệm
 		+ Kể các cấp độ của transaction (4 cấp độ kể đủ)
+			+ 
 		+ Default transaction trong MySQL
-			+ REPEATABLE READ
+			+ **REPEATABLE READ**
 	+ Typeorm
 		+ Cách khai báo transaction typeorm
 		+ Có hay viết raw query hay không ? => Làm thế nào để tối ưu câu lệnh sql query ?
@@ -32,6 +46,7 @@ Database
 	+ Trong database bạn có sử dụng các thủ tục của procedure hay trigger gì không ? Sử dụng nó như thế nào ?
 	+ Bạn có biết cách sử dụng replica set không ?
 	+ Bạn có bao giờ viết raw SQL trong code chưa ? Lệnh Join dài nhất
+		+ Lệnh join của bạn đã được 10 bảng chưa ?
 + MongoDB
 	+ So sánh giữa hàm find và aggreate trong MongoDB
 + So sánh giữa Relation Database và No SQL 
@@ -67,6 +82,9 @@ NestJS (Hỏi sâu): => **Cần đọc kỹ lại Docs. Đặt câu hỏi trên 
 + Bảo mật các thông tin truyền qua header như thế nào ?
 + Các cơ chế bảo mật mà bạn biết trong quá trình deploy dự án 
 + Bạn đã từng deploy dự án chưa ?
++ Bạn đã từng áp dụng Web socket chưa ? Áp dụng như thế nào ?
+	+ Hỏi các câu hỏi sâu hơn về Socket.io
++ Làm thế nào để lưu lại tin nhắn khi tắt khỏi connection của socket
 Cơ chế log
 	+ Bạn sử lý và log lỗi như thế nào ?
 	+ Exception nằm ở tầng nào ?
@@ -90,7 +108,7 @@ Programming:
 	+ Các kiểu dữ liệu utility bạn thường sài
 	+ Tại sao dùng interface mà không dùng type
 	+ Bạn có hay dùng kiểu dữ liệu Generic không ?
-Mô hình MicroService ?
+Mô hình Microservice ?
 Có tìm hiểu hay không -> Hỏi sâu -> Xoáy sâu đến chịu!
 
 Nghiệp vụ dự án
@@ -105,7 +123,8 @@ Nghiệp vụ dự án
 Văn hoá công ty
 Mục tiêu công ty
 Các ứng dụng mục tiêu sẽ triển khai trong thời gian tới
-
+Team size công ty đang có
+Công nghệ công ty đang áp dụng
 
 --- 
 ## Cảm nhận

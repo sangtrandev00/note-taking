@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2564d0c090374bd7",
+        "id": "ae2cfad63b9a2c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "5e1e22c7625e9ca5",
+            "id": "dc7f029b3617afb0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "d24a23bf403e1b85",
+            "id": "d322a6ec516ca68d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,20 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024"
-            }
-          },
-          {
-            "id": "bb0d287022694d95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion/Study Technical Skills/Database/SQL/Compare 4 type of transaction in SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Compare 4 type of transaction in SQL"
             }
           }
         ],
@@ -98,12 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 339.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -250,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 578.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,12 +261,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d24a23bf403e1b85",
+  "active": "d322a6ec516ca68d",
   "lastOpenFiles": [
-    "Notion/Study Technical Skills/Database/SQL/Compare 4 type of transaction in SQL.md",
-    "Evergreen/concept-base/technical/interview/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
-    "Evergreen/concept-base/technical/interview/Cách để trình bày một câu hỏi về System Design trong buổi phỏng vấn của bạn. 1 Ví dụ mẫu.md",
     "Evergreen/concept-base/technical/interview/Các câu hỏi phỏng vấn Fresher Backend.md",
+    "Evergreen/concept-base/technical/backend/nodejs/13 câu hỏi phỏng vấn NodeJS phổ biến.md",
+    "Evergreen/concept-base/technical/backend/nodejs/Các khái niệm chính trong NodeJS.md",
+    "Evergreen/concept-base/technical/backend/nodejs/Event Driven trong Programming là gì ?.md",
+    "Evergreen/concept-base/technical/backend/nodejs/Event loop của NodeJS khác gì với JavaScript trên browser ?.md",
+    "Evergreen/concept-base/technical/backend/nodejs/NodeJS là đơn luồng hay đa luồng ?.md",
+    "Evergreen/concept-base/technical/backend/nodejs/Roadmap NodeJS.md",
+    "Evergreen/concept-base/technical/backend/nodejs/Tại sao phải nén file JSON khi lập trình web ?.md",
+    "Evergreen/optional-base/technical/Đánh index từ ngoài vào trong là chiến lược đánh index chuẩn ?.md",
+    "Evergreen/optional-base/technical/Chiến lược đánh Index trong database.md",
+    "2024-12-20.md",
+    "Notion/Study Technical Skills/Database/Database.md",
+    "Evergreen/concept-base/technical/interview/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
+    "Notion/Study Technical Skills/Database/SQL/Compare 4 type of transaction in SQL.md",
+    "Evergreen/concept-base/technical/interview/Cách để trình bày một câu hỏi về System Design trong buổi phỏng vấn của bạn. 1 Ví dụ mẫu.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Searching/Thuật toán tìm kiếm trong lập trình (BFS, DFS).md",
     "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
     "Evergreen/concept-base/technical/interview/Mô hình hoá cách lưu dữ liệu và index trong SQL.md",
@@ -294,19 +290,8 @@
     "Evergreen/concept-base/technical/data-structure/Big O là gì ?.md",
     "Evergreen/optional-base/business/Idea mình muốn tạo một web app về việc ôn tập phỏng vấn bằng tiếng việt.md",
     "Evergreen/concept-base/technical/OOP",
-    "Evergreen/concept-base/technical/database/Giải thích về Transaction trong phỏng vấn.md",
     "Evergreen/concept-base/technical/OPS",
-    "Notion/Study Technical Skills/Database/SQL/Index.md",
-    "Evergreen/concept-base/technical/database/SQL/Index là gì ? Khi nào nên đánh index ?.md",
-    "Evergreen/concept-base/technical/programming/Javascript/So sánh giữa null và undefined.md",
-    "Evergreen/concept-base/technical/programming/Javascript/Cây DOM là gì ?.md",
     "Evergreen/concept-base/technical/programming/Javascript/Untitled",
-    "Evergreen/concept-base/technical/frontend/So sánh giữa cookie, localStorage, sessionStorage.md",
-    "Evergreen/concept-base/technical/frontend/Coookie và Local Storage.md",
-    "Evergreen/concept-base/technical/programming/Javascript/Javascript excecution context là gì ?.md",
-    "Evergreen/concept-base/technical/interview/Top 13 câu hỏi phỏng vấn NodeJS.md",
-    "Evergreen/concept-base/technical/algorithm/Thuật toán Sort trong Javascript có độ phức tạp là bao nhiêu ?.md",
-    "Evergreen/concept-base/technical/algorithm/Grind 75 Leetcode/Giải quyết Grind 75 leetcode (Cố gắng đạt 130 trên 169 câu).md",
     "Evergreen/concept-base/technical/system-design/microservice",
     "Evergreen/concept-base/technical/system-design/mvc",
     "Evergreen/concept-base/technical/system-design/layers",
