@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "d322a6ec516ca68d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen/concept-base/technical/interview/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 245.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -149,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Evergreen/concept-base/technical/interview/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024"
+              "title": "Outline"
             }
           },
           {
@@ -235,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 578.5
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,8 +244,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d322a6ec516ca68d",
+  "active": "dc7f029b3617afb0",
   "lastOpenFiles": [
+    "Evergreen/concept-base/technical/backend/nestjs/Trình bày tóm tắt vòng đời cách chạy của Framework Nestjs ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/DI là gì trong NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/Fundamental của NestJS (Cover lại kiến thức).md",
+    "Evergreen/concept-base/technical/backend/nestjs/techniques",
+    "Evergreen/concept-base/technical/backend/nestjs/security",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental",
+    "Evergreen/concept-base/technical/backend/nestjs/Các khái niệm cần tìm hiểu thêm về NestJS.md",
+    "Evergreen/concept-base/technical/devops/docker/Sự khác nhau giữa Docker file và Docker Compose.md",
+    "Evergreen/concept-base/technical/interview/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
     "Evergreen/concept-base/technical/interview/Các câu hỏi phỏng vấn Fresher Backend.md",
     "Evergreen/concept-base/technical/backend/nodejs/13 câu hỏi phỏng vấn NodeJS phổ biến.md",
     "Evergreen/concept-base/technical/backend/nodejs/Các khái niệm chính trong NodeJS.md",
@@ -275,7 +267,6 @@
     "Evergreen/optional-base/technical/Chiến lược đánh Index trong database.md",
     "2024-12-20.md",
     "Notion/Study Technical Skills/Database/Database.md",
-    "Evergreen/concept-base/technical/interview/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
     "Notion/Study Technical Skills/Database/SQL/Compare 4 type of transaction in SQL.md",
     "Evergreen/concept-base/technical/interview/Cách để trình bày một câu hỏi về System Design trong buổi phỏng vấn của bạn. 1 Ví dụ mẫu.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Searching/Thuật toán tìm kiếm trong lập trình (BFS, DFS).md",
@@ -284,11 +275,6 @@
     "Evergreen/concept-base/technical/interview/Index là gì ? trong CSDL.md",
     "Evergreen/concept-base/technical/database/SQL/Tại sao có Index thì việc truy vấn dữ liệu nó nhanh hơn.md",
     "Evergreen/concept-base/technical/interview/Cách học và thực hành cho interview technical question.md",
-    "Evergreen/concept-base/technical/OOP/Phân biệt giữa Overloading và Overriding.md",
-    "Evergreen/concept-base/technical/OOP/Có bao nhiêu hàm khởi tạo trong OOP.md",
-    "Evergreen/concept-base/technical/OOP/Ví dụ thực tế về các tính chất của OOP.md",
-    "Evergreen/concept-base/technical/data-structure/Big O là gì ?.md",
-    "Evergreen/optional-base/business/Idea mình muốn tạo một web app về việc ôn tập phỏng vấn bằng tiếng việt.md",
     "Evergreen/concept-base/technical/OOP",
     "Evergreen/concept-base/technical/OPS",
     "Evergreen/concept-base/technical/programming/Javascript/Untitled",
@@ -296,10 +282,7 @@
     "Evergreen/concept-base/technical/system-design/mvc",
     "Evergreen/concept-base/technical/system-design/layers",
     "Evergreen/concept-base/technical/system-design",
-    "Evergreen/concept-base/technical/algorithm/Grind 75 Leetcode",
-    "Evergreen/optional-base/business",
     "Pasted image 20241215170049.png",
-    "Evergreen/optional-base/career/template",
     "Untitled 1.canvas",
     "Pasted image 20241214162921.png",
     "Pasted image 20241214162901.png",
