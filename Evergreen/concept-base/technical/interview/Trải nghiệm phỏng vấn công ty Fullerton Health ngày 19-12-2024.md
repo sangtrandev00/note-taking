@@ -108,6 +108,7 @@ Programming:
 	+ Các kiểu dữ liệu utility bạn thường sài
 	+ Tại sao dùng interface mà không dùng type
 	+ Bạn có hay dùng kiểu dữ liệu Generic không ?
+	+ Tại sao dùng type được mà lại sử dụng interface ?
 Mô hình Microservice ?
 Có tìm hiểu hay không -> Hỏi sâu -> Xoáy sâu đến chịu!
 
