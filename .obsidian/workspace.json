@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Custom Providers là gì trong NestJS ?.md",
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom Providers là gì trong NestJS ?"
+              "title": "Dynamic Module"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Custom Providers là gì trong NestJS ?.md"
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Custom Providers là gì trong NestJS ?"
+              "title": "Outline of Dynamic Module"
             }
           },
           {
@@ -252,8 +252,13 @@
   },
   "active": "a153cb6de4fe591a",
   "lastOpenFiles": [
-    "Evergreen/concept-base/technical/backend/nestjs/overview/Exception Filters là gì ? 1 tầng bắt lỗi phải biết trong NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/security/Rate limiting.md",
+    "Evergreen/concept-base/technical/backend/nestjs/security/CSRF Protection là gì trong NestJS và cách phòng chống ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/security/CORS là gì trong NestJS ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/security/Helmet là gì trong NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Custom Providers là gì trong NestJS ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/overview/Exception Filters là gì ? 1 tầng bắt lỗi phải biết trong NestJS.md",
     "Evergreen/concept-base/technical/backend/nestjs/overview",
     "Evergreen/concept-base/technical/interview/Chiến lược và kịch bản đàm phán lương.md",
     "Evergreen/concept-base/technical/backend/nestjs/DI là gì trong NestJS, Dependency Injection.md",
@@ -277,11 +282,6 @@
     "Evergreen/optional-base/technical/Chiến lược đánh Index trong database.md",
     "2024-12-20.md",
     "Notion/Study Technical Skills/Database/Database.md",
-    "Notion/Study Technical Skills/Database/SQL/Compare 4 type of transaction in SQL.md",
-    "Evergreen/concept-base/technical/interview/Cách để trình bày một câu hỏi về System Design trong buổi phỏng vấn của bạn. 1 Ví dụ mẫu.md",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/Searching/Thuật toán tìm kiếm trong lập trình (BFS, DFS).md",
-    "Evergreen/concept-base/technical/data-structure/Làm sao tính toán độ phức tạp của thuật toán ?.md",
-    "Evergreen/concept-base/technical/interview/Mô hình hoá cách lưu dữ liệu và index trong SQL.md",
     "Evergreen/concept-base/technical/OOP",
     "Evergreen/concept-base/technical/OPS",
     "Evergreen/concept-base/technical/programming/Javascript/Untitled",
