@@ -19,15 +19,19 @@ Database
 			+ Đánh index
 			+ Ràng buộc constraint
 				+ Unique
-			+ Chuẩn hoá (Boych, hoặc 3NF)
+			+ Chuẩn hoá **(Boyce-codd, hoặc 3NF)**
 			+ Sử dụng trigger
 				+ After insert
 				+ Before insert
 				+ Cho ví dụ ?
-	+ Transaction
+	+ **Transaction**
+		+ [[Compare 4 type of transaction in SQL]]]
 		+ Nêu khái niệm
 		+ Kể các cấp độ của transaction (4 cấp độ kể đủ)
-			+ 
+			+ Uncommit
+			+ Commit
+			+ Repetable read
+			+ Serializable
 		+ Default transaction trong MySQL
 			+ **REPEATABLE READ**
 	+ Typeorm

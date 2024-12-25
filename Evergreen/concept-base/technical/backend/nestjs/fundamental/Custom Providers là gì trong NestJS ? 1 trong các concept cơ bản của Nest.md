@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3408
+postType: post
+categories:
+  - 39
+---
 Trong NestJS, **Custom Providers** được sử dụng để tùy chỉnh cách mà các dependency được quản lý và cung cấp trong ứng dụng. Chúng cung cấp một cách linh hoạt để xác định và thay thế các logic mặc định của **dependency injection (DI)**.
 
 Dưới đây là giải thích chi tiết về các khái niệm Custom Providers cùng với ví dụ, được diễn giải bằng tiếng Việt.
