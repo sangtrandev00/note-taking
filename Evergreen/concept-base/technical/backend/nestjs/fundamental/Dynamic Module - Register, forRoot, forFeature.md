@@ -1,4 +1,6 @@
 
+Trong series về NestJS trong mục [[Nestjs cơ bản]] thì một khái niệm mình đã từng gặp trong buổi phỏng vấn đó là Dynamic Module. Vậy Dynamic Module là gì ? Tại sao cần dùng cho lập trình viên NestJS Backend.
+
 Dynamic Modules trong NestJS là một tính năng mạnh mẽ, cho phép bạn tạo ra các module có thể cấu hình được (configurable modules). Điều này rất hữu ích khi bạn muốn tái sử dụng một module với các cấu hình khác nhau hoặc phụ thuộc vào các điều kiện cụ thể trong ứng dụng của mình.
 
 Hãy bắt đầu với một ví dụ thực tế:
@@ -10,6 +12,34 @@ Hãy bắt đầu với một ví dụ thực tế:
 
 ```typescript
 
+// database.module.ts
+import { Module, DynamicModule } from '@nestjs/common';
+
+@Module({})
+export class DatabaseModule {
+  static forRoot(options: { type: string; host: string }): DynamicModule {
+    const providers = [
+      {
+        provide: 'DATABASE_CONNECTION',
+        useFactory: async () => {
+          if (options.type === 'mysql') {
+            return `Kết nối MySQL tại ${options.host}`;
+          } else if (options.type === 'mongodb') {
+            return `Kết nối MongoDB tại ${options.host}`;
+          }
+          throw new Error('Loại cơ sở dữ liệu không được hỗ trợ!');
+        },
+      },
+    ];
+
+    return {
+      module: DatabaseModule,
+      providers: providers,
+      exports: providers,
+    };
+  }
+}
+
 
 ```
 
@@ -19,6 +49,21 @@ Hãy bắt đầu với một ví dụ thực tế:
 
 ```typescript
 
+// app.module.ts
+import { Module } from '@nestjs/common';
+import { DatabaseModule } from './database.module';
+
+@Module({
+  imports: [
+    DatabaseModule.forRoot({
+      type: 'mysql',
+      host: 'localhost',
+    }),
+  ],
+})
+
+export class AppModule {}
+
 
 ```
 
@@ -27,6 +72,34 @@ Hãy bắt đầu với một ví dụ thực tế:
 ### **Bước 3: Inject và sử dụng kết nối**
 
 ```typescript
+
+// app.service.ts
+import { Injectable, Inject } from '@nestjs/common';
+
+@Injectable()
+export class AppService {
+  constructor(
+    @Inject('DATABASE_CONNECTION') private readonly connection: string,
+  ) {}
+
+  getConnectionInfo(): string {
+    return this.connection;
+  }
+}
+
+// app.controller.ts
+import { Controller, Get } from '@nestjs/common';
+import { AppService } from './app.service';
+
+@Controller()
+export class AppController {
+  constructor(private readonly appService: AppService) {}
+
+  @Get('connection')
+  getConnection(): string {
+    return this.appService.getConnectionInfo();
+  }
+}
 
 
 ```
@@ -65,11 +138,43 @@ Khi bạn chạy ứng dụng và truy cập endpoint `/connection`, bạn sẽ 
 
 ### 1. **Cấu hình `DatabaseModule`**
 
-typescript
+```typescript
+// database.module.ts
+import { Module, DynamicModule } from '@nestjs/common';
 
-Sao chép mã
+@Module({})
+export class DatabaseModule {
+  static forRoot(options: { type: string; host: string }): DynamicModule {
+    const providers = [
+      {
+        provide: 'DATABASE_CONNECTION',
+        useValue: `Kết nối ${options.type} tại ${options.host}`,
+      },
+    ];
 
-``// database.module.ts import { Module, DynamicModule } from '@nestjs/common';  @Module({}) export class DatabaseModule {   static forRoot(options: { type: string; host: string }): DynamicModule {     const providers = [       {         provide: 'DATABASE_CONNECTION',         useValue: `Kết nối ${options.type} tại ${options.host}`,       },     ];      return {       module: DatabaseModule,       providers: providers,       exports: providers,     };   }    static forFeature(entities: string[]): DynamicModule {     const providers = entities.map((entity) => ({       provide: `${entity.toUpperCase()}_REPOSITORY`,       useValue: `${entity} repository`,     }));      return {       module: DatabaseModule,       providers: providers,       exports: providers,     };   } }``
+    return {
+      module: DatabaseModule,
+      providers: providers,
+      exports: providers,
+    };
+  }
+
+  static forFeature(entities: string[]): DynamicModule {
+    const providers = entities.map((entity) => ({
+      provide: `${entity.toUpperCase()}_REPOSITORY`,
+      useValue: `${entity} repository`,
+    }));
+
+    return {
+      module: DatabaseModule,
+      providers: providers,
+      exports: providers,
+    };
+  }
+}
+
+
+```
 
 - **`forRoot(options)`**:
     
@@ -82,12 +187,24 @@ Sao chép mã
 
 ### 2. **Sử dụng `forRoot()` trong `AppModule`**
 
-typescript
 
-Sao chép mã
+```typescript
 
-`// app.module.ts import { Module } from '@nestjs/common'; import { DatabaseModule } from './database.module'; import { UserModule } from './user.module';  @Module({   imports: [     DatabaseModule.forRoot({ type: 'mysql', host: 'localhost' }),     UserModule,   ], }) export class AppModule {}`
+// app.module.ts
+import { Module } from '@nestjs/common';
+import { DatabaseModule } from './database.module';
+import { UserModule } from './user.module';
 
+@Module({
+  imports: [
+    DatabaseModule.forRoot({ type: 'mysql', host: 'localhost' }),
+    UserModule,
+  ],
+})
+export class AppModule {}
+
+
+```
 - Kết nối cơ sở dữ liệu MySQL được cấu hình cho toàn bộ ứng dụng.
 
 ---
@@ -96,29 +213,64 @@ Sao chép mã
 
 #### **Tạo `UserModule`**
 
-typescript
+```typescript
 
-Sao chép mã
+// user.module.ts
+import { Module } from '@nestjs/common';
+import { DatabaseModule } from './database.module';
+import { UserService } from './user.service';
 
-`// user.module.ts import { Module } from '@nestjs/common'; import { DatabaseModule } from './database.module'; import { UserService } from './user.service';  @Module({   imports: [     DatabaseModule.forFeature(['user', 'profile']),   ],   providers: [UserService], }) export class UserModule {}`
+@Module({
+  imports: [
+    DatabaseModule.forFeature(['user', 'profile']),
+  ],
+  providers: [UserService],
+})
+export class UserModule {}
+
+
+```
 
 #### **Dịch vụ sử dụng repository**
 
-typescript
+```typescript
 
-Sao chép mã
+// user.service.ts
+import { Injectable, Inject } from '@nestjs/common';
 
-`// user.service.ts import { Injectable, Inject } from '@nestjs/common';  @Injectable() export class UserService {   constructor(     @Inject('USER_REPOSITORY') private readonly userRepository: string,     @Inject('PROFILE_REPOSITORY') private readonly profileRepository: string,   ) {}    getRepositories(): string[] {     return [this.userRepository, this.profileRepository];   } }  // user.controller.ts import { Controller, Get } from '@nestjs/common'; import { UserService } from './user.service';  @Controller('users') export class UserController {   constructor(private readonly userService: UserService) {}    @Get('repositories')   getRepositories(): string[] {     return this.userService.getRepositories();   } }`
+@Injectable()
+export class UserService {
+  constructor(
+    @Inject('USER_REPOSITORY') private readonly userRepository: string,
+    @Inject('PROFILE_REPOSITORY') private readonly profileRepository: string,
+  ) {}
+
+  getRepositories(): string[] {
+    return [this.userRepository, this.profileRepository];
+  }
+}
+
+// user.controller.ts
+import { Controller, Get } from '@nestjs/common';
+import { UserService } from './user.service';
+
+@Controller('users')
+export class UserController {
+  constructor(private readonly userService: UserService) {}
+
+  @Get('repositories')
+  getRepositories(): string[] {
+    return this.userService.getRepositories();
+  }
+}
+
+```
 
 ---
 
 ### **Kết quả**
 
 1. Khi bạn truy cập vào endpoint `/users/repositories`, bạn sẽ nhận được:
-
-json
-
-Sao chép mã
 
 `[   "user repository",   "profile repository" ]`
 
@@ -158,5 +310,8 @@ Sao chép mã
 ## Liên quan
 https://docs.nestjs.com/fundamentals/dynamic-modules
 https://chatgpt.com/share/676a1f1a-3db4-8013-9883-27534795d3bd
+https://chatgpt.com/share/676a1f1a-3db4-8013-9883-27534795d3bd
 https://github.com/nestjs/nest/tree/master/sample/25-dynamic-modules
+https://github.com/sangtrandev00/dynamic-modules-nestjs
+
 #nestjs #nodejs #backend 

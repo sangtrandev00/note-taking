@@ -48,7 +48,8 @@ Database
 		+ Đánh index như vào bảng như thế nào để không ảnh hưởng đến các chức năng trước đó
 		+ Có những loại index nào ?
 	+ Trong database bạn có sử dụng các thủ tục của procedure hay trigger gì không ? Sử dụng nó như thế nào ?
-	+ Bạn có biết cách sử dụng replica set không ?
+	+ Bạn có biết cách sử dụng **replica set** không ?
+		+ https://chatgpt.com/share/676bb0fe-9cc0-8013-b394-1158d2ccda80
 	+ Bạn có bao giờ viết raw SQL trong code chưa ? Lệnh Join dài nhất
 		+ Lệnh join của bạn đã được 10 bảng chưa ?
 + MongoDB
@@ -88,6 +89,7 @@ NestJS (Hỏi sâu): => **Cần đọc kỹ lại Docs. Đặt câu hỏi trên 
 + Bạn đã từng deploy dự án chưa ?
 + Bạn đã từng áp dụng Web socket chưa ? Áp dụng như thế nào ?
 	+ Hỏi các câu hỏi sâu hơn về Socket.io
+	+ https://chatgpt.com/share/676bb13c-90a4-8013-9bd5-a8ddf72d6d16
 + Làm thế nào để lưu lại tin nhắn khi tắt khỏi connection của socket
 Cơ chế log
 	+ Bạn sử lý và log lỗi như thế nào ?
@@ -109,6 +111,12 @@ Programming:
 	+ Async Await khác gì so với Promise
 + Typescript
 	+ Các kiểu dữ liệu thường dùng
+		+ Partial
+		+ Required
+		+ Reaonly
+		+ Omit
+		+ Record
+		+ Pick
 	+ Các kiểu dữ liệu utility bạn thường sài
 	+ Tại sao dùng interface mà không dùng type
 	+ Bạn có hay dùng kiểu dữ liệu Generic không ?

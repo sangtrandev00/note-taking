@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e08de8413d49790b",
+        "id": "9bb2601432f0021a",
         "type": "tabs",
         "children": [
           {
-            "id": "091f35ba6470e757",
+            "id": "df3a2b3c6e3e6776",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/interview/unitysport/Kiến thức về Server - NgInx.md",
+                "file": "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kiến thức về Server - NgInx"
+              "title": "Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport"
+            }
+          },
+          {
+            "id": "685a18e61f90b974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Module - Register, forRoot, forFeature"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transaction",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 245.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/interview/unitysport/Kiến thức về Server - NgInx.md"
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kiến thức về Server - NgInx"
+              "title": "Outline of Dynamic Module - Register, forRoot, forFeature"
             }
           },
           {
@@ -224,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 650.5
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,39 +265,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "091f35ba6470e757",
+  "active": "685a18e61f90b974",
   "lastOpenFiles": [
+    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport.md",
+    "Evergreen/concept-base/technical/interview/unitysport/Trải nghiệm phỏng vấn tại công ty Unitysport.md",
     "Evergreen/concept-base/technical/interview/unitysport/Luyện tập phỏng vấn công ty UnitySport.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
+    "Evergreen/concept-base/english/toeic/grammar/Sự khác biệt giữa among và between là gì ?.md",
+    "Evergreen/concept-base/english/toeic/grammar/Phân biệt both of, neither of, either of.md",
+    "Evergreen/concept-base/english/toeic/grammar/Phân biệt within trong bài thi TOEIC.md",
+    "Evergreen/concept-base/english/toeic/test/Test 4 ETS 2022 - Sửa đề LC Part 1,2,3,4.md",
+    "Evergreen/concept-base/english/toeic/test/Test 4 ETS 2022 - Chữa đề RC Part 5,6,7.md",
+    "Evergreen/concept-base/english/toeic/test/Test 3 ETS 2022 - Sửa đề LC Part 1,2,3,4.md",
+    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề Part 7.md",
+    "Evergreen/concept-base/english/toeic/Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG.md",
+    "Evergreen/concept-base/english/toeic/Chuẩn bị gì trước khi đi thi TOEIC.md",
+    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/BigO là gì trong thuật toán.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Graphs/Cấu trúc dữ liệu Graph.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List/Linkedlist là gì ? Tại sao cần dùng Linkedlist.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Stack & Queue/Stack và Queue là gì ?.md",
+    "Notion/Study Technical Skills/Database/SQL/SQL.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Tại sao Access trong Javascript rất nhanh ?.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Sự khác nhau giữa Static và Dynamic Arrays  là gì ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Custom Providers là gì trong NestJS ? 1 trong các concept cơ bản của Nest.md",
     "Evergreen/concept-base/technical/interview/unitysport/Kiến thức về Server - NgInx.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Cách thiết kế một test đơn giản để kiểm tra 1 API.md",
-    "Evergreen/concept-base/technical/interview/security/CORS là gì ?.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Helmet là gì ? Cách sử dụng thư viện Helmet.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Các cách bảo mật.md",
-    "Evergreen/concept-base/technical/interview/security/Bảo mật XSS là gì ? Cách ngăn chặn tấn công.md",
-    "Evergreen/concept-base/technical/interview/Câu hỏi phỏng vấn, cách thiết kế 1 Restful API cơ bản.md",
-    "Evergreen/concept-base/technical/interview/security",
-    "Evergreen/concept-base/technical/interview/Các cách tôi ưu một API.md",
-    "Evergreen/concept-base/technical/interview/Bạn sẽ lựa chọn loại database nào khi là leader của dự án.md",
-    "Evergreen/concept-base/technical/interview/Thread pool trong NodeJS là gì ?.md",
-    "Evergreen/concept-base/technical/interview/Index là gì ? trong CSDL.md",
-    "Evergreen/concept-base/technical/interview/Chuẩn bị cho việc giới thiệu bản thân và các câu hỏi cuối cùng của buổi phỏng vấn (Nếu được cho phép đặt câu hỏi).md",
-    "Evergreen/concept-base/technical/interview/Chuẩn bị cho buổi 1 buổi phỏng vấn hành vi (Behavior Interview).md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Bạn có dùng trigger và procedure không ? Dùng trong trường hợp nào.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Có bao nhiêu loại Index đó là những loại nào ?.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Cách thiết kế database như thế nào ? Các bước em sẽ thực hiện khi thiết kế database là gì ?.md",
-    "Evergreen/concept-base/technical/database/SQL/Database lưu index sử dụng cơ sở dữ liệu gì ?.md",
-    "Evergreen/concept-base/technical/interview/unitysport",
-    "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md",
-    "Evergreen/concept-base/technical/interview/Block Eventloop và cách xử lý.md",
-    "Evergreen/concept-base/technical/interview/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Sự khác nhau giữa Docker File và Docker Compose.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi phỏng vấn Typescript thường gặp.md",
     "Notion/Study Technical Skills/Database/SQL/Compare 4 type of transaction in SQL.md",
+    "Evergreen/concept-base/technical/interview/security",
+    "Evergreen/concept-base/technical/interview/unitysport",
     "Evergreen/concept-base/technical/interview/fullteron health/Untitled",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Injection Scopes là gì ?.md",
     "Evergreen/concept-base/technical/interview/fullteron health",
-    "Evergreen/concept-base/technical/interview/Top 13 câu hỏi phỏng vấn NodeJS.md",
     "Untitled 2.canvas",
-    "Evergreen/concept-base/technical/database/Giải thích về Transaction trong phỏng vấn.md",
-    "Notion/Study Technical Skills/Database/SQL/Transaction.md",
     "Evergreen/concept-base/technical/backend/nestjs/overview",
     "Evergreen/concept-base/technical/backend/nestjs/techniques",
     "Evergreen/concept-base/technical/backend/nestjs/security",
