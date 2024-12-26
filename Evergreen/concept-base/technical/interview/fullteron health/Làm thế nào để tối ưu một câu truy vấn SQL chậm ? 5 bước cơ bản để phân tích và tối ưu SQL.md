@@ -1,6 +1,10 @@
 
+Trong quá trình đi làm được thao tác trực tiếp với cơ sở dữ liệu, đặc biệt là cơ sở dữ liệu SQL mình nhận thấy rằng việc phân tích tại sao một câu lệnh SQL chậm cũng rất quan trọng, nó là kiến thức nền tảng giúp mình tối ưu lênh trong ứng dụng lập trình hàng ngày.
+Hơn thế nữa nó cũng là kiến thức nền tảng và thường xuyên được hỏi trong hành trình phỏng vấn Backend Job của mình. 
+Vậy có những chiến lược hay các hướng tiếp cận kinh điển nào nên áp dụng khi phân tích một câu lệnh SQL từ đó đưa ra các cơ sở để tối ưu. Hãy cùng đọc bài viết bên dưới nhé
 
-**1. Phân tích vấn đề**  
+## **1. Phân tích vấn đề**  
+
 Trước tiên, tôi sẽ xác định nguyên nhân khiến truy vấn chậm bằng cách:
 
 - **Sử dụng công cụ profiling hoặc explain/execution plan**:
@@ -14,7 +18,7 @@ Trước tiên, tôi sẽ xác định nguyên nhân khiến truy vấn chậm b
 
 ---
 
-**2. Tối ưu hóa truy vấn**  
+## **2. Tối ưu hóa truy vấn**  
 Dựa trên kết quả phân tích, tôi sẽ áp dụng các kỹ thuật sau:
 
 - **Thêm hoặc tối ưu hóa Index**:
@@ -31,11 +35,9 @@ Dựa trên kết quả phân tích, tôi sẽ áp dụng các kỹ thuật sau:
 SELECT column1, column2 FROM table_name WHERE condition;
 
 ```
-
-
         
-        Thay vì `SELECT *`, chỉ lấy các cột cần dùng.
-    - **Sử dụng LIMIT** nếu chỉ cần kết quả nhỏ.
+	+ Thay vì `SELECT *`, chỉ lấy các cột cần dùng.
+	- **Sử dụng LIMIT** nếu chỉ cần kết quả nhỏ.
 - **Tối ưu hóa Joins**:
     
     - Sử dụng đúng index cho các cột trong `ON` hoặc `JOIN`.
@@ -49,7 +51,7 @@ SELECT column1, column2 FROM table_name WHERE condition;
 
 ---
 
-**3. Tối ưu hóa cấu trúc cơ sở dữ liệu**
+## **3. Tối ưu hóa cấu trúc cơ sở dữ liệu**
 
 - **Chuẩn hóa dữ liệu (Normalization)**:
     - Giảm dữ liệu lặp lại bằng cách tách bảng hợp lý.
@@ -58,7 +60,7 @@ SELECT column1, column2 FROM table_name WHERE condition;
 
 ---
 
-**4. Kiểm tra sau tối ưu hóa**
+## **4. Kiểm tra sau tối ưu hóa**
 
 - **Chạy lại truy vấn với EXPLAIN**:
     - So sánh execution plan trước và sau tối ưu hóa.
@@ -67,7 +69,7 @@ SELECT column1, column2 FROM table_name WHERE condition;
 
 ---
 
-**5. Giải pháp nâng cao nếu cần thiết**
+## **5. Giải pháp nâng cao nếu cần thiết**
 
 - **Caching**:
     
@@ -81,40 +83,34 @@ SELECT column1, column2 FROM table_name WHERE condition;
 
 ---
 
-### **Ví dụ thực tế**
+## **Ví dụ thực tế** để tối ưu SQL
 
 Giả sử tôi có một truy vấn chậm:
 
 sql
 
+```sql
 `SELECT * FROM orders WHERE customer_id = 123 AND order_date >= '2023-01-01';`
+```
 
 - **Phân tích**: `EXPLAIN` cho thấy bảng bị quét toàn bộ (full table scan).
 - **Giải pháp**:
     - Tạo index composite:
         
-        sql
-        
-        Sao chép mã
-        
         `CREATE INDEX idx_customer_date ON orders(customer_id, order_date);`
         
     - Sử dụng `SELECT` chỉ lấy cột cần thiết:
-        
-        sql
-        
-        Sao chép mã
-        
         `SELECT order_id, order_date, total FROM orders WHERE customer_id = 123 AND order_date >= '2023-01-01';`
         
 - Kết quả: Truy vấn nhanh hơn và tiêu tốn ít tài nguyên hơn.
 
 ---
 
-Câu trả lời này vừa cho thấy kiến thức kỹ thuật của bạn vừa chứng tỏ bạn có tư duy hệ thống trong việc giải quyết vấn đề.
+## Tóm tắt
+
+Bên trên là chia sẻ về những cách phân tích chiến lược thực thi của câu lệnh SQL từ đó đưa ra các cách thức phù hợp để tối ưu SQL. Đây cũng là nền tảng để giúp mình làm việc tốt hơn, tìm giải pháp nhanh hơn, bên cạnh đó cũng có thể tự tin hơn trong quá trình tham gia trả lời phỏng vấn với các câu hỏi liên quan về Database
 
 
----
 ## Liên quan
 
 https://chatgpt.com/share/676a73b7-2398-8013-aaa1-36f103cb6c5f

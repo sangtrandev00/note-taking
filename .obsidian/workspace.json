@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport.md",
+                "file": "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport"
+              "title": "Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Dynamic Module - Register, forRoot, forFeature"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 297.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md"
+                "file": "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dynamic Module - Register, forRoot, forFeature"
+              "title": "Outline of Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL"
             }
           },
           {
@@ -239,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,12 +264,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "685a18e61f90b974",
+  "active": "df3a2b3c6e3e6776",
   "lastOpenFiles": [
+    "Evergreen/concept-base/technical/interview/Tổng quan 4 bước chuẩn bị cho buổi phỏng vấn kỹ sư phần mềm.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
     "Evergreen/concept-base/technical/interview/unitysport/Trải nghiệm phỏng vấn tại công ty Unitysport.md",
     "Evergreen/concept-base/technical/interview/unitysport/Luyện tập phỏng vấn công ty UnitySport.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
     "Evergreen/concept-base/english/toeic/grammar/Sự khác biệt giữa among và between là gì ?.md",
     "Evergreen/concept-base/english/toeic/grammar/Phân biệt both of, neither of, either of.md",
     "Evergreen/concept-base/english/toeic/grammar/Phân biệt within trong bài thi TOEIC.md",
@@ -292,7 +292,6 @@
     "Evergreen/concept-base/technical/interview/fullteron health/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Sự khác nhau giữa Docker File và Docker Compose.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi phỏng vấn Typescript thường gặp.md",
-    "Notion/Study Technical Skills/Database/SQL/Compare 4 type of transaction in SQL.md",
     "Evergreen/concept-base/technical/interview/security",
     "Evergreen/concept-base/technical/interview/unitysport",
     "Evergreen/concept-base/technical/interview/fullteron health/Untitled",

@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3414
+postType: post
+categories:
+  - 39
+---
 Trong series về NestJS trong mục [[Nestjs cơ bản]] thì một khái niệm mình đã từng gặp trong buổi phỏng vấn đó là Dynamic Module. Vậy Dynamic Module là gì ? Tại sao cần dùng cho lập trình viên NestJS Backend.
 
 Dynamic Modules trong NestJS là một tính năng mạnh mẽ, cho phép bạn tạo ra các module có thể cấu hình được (configurable modules). Điều này rất hữu ích khi bạn muốn tái sử dụng một module với các cấu hình khác nhau hoặc phụ thuộc vào các điều kiện cụ thể trong ứng dụng của mình.
@@ -314,4 +320,4 @@ https://chatgpt.com/share/676a1f1a-3db4-8013-9883-27534795d3bd
 https://github.com/nestjs/nest/tree/master/sample/25-dynamic-modules
 https://github.com/sangtrandev00/dynamic-modules-nestjs
 
-#nestjs #nodejs #backend 
+#nestjs #nodejs #backend
