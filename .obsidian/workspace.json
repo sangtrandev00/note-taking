@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md",
+                "file": "Evergreen/concept-base/technical/interview/unitysport/Chuẩn bị các câu hỏi phỏng vấn cho vòng Final Round - công ty Unity Sport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL"
+              "title": "Chuẩn bị các câu hỏi phỏng vấn cho vòng Final Round - công ty Unity Sport"
             }
           },
           {
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 214.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md"
+                "file": "Evergreen/concept-base/technical/interview/unitysport/Chuẩn bị các câu hỏi phỏng vấn cho vòng Final Round - công ty Unity Sport.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL"
+              "title": "Outline of Chuẩn bị các câu hỏi phỏng vấn cho vòng Final Round - công ty Unity Sport"
             }
           },
           {
@@ -264,8 +264,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df3a2b3c6e3e6776",
+  "active": "f74d2c49adac955a",
   "lastOpenFiles": [
+    "Evergreen/concept-base/technical/interview/unitysport/Cách thiết kế một test đơn giản để kiểm tra 1 API.md",
+    "Evergreen/concept-base/technical/interview/unitysport/Chuẩn bị các câu hỏi phỏng vấn cho vòng Final Round - công ty Unity Sport.md",
+    "Evergreen/concept-base/technical/interview/behavior interview/Chuẩn bị cho các câu hỏi phỏng vấn vòng final round tại công ty Fullterton Health và UnitySport.md",
+    "Evergreen/concept-base/technical/database/SQL/Thứ tự thực thi 1 câu lệnh SQL như thế nào ? SQL excecution order ?.md",
+    "Evergreen/concept-base/technical/interview/behavior interview",
+    "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md",
     "Evergreen/concept-base/technical/interview/Tổng quan 4 bước chuẩn bị cho buổi phỏng vấn kỹ sư phần mềm.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
@@ -287,11 +293,6 @@
     "Notion/Study Technical Skills/Database/SQL/SQL.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Tại sao Access trong Javascript rất nhanh ?.md",
     "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Array/Sự khác nhau giữa Static và Dynamic Arrays  là gì ?.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Custom Providers là gì trong NestJS ? 1 trong các concept cơ bản của Nest.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Kiến thức về Server - NgInx.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Sự khác nhau giữa Docker File và Docker Compose.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi phỏng vấn Typescript thường gặp.md",
     "Evergreen/concept-base/technical/interview/security",
     "Evergreen/concept-base/technical/interview/unitysport",
     "Evergreen/concept-base/technical/interview/fullteron health/Untitled",
@@ -302,7 +303,6 @@
     "Evergreen/concept-base/technical/backend/nestjs/security",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental",
     "Evergreen/concept-base/technical/OOP",
-    "Evergreen/concept-base/technical/OPS",
     "Pasted image 20241215170049.png",
     "Untitled 1.canvas",
     "Pasted image 20241214162921.png",

@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3417
+postType: post
+categories:
+  - 39
+---
 Trong quá trình đi làm được thao tác trực tiếp với cơ sở dữ liệu, đặc biệt là cơ sở dữ liệu SQL mình nhận thấy rằng việc phân tích tại sao một câu lệnh SQL chậm cũng rất quan trọng, nó là kiến thức nền tảng giúp mình tối ưu lênh trong ứng dụng lập trình hàng ngày.
 Hơn thế nữa nó cũng là kiến thức nền tảng và thường xuyên được hỏi trong hành trình phỏng vấn Backend Job của mình. 
 Vậy có những chiến lược hay các hướng tiếp cận kinh điển nào nên áp dụng khi phân tích một câu lệnh SQL từ đó đưa ra các cơ sở để tối ưu. Hãy cùng đọc bài viết bên dưới nhé
@@ -115,4 +121,4 @@ Bên trên là chia sẻ về những cách phân tích chiến lược thực t
 
 https://chatgpt.com/share/676a73b7-2398-8013-aaa1-36f103cb6c5f
 
-#sql #database 
+#sql #database
