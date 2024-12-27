@@ -23,6 +23,7 @@
 	+ SQL
 		+ **Làm sao để tối ưu câu lệnh SQL. Làm sao biết câu lệnh SQL bị chậm**
 		+ Các vấn đề thường gặp khi dùng câu lệnh SQL là gì ?
+	+ Phân biệt từ khoá DELETE, DROP, TRUNCATE trong database
 + Algorithm
 	+ Thuật toán sort
 	+ Các thuật toán sort phổ biến
