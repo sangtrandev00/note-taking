@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Kịch bản đàm phán lương tại công ty Unitysport"
             }
+          },
+          {
+            "id": "83cb0612b1d3e0ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/technical/interview/unitysport/Vòng phỏng vấn online Culture Fit của công ty.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vòng phỏng vấn online Culture Fit của công ty"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 295.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -154,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/interview/unitysport/Kịch bản đàm phán lương tại công ty Unitysport.md"
+                "file": "Evergreen/concept-base/technical/interview/unitysport/Vòng phỏng vấn online Culture Fit của công ty.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kịch bản đàm phán lương tại công ty Unitysport"
+              "title": "Outline of Vòng phỏng vấn online Culture Fit của công ty"
             }
           },
           {
@@ -239,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,14 +279,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb264c790eb9fea2",
+  "active": "83cb0612b1d3e0ad",
   "lastOpenFiles": [
     "Evergreen/concept-base/technical/interview/unitysport/Trải nghiệm phỏng vấn tại công ty Unitysport.md",
+    "Evergreen/concept-base/technical/interview/unitysport/Vòng phỏng vấn online Culture Fit của công ty.md",
+    "Evergreen/concept-base/technical/interview/unitysport/Kịch bản đàm phán lương tại công ty Unitysport.md",
     "Evergreen/concept-base/technical/interview/unitysport/Luyện tập phỏng vấn công ty UnitySport.md",
     "Evergreen/concept-base/technical/interview/unitysport/Kiến thức về Server - NgInx.md",
     "Evergreen/concept-base/technical/interview/unitysport/Chiến lược trì hoãn việc chấp nhận offer nếu được đề nghị.md",
     "Evergreen/concept-base/technical/interview/unitysport/Cách thiết kế một test đơn giản để kiểm tra 1 API.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Kịch bản đàm phán lương tại công ty Unitysport.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi phỏng vấn Typescript thường gặp.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
@@ -293,7 +308,6 @@
     "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề Part 7.md",
     "Evergreen/concept-base/english/toeic/Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG.md",
     "Evergreen/concept-base/english/toeic/Chuẩn bị gì trước khi đi thi TOEIC.md",
-    "Evergreen/concept-base/technical/algorithm/Master Coding Interview/BigO là gì trong thuật toán.md",
     "Evergreen/concept-base/technical/interview/security",
     "Evergreen/concept-base/technical/interview/unitysport",
     "Evergreen/concept-base/technical/interview/fullteron health/Untitled",
