@@ -23,7 +23,7 @@ Dựa trên yêu cầu tuyển dụng của Unitysport, tôi sẽ đóng vai ng�
 #### **Cơ sở dữ liệu:**
 
 6. Bạn đã từng làm việc với loại cơ sở dữ liệu nào? Hãy mô tả một tình huống mà bạn phải chọn giữa SQL (PostgreSQL, MySQL) và NoSQL (DynamoDB).
-7. Làm thế nào để bạn tối ưu hóa một truy vấn SQL chậm?
+7. **Làm thế nào để bạn tối ưu hóa một truy vấn SQL chậm?**
 
 #### **CI/CD và Testing:**
 

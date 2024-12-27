@@ -196,6 +196,8 @@ Hãy tận dụng JD để củng cố lập luận:
 - Công ty có các hoạt động kết nối nhân viên như team building, du lịch hay các câu lạc bộ thể thao không?
 - Em có thể tìm hiểu thêm về các giá trị cốt lõi và văn hóa mà công ty luôn hướng tới không?
 - Có chính sách hỗ trợ sức khỏe tinh thần hoặc các hoạt động thư giãn cho nhân viên không?
+- **Quy trình giao tiếp giữa các phòng ban trong sản phẩm như thế nào ?** **UI/UX, BA, Dev, QA**
+- Training nhân sự như thế nào ?
 
 ---
 
