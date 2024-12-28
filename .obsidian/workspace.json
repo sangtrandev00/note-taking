@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/interview/unitysport/Vòng phỏng vấn online Culture Fit của công ty.md",
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Circular Dependency là gì ? 3 cách để giải quyết các circular dependency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vòng phỏng vấn online Culture Fit của công ty"
+              "title": "Circular Dependency là gì ? 3 cách để giải quyết các circular dependency"
             }
           }
         ],
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 251.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/interview/unitysport/Vòng phỏng vấn online Culture Fit của công ty.md"
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Circular Dependency là gì ? 3 cách để giải quyết các circular dependency.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Vòng phỏng vấn online Culture Fit của công ty"
+              "title": "Outline of Circular Dependency là gì ? 3 cách để giải quyết các circular dependency"
             }
           },
           {
@@ -281,33 +281,33 @@
   },
   "active": "83cb0612b1d3e0ad",
   "lastOpenFiles": [
-    "Evergreen/concept-base/technical/interview/unitysport/Trải nghiệm phỏng vấn tại công ty Unitysport.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Module Reference là gì ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Circular Dependency là gì ? 3 cách để giải quyết các circular dependency.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Cách thiết kế database như thế nào ? 10 bước thiết kế database cho Backend Engineer.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Helmet là gì ? Cách sử dụng thư viện Helmet.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Có bao nhiêu loại Index đó là những loại nào ?.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi phỏng vấn Typescript thường gặp.md",
     "Evergreen/concept-base/technical/interview/unitysport/Vòng phỏng vấn online Culture Fit của công ty.md",
+    "Evergreen/concept-base/technical/interview/unitysport/Trải nghiệm phỏng vấn tại công ty Unitysport.md",
     "Evergreen/concept-base/technical/interview/unitysport/Kịch bản đàm phán lương tại công ty Unitysport.md",
     "Evergreen/concept-base/technical/interview/unitysport/Luyện tập phỏng vấn công ty UnitySport.md",
     "Evergreen/concept-base/technical/interview/unitysport/Kiến thức về Server - NgInx.md",
     "Evergreen/concept-base/technical/interview/unitysport/Chiến lược trì hoãn việc chấp nhận offer nếu được đề nghị.md",
     "Evergreen/concept-base/technical/interview/unitysport/Cách thiết kế một test đơn giản để kiểm tra 1 API.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi phỏng vấn Typescript thường gặp.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
     "Evergreen/concept-base/technical/OOP/Có bao nhiêu hàm khởi tạo trong OOP.md",
     "Evergreen/concept-base/technical/interview/unitysport/Chuẩn bị các câu hỏi phỏng vấn cho vòng Final Round - công ty Unity Sport.md",
     "Evergreen/concept-base/technical/interview/behavior interview/Chuẩn bị cho các câu hỏi phỏng vấn vòng final round tại công ty Fullterton Health và UnitySport.md",
     "Evergreen/concept-base/technical/database/SQL/Thứ tự thực thi 1 câu lệnh SQL như thế nào ? SQL excecution order ?.md",
     "Evergreen/concept-base/technical/interview/behavior interview",
-    "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md",
     "Evergreen/concept-base/technical/interview/Tổng quan 4 bước chuẩn bị cho buổi phỏng vấn kỹ sư phần mềm.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport.md",
     "Evergreen/concept-base/english/toeic/grammar/Sự khác biệt giữa among và between là gì ?.md",
     "Evergreen/concept-base/english/toeic/grammar/Phân biệt both of, neither of, either of.md",
     "Evergreen/concept-base/english/toeic/grammar/Phân biệt within trong bài thi TOEIC.md",
     "Evergreen/concept-base/english/toeic/test/Test 4 ETS 2022 - Sửa đề LC Part 1,2,3,4.md",
-    "Evergreen/concept-base/english/toeic/test/Test 4 ETS 2022 - Chữa đề RC Part 5,6,7.md",
-    "Evergreen/concept-base/english/toeic/test/Test 3 ETS 2022 - Sửa đề LC Part 1,2,3,4.md",
-    "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề Part 7.md",
-    "Evergreen/concept-base/english/toeic/Trải nghiệm lần thứ 2 đi thi TOEIC ở IIG.md",
-    "Evergreen/concept-base/english/toeic/Chuẩn bị gì trước khi đi thi TOEIC.md",
     "Evergreen/concept-base/technical/interview/security",
     "Evergreen/concept-base/technical/interview/unitysport",
     "Evergreen/concept-base/technical/interview/fullteron health/Untitled",
