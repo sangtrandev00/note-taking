@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3441
+postType: post
+categories:
+  - 39
+---
 Thêm một khái niệm fundamental nữa lấy ra từ docs của nestjs.com, đây là một khái niệm cũng thường xuyên được hỏi trong các cuộc phỏng vấn NestJS mà mình đã từng gặp. Chính vì vậy hôm nay mình quyết định lên một bài viết nói về khái niệm này. Tham khảo khái niệm circular dependency này của mình nhé
 
 ## Hiểu về Circular Dependency trong NestJS
@@ -185,4 +191,4 @@ https://github.com/sangtrandev00/circular-dependency-nestjs
 Tham khảo thêm các khái niệm fundamental trong series NestJS cơ bản.
 
 
-#nestjs #backend 
+#nestjs #backend
