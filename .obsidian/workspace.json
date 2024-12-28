@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/OOP/SOLID là gì ? 5 Nguyên tắc cơ bản để thực hiện một ứng dụng SOLID trong OOP sử dụng Typescript.md",
+                "file": "Evergreen/concept-base/technical/interview/fullteron health/Quy trình chuẩn bị cho buổi phỏng vấn Final Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID là gì ? 5 Nguyên tắc cơ bản để thực hiện một ứng dụng SOLID trong OOP sử dụng Typescript"
+              "title": "Quy trình chuẩn bị cho buổi phỏng vấn Final Interview"
             }
           }
         ],
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 265.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/OOP/SOLID là gì ? 5 Nguyên tắc cơ bản để thực hiện một ứng dụng SOLID trong OOP sử dụng Typescript.md"
+                "file": "Evergreen/concept-base/technical/interview/fullteron health/Quy trình chuẩn bị cho buổi phỏng vấn Final Interview.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SOLID là gì ? 5 Nguyên tắc cơ bản để thực hiện một ứng dụng SOLID trong OOP sử dụng Typescript"
+              "title": "Outline of Quy trình chuẩn bị cho buổi phỏng vấn Final Interview"
             }
           },
           {
@@ -281,8 +281,11 @@
   },
   "active": "83cb0612b1d3e0ad",
   "lastOpenFiles": [
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Circular Dependency là gì ? 3 cách để giải quyết các circular dependency.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi tiếng anh chuẩn bị cho công ty Fullterton Health.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Quy trình chuẩn bị cho buổi phỏng vấn Final Interview.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Chiến lược đàm phán về đãi ngộ - Các kịch bản cần chuẩn bị tại Fullterton Health.md",
     "Evergreen/concept-base/technical/OOP/SOLID là gì ? 5 Nguyên tắc cơ bản để thực hiện một ứng dụng SOLID trong OOP sử dụng Typescript.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Circular Dependency là gì ? 3 cách để giải quyết các circular dependency.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Module Reference là gì ?.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Cách thiết kế database như thế nào ? 10 bước thiết kế database cho Backend Engineer.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md",
@@ -305,9 +308,6 @@
     "Evergreen/concept-base/technical/interview/behavior interview",
     "Evergreen/concept-base/technical/interview/Tổng quan 4 bước chuẩn bị cho buổi phỏng vấn kỹ sư phần mềm.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport.md",
-    "Evergreen/concept-base/english/toeic/grammar/Sự khác biệt giữa among và between là gì ?.md",
-    "Evergreen/concept-base/english/toeic/grammar/Phân biệt both of, neither of, either of.md",
-    "Evergreen/concept-base/english/toeic/grammar/Phân biệt within trong bài thi TOEIC.md",
     "Evergreen/concept-base/technical/interview/security",
     "Evergreen/concept-base/technical/interview/unitysport",
     "Evergreen/concept-base/technical/interview/fullteron health/Untitled",
