@@ -1,13 +1,26 @@
-
-
+---
+profileName: sangtrandev00
+postId: 3451
+postType: post
+categories:
+  - 39
+---
 `ModuleRef` trong NestJS là một công cụ giúp bạn truy cập và tương tác với các dịch vụ (services) giữa các module một cách linh động tại thời điểm runtime. Đây là công cụ mạnh mẽ khi bạn cần làm việc với các phụ thuộc không thể xác định khi biên dịch, hoặc khi cần truy cập các dịch vụ trong các module khác mà không dùng trực tiếp injection.
 
-## Ví dụ thực tế:
+##  1 Ví dụ thực tế sử dụng module reference 
 
 1. **Lấy một service từ một module khác**: Giả sử bạn có `ModuleA` cần gọi `ServiceB` từ `ModuleB`. Bạn có thể sử dụng `ModuleRef` để truy xuất `ServiceB` mà không cần phải inject nó trực tiếp vào `ModuleA`.
     
 ```typescript
+@Injectable()
+export class ModuleAService {
+  constructor(private moduleRef: ModuleRef) {}
 
+  someMethod() {
+    const serviceB = this.moduleRef.get(ServiceB);
+    serviceB.someFunction();
+  }
+}
 
 ```
 
@@ -17,7 +30,7 @@
 3. **Sử dụng với các provider chưa được đăng ký trước**: `ModuleRef` giúp bạn tạo ra các instance của các provider mà không cần phải đăng ký chúng một cách tĩnh.
     
 
-### Các trường hợp sử dụng:
+### Các trường hợp sử dụng Module Reference
 
 - **Lấy instance của provider chưa đăng ký**: Trong một số tình huống đặc biệt (như plugin), bạn có thể không thể dự đoán trước module nào cần dùng service nào. `ModuleRef` giúp bạn giải quyết vấn đề này bằng cách lấy service một cách linh động.
 - **Giải quyết các phụ thuộc khi cần thiết**: Nếu có một số phụ thuộc không thể inject vào lúc biên dịch, bạn có thể lấy chúng vào lúc runtime bằng `ModuleRef`.
@@ -31,6 +44,16 @@ Nếu bạn muốn lấy một instance của một provider trong một service
 **Ví dụ:** Giả sử bạn có một service `SomeService` và muốn sử dụng nó trong `AppService` mà không cần inject vào constructor:
 
 ```typescript
+
+@Injectable()
+export class AppService {
+  constructor(private moduleRef: ModuleRef) {}
+
+  getDynamicService() {
+    const dynamicService = this.moduleRef.get(SomeService);
+    dynamicService.doSomething();
+  }
+}
 
 
 ```
@@ -50,6 +73,15 @@ Nếu một provider không được đăng ký trong module chính, bạn vẫn
 
 ```typescript
 
+@Injectable()
+export class DynamicModuleService {
+  constructor(private moduleRef: ModuleRef) {}
+
+  async getDynamicInstance() {
+    const service = await this.moduleRef.resolve(SomeService);
+    service.run();
+  }
+}
 
 ```
 **Cách tổ chức trong mã:**
@@ -66,9 +98,17 @@ Trong các tình huống như plugin hoặc khi có các module có thể thay �
 
 ```typescript
 
+@Injectable()
+export class PluginService {
+  constructor(private moduleRef: ModuleRef) {}
+
+  loadPlugin() {
+    const plugin = this.moduleRef.get(PluginService);
+    plugin.initialize();
+  }
+}
 
 ```
-
 
 **Cách tổ chức trong mã:**
 
@@ -85,6 +125,19 @@ Trong các tình huống như plugin hoặc khi có các module có thể thay �
 
 ```typescript
 
+import { Injectable, ModuleRef } from '@nestjs/common';
+import { SomeOtherService } from './some-other.service';
+
+@Injectable()
+export class AnotherService {
+  constructor(private moduleRef: ModuleRef) {}
+
+  useService() {
+    const serviceFromAnotherModule = this.moduleRef.get(SomeOtherService);
+    serviceFromAnotherModule.performAction(); // Gọi phương thức của SomeOtherService
+  }
+}
+
 
 ```
 
@@ -99,7 +152,6 @@ Trong các tình huống như plugin hoặc khi có các module có thể thay �
 Tóm lại, các ví dụ trên cho thấy cách sử dụng `ModuleRef` để linh động lấy và sử dụng các provider trong các tình huống khác nhau, giúp bạn xây dựng ứng dụng NestJS một cách linh hoạt và dễ mở rộng.
 
 
-
 ---
 ## Liên quan
 https://chatgpt.com/share/6770cee4-b740-8013-9379-6869d289819a
@@ -108,4 +160,4 @@ https://docs.nestjs.com/fundamentals/module-ref
 Xem thêm về code mà mình đã tạo trong bài viết tại repository github này nhé:
 https://github.com/sangtrandev00/module-reference-nestjs
 
-#nestjs #backend 
+#nestjs #backend
