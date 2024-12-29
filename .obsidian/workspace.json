@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Injection Scopes là gì ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Module - Register, forRoot, forFeature"
-            }
-          },
-          {
-            "id": "bb264c790eb9fea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen/concept-base/technical/interview/unitysport/Kịch bản đàm phán lương tại công ty Unitysport.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kịch bản đàm phán lương tại công ty Unitysport"
-            }
-          },
-          {
-            "id": "83cb0612b1d3e0ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen/concept-base/technical/interview/fullteron health/Quy trình chuẩn bị cho buổi phỏng vấn Final Interview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quy trình chuẩn bị cho buổi phỏng vấn Final Interview"
+              "title": "Injection Scopes là gì ?"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 260.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -168,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/interview/fullteron health/Quy trình chuẩn bị cho buổi phỏng vấn Final Interview.md"
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Injection Scopes là gì ?.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Quy trình chuẩn bị cho buổi phỏng vấn Final Interview"
+              "title": "Outline of Injection Scopes là gì ?"
             }
           },
           {
@@ -253,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 506.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,10 +250,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83cb0612b1d3e0ad",
+  "active": "685a18e61f90b974",
   "lastOpenFiles": [
-    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi tiếng anh chuẩn bị cho công ty Fullterton Health.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
+    "Evergreen/concept-base/technical/interview/unitysport/Kịch bản đàm phán lương tại công ty Unitysport.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Quy trình chuẩn bị cho buổi phỏng vấn Final Interview.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi tiếng anh chuẩn bị cho công ty Fullterton Health.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Chiến lược đàm phán về đãi ngộ - Các kịch bản cần chuẩn bị tại Fullterton Health.md",
     "Evergreen/concept-base/technical/OOP/SOLID là gì ? 5 Nguyên tắc cơ bản để thực hiện một ứng dụng SOLID trong OOP sử dụng Typescript.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Circular Dependency là gì ? 3 cách để giải quyết các circular dependency.md",
@@ -294,13 +267,11 @@
     "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi phỏng vấn Typescript thường gặp.md",
     "Evergreen/concept-base/technical/interview/unitysport/Vòng phỏng vấn online Culture Fit của công ty.md",
     "Evergreen/concept-base/technical/interview/unitysport/Trải nghiệm phỏng vấn tại công ty Unitysport.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Kịch bản đàm phán lương tại công ty Unitysport.md",
     "Evergreen/concept-base/technical/interview/unitysport/Luyện tập phỏng vấn công ty UnitySport.md",
     "Evergreen/concept-base/technical/interview/unitysport/Kiến thức về Server - NgInx.md",
     "Evergreen/concept-base/technical/interview/unitysport/Chiến lược trì hoãn việc chấp nhận offer nếu được đề nghị.md",
     "Evergreen/concept-base/technical/interview/unitysport/Cách thiết kế một test đơn giản để kiểm tra 1 API.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
     "Evergreen/concept-base/technical/OOP/Có bao nhiêu hàm khởi tạo trong OOP.md",
     "Evergreen/concept-base/technical/interview/unitysport/Chuẩn bị các câu hỏi phỏng vấn cho vòng Final Round - công ty Unity Sport.md",
     "Evergreen/concept-base/technical/interview/behavior interview/Chuẩn bị cho các câu hỏi phỏng vấn vòng final round tại công ty Fullterton Health và UnitySport.md",

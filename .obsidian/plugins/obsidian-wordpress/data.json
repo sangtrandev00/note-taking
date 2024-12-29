@@ -14,9 +14,9 @@
       ],
       "username": "sangtrandev00",
       "encryptedPassword": {
-        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"MLGcGm4btehhX9NTbPjYhzIgiC8pxn-2jZ8lgVwsqeI\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
-        "vector": "37Vv8lUgl5MFkoPu",
-        "encrypted": "pH77/NRERHA8TwNxQr5tNdbjGzebe2kdEpej1mGrwg=="
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"UO0J7luTGfXkKf2hcjJe3hgiE8aJDQImaGVsy56GAhs\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "8UdqgQIfY1WmLVQZ",
+        "encrypted": "6bV/T7sFHGHjyNcsCv3XN2UOJ87mIR0twBtvCQl02Q=="
       }
     }
   ],
