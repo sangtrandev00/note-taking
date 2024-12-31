@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "29c6d338ac7810b0",
+        "id": "aa57c048b872b199",
         "type": "tabs",
         "children": [
           {
-            "id": "579411308a27635c",
+            "id": "8e2a0ed881d0b802",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lazy Load Modules trong NestJS là gì ?.md",
+                "file": "Evergreen/concept-base/technical/interview/fullteron health/VÒNG 1 - Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lazy Load Modules trong NestJS là gì ?"
+              "title": "VÒNG 1 - Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 349.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lazy Load Modules trong NestJS là gì ?.md"
+                "file": "Evergreen/concept-base/technical/interview/fullteron health/VÒNG 1 - Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lazy Load Modules trong NestJS là gì ?"
+              "title": "Outline of VÒNG 1 - Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024"
             }
           },
           {
@@ -224,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 548.5
+    "width": 493.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,38 +250,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "579411308a27635c",
+  "active": "8e2a0ed881d0b802",
   "lastOpenFiles": [
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Module Reference là gì ?.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/VÒNG 2 - Các câu hỏi phỏng vấn vòng cuối công ty Fullterton Health, ngày 30-12-2024.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/VÒNG 1 - Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Untitled",
+    "Evergreen/concept-base/technical/interview/fullteron health/Chiến lược đàm phán về đãi ngộ - Các kịch bản cần chuẩn bị tại Fullterton Health.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Quy trình chuẩn bị cho buổi phỏng vấn Final Interview.md",
+    "Evergreen/concept-base/technical/interview/Các câu hỏi phỏng vấn Fresher Backend.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi tiếng anh chuẩn bị cho công ty Fullterton Health.md",
+    "Evergreen/concept-base/technical/interview/fullteron health/Sự khác nhau giữa Docker File và Docker Compose.md",
+    "Evergreen/concept-base/technical/interview/Chuẩn bị cho việc giới thiệu bản thân và các câu hỏi cuối cùng của buổi phỏng vấn (Nếu được cho phép đặt câu hỏi).md",
+    "Evergreen/concept-base/technical/interview/Coding Interview Preperation - Mọi thứ bạn cần chuẩn bị.md",
+    "Evergreen/concept-base/technical/interview/behavior interview/Chuẩn bị cho các câu hỏi phỏng vấn vòng final round tại công ty Fullterton Health và UnitySport.md",
+    "Evergreen/concept-base/technical/interview/unitysport/Cách thiết kế một test đơn giản để kiểm tra 1 API.md",
+    "Evergreen/concept-base/technical/interview/unitysport/Vòng phỏng vấn online Culture Fit của công ty.md",
+    "Evergreen/concept-base/technical/interview/unitysport/Luyện tập phỏng vấn công ty UnitySport.md",
+    "Evergreen/concept-base/technical/interview/unitysport/Chuẩn bị các câu hỏi phỏng vấn cho vòng Final Round - công ty Unity Sport.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lazy Load Modules trong NestJS là gì ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Module Reference là gì ?.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Injection Scopes là gì ?.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
     "Evergreen/concept-base/technical/interview/unitysport/Kịch bản đàm phán lương tại công ty Unitysport.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Quy trình chuẩn bị cho buổi phỏng vấn Final Interview.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi tiếng anh chuẩn bị cho công ty Fullterton Health.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Chiến lược đàm phán về đãi ngộ - Các kịch bản cần chuẩn bị tại Fullterton Health.md",
     "Evergreen/concept-base/technical/OOP/SOLID là gì ? 5 Nguyên tắc cơ bản để thực hiện một ứng dụng SOLID trong OOP sử dụng Typescript.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Circular Dependency là gì ? 3 cách để giải quyết các circular dependency.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Cách thiết kế database như thế nào ? 10 bước thiết kế database cho Backend Engineer.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Helmet là gì ? Cách sử dụng thư viện Helmet.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Có bao nhiêu loại Index đó là những loại nào ?.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi phỏng vấn Typescript thường gặp.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Vòng phỏng vấn online Culture Fit của công ty.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Trải nghiệm phỏng vấn tại công ty Unitysport.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Luyện tập phỏng vấn công ty UnitySport.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Kiến thức về Server - NgInx.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Chiến lược trì hoãn việc chấp nhận offer nếu được đề nghị.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Cách thiết kế một test đơn giản để kiểm tra 1 API.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
-    "Evergreen/concept-base/technical/OOP/Có bao nhiêu hàm khởi tạo trong OOP.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Chuẩn bị các câu hỏi phỏng vấn cho vòng Final Round - công ty Unity Sport.md",
-    "Evergreen/concept-base/technical/interview/behavior interview/Chuẩn bị cho các câu hỏi phỏng vấn vòng final round tại công ty Fullterton Health và UnitySport.md",
-    "Evergreen/concept-base/technical/database/SQL/Thứ tự thực thi 1 câu lệnh SQL như thế nào ? SQL excecution order ?.md",
     "Evergreen/concept-base/technical/interview/behavior interview",
     "Evergreen/concept-base/technical/interview/security",
     "Evergreen/concept-base/technical/interview/unitysport",
-    "Evergreen/concept-base/technical/interview/fullteron health/Untitled",
     "Evergreen/concept-base/technical/interview/fullteron health",
     "Untitled 2.canvas",
     "Evergreen/concept-base/technical/backend/nestjs/overview",
