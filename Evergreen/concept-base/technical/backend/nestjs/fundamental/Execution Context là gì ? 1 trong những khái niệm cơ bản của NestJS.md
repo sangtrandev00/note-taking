@@ -1,3 +1,11 @@
+---
+profileName: sangtrandev00
+postId: 3468
+postType: post
+categories:
+  - 39
+---
+## Execution Context là gì ?
 Execution Context là một khái niệm cơ bản trong NestJS, cung cấp một abstraction để xác định ngữ cảnh mà một handler (method) được thực thi. Nó giúp phát triển các tính năng middleware, guards, interceptors, và filters bằng cách cung cấp thông tin liên quan đến quá trình thực thi.
 
 ### **Các khái niệm quan trọng liên quan đến Execution Context**
@@ -137,5 +145,6 @@ https://chatgpt.com/share/6774b4f3-9df4-8013-ba77-177bbe6c1e80
 
 Tham khảo thêm đoạn code example mà mình đã tạo trong bài viết ở repository này nhé!
 https://github.com/sangtrandev00/execution-context-nestjs
+
 
 #nestjs #backend
