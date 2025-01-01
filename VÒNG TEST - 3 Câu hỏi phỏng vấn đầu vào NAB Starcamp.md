@@ -1,3 +1,10 @@
+---
+profileName: sangtrandev00
+postId: 3462
+postType: post
+categories:
+  - 39
+---
 ## Câu hỏi 1 
 
 ### Đề tiếng anh
@@ -148,7 +155,4 @@ Mình đạt được >80% performance trên nền tảng codility
 Bên dưới là link repository mình có bài giải mà mình đã implement
 https://github.com/sangtrandev00/leetcode-practice/tree/main/src/codility/test
 
-#interview #algorithm #data-structure 
-
-
-
+#interview #algorithm #data-structure

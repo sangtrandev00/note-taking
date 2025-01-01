@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VÒNG TEST - 3 Câu hỏi phỏng vấn đầu vào NAB Starcamp.md",
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Cơ chế hoạt động của Guard trong NestJS ? Cách cấu hình 1 Guard như thế nào ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VÒNG TEST - 3 Câu hỏi phỏng vấn đầu vào NAB Starcamp"
+              "title": "Cơ chế hoạt động của Guard trong NestJS ? Cách cấu hình 1 Guard như thế nào ?"
+            }
+          },
+          {
+            "id": "2d446823bcdf4087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Excecution Context là gì ?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Excecution Context là gì ?"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 253.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -154,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VÒNG TEST - 3 Câu hỏi phỏng vấn đầu vào NAB Starcamp.md"
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Excecution Context là gì ?.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of VÒNG TEST - 3 Câu hỏi phỏng vấn đầu vào NAB Starcamp"
+              "title": "Outline of Excecution Context là gì ?"
             }
           },
           {
@@ -239,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,8 +279,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ebd9eaa77a84053d",
+  "active": "2d446823bcdf4087",
   "lastOpenFiles": [
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Cơ chế hoạt động của Guard trong NestJS ? Cách cấu hình 1 Guard như thế nào ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Excecution Context là gì ?.md",
+    "Evergreen/concept-base/technical/programming/Typescript/Decorator là gì ? 1 Khái niệm khá khó hiểu ?.md",
+    "VÒNG TEST - 3 Câu hỏi phỏng vấn đầu vào NAB Starcamp.md",
     "Evergreen/optional-base/career/Phỏng vấn NAB Starcamp.md",
     "Evergreen/concept-base/technical/database/SQL/Database Partition trong là gì ?.md",
     "Evergreen/concept-base/technical/interview/Chia sẻ những chiến lược giúp mình chinh phục được 2 Offer tốt cuối năm.md",
@@ -290,10 +308,6 @@
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Module Reference là gì ?.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Injection Scopes là gì ?.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Kịch bản đàm phán lương tại công ty Unitysport.md",
-    "Evergreen/concept-base/technical/OOP/SOLID là gì ? 5 Nguyên tắc cơ bản để thực hiện một ứng dụng SOLID trong OOP sử dụng Typescript.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Circular Dependency là gì ? 3 cách để giải quyết các circular dependency.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Cách thiết kế database như thế nào ? 10 bước thiết kế database cho Backend Engineer.md",
     "Evergreen/concept-base/technical/interview/behavior interview",
     "Evergreen/concept-base/technical/interview/security",
     "Evergreen/concept-base/technical/interview/unitysport",
