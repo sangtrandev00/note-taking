@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Excecution Context là gì ?.md",
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Execution Context là gì ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Excecution Context là gì ?"
+              "title": "Execution Context là gì ?"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Excecution Context là gì ?.md"
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Execution Context là gì ?.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Excecution Context là gì ?"
+              "title": "Outline of Execution Context là gì ?"
             }
           },
           {
@@ -279,10 +279,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d446823bcdf4087",
+  "active": "2be1e09d7d73aefd",
   "lastOpenFiles": [
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Cơ chế hoạt động của Guard trong NestJS ? Cách cấu hình 1 Guard như thế nào ?.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Excecution Context là gì ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Execution Context là gì ?.md",
     "Evergreen/concept-base/technical/programming/Typescript/Decorator là gì ? 1 Khái niệm khá khó hiểu ?.md",
     "VÒNG TEST - 3 Câu hỏi phỏng vấn đầu vào NAB Starcamp.md",
     "Evergreen/optional-base/career/Phỏng vấn NAB Starcamp.md",
