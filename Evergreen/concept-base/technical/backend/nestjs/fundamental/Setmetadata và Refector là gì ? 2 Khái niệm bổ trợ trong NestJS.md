@@ -204,4 +204,6 @@ export class UserController {
 ---
 ## Liên quan
 
+https://chatgpt.com/share/6774b4f3-9df4-8013-ba77-177bbe6c1e80
+
 #nestjs #backend 
