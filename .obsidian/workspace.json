@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lifecycle Events trong là gì ? 1 Khái niệm liên quan đến vòng đời NestJS.md",
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/NestJS Testing là gì ? 1 cách để đảm bảo ứng chạy hiệu quả.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lifecycle Events trong là gì ? 1 Khái niệm liên quan đến vòng đời NestJS"
+              "title": "NestJS Testing là gì ? 1 cách để đảm bảo ứng chạy hiệu quả"
             }
           }
         ],
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 273.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lifecycle Events trong là gì ? 1 Khái niệm liên quan đến vòng đời NestJS.md"
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/NestJS Testing là gì ? 1 cách để đảm bảo ứng chạy hiệu quả.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lifecycle Events trong là gì ? 1 Khái niệm liên quan đến vòng đời NestJS"
+              "title": "Outline of NestJS Testing là gì ? 1 cách để đảm bảo ứng chạy hiệu quả"
             }
           },
           {
@@ -267,7 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,17 +295,20 @@
   },
   "active": "f0790295107fec23",
   "lastOpenFiles": [
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Quy trình triển khai ứng dựng NestJS thực tế CI, CD kết hợp với Testing.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/So sánh giữa 3 cơ chế test trong ứng dụng NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/NestJS Testing là gì ? 1 cách để đảm bảo ứng chạy hiệu quả.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lifecycle Events trong là gì ? 1 Khái niệm liên quan đến vòng đời NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Cơ chế hoạt động của Guard trong NestJS ? Cách cấu hình 1 Guard như thế nào ?.md",
+    "Evergreen/concept-base/technical/database/SQL/Database Partition trong là gì ?.md",
     "Pasted image 20250102163128.png",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Setmetadata và Refector là gì ? 2 Khái niệm bổ trợ trong NestJS.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lifecycle Events trong là gì ? 1 Khái niệm liên quan đến vòng đời NestJS.md",
     "Evergreen/concept-base/technical/interview/fullteron health/VÒNG 1 - Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Quy trình chuẩn bị cho buổi phỏng vấn Final Interview.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Execution Context là gì ? 1 trong những khái niệm cơ bản của NestJS.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Cơ chế hoạt động của Guard trong NestJS ? Cách cấu hình 1 Guard như thế nào ?.md",
     "Evergreen/concept-base/technical/programming/Typescript/Decorator là gì ? 1 Khái niệm khá khó hiểu ?.md",
     "VÒNG TEST - 3 Câu hỏi phỏng vấn đầu vào NAB Starcamp.md",
     "Evergreen/optional-base/career/Phỏng vấn NAB Starcamp.md",
-    "Evergreen/concept-base/technical/database/SQL/Database Partition trong là gì ?.md",
     "Evergreen/concept-base/technical/interview/Chia sẻ những chiến lược giúp mình chinh phục được 2 Offer tốt cuối năm.md",
     "Evergreen/concept-base/technical/interview/fullteron health/VÒNG 2 - Các câu hỏi phỏng vấn vòng cuối công ty Fullterton Health, ngày 30-12-2024.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport.md",
@@ -320,8 +323,6 @@
     "Evergreen/concept-base/technical/interview/unitysport/Cách thiết kế một test đơn giản để kiểm tra 1 API.md",
     "Evergreen/concept-base/technical/interview/unitysport/Vòng phỏng vấn online Culture Fit của công ty.md",
     "Evergreen/concept-base/technical/interview/unitysport/Luyện tập phỏng vấn công ty UnitySport.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Chuẩn bị các câu hỏi phỏng vấn cho vòng Final Round - công ty Unity Sport.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lazy Load Modules trong NestJS là gì ?.md",
     "Evergreen/concept-base/technical/interview/behavior interview",
     "Evergreen/concept-base/technical/interview/security",
     "Evergreen/concept-base/technical/interview/unitysport",
@@ -342,7 +343,6 @@
     "Pasted image 20241213172114.png",
     "Pasted image 20241213163706.png",
     "Pasted image 20241213095939.png",
-    "Pasted image 20241213095938.png",
     "Untitled.canvas",
     "Untitled 3.canvas"
   ]
