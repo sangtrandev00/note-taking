@@ -1,3 +1,10 @@
+---
+profileName: sangtrandev00
+postId: 3505
+postType: post
+categories:
+  - 39
+---
 **Testing trong NestJS** là một phần quan trọng để đảm bảo chất lượng ứng dụng. NestJS cung cấp các công cụ tích hợp để viết và chạy unit tests, integration tests một cách dễ dàng, nhờ sử dụng các phương pháp và công cụ như Jest và các module testing của chính NestJS.
 
 Dưới đây là giải thích rõ ràng về các khái niệm và các ví dụ thực tế:
@@ -244,4 +251,4 @@ https://chatgpt.com/share/67775eed-5a40-8013-b24c-73a7c4bc13be
 Theo dõi các đoạn code mình implement trong source repository này nhé!
 https://github.com/sangtrandev00/testing-e2e-unitest-in-nestjs
 
-#nestjs #backend #testing 
+#nestjs #backend #testing
