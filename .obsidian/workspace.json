@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/microservices/Microservice thông qua Redis và Kalfka trong NestJS.md",
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microservice thông qua Redis và Kalfka trong NestJS"
+              "title": "Dynamic Module - Register, forRoot, forFeature"
             }
           }
         ],
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 249.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/microservices/Microservice thông qua Redis và Kalfka trong NestJS.md"
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Microservice thông qua Redis và Kalfka trong NestJS"
+              "title": "Outline of Dynamic Module - Register, forRoot, forFeature"
             }
           },
           {
@@ -309,8 +309,8 @@
   },
   "active": "e85d2729489985f9",
   "lastOpenFiles": [
-    "Evergreen/concept-base/technical/backend/nestjs/microservices/Microservices trong NestJS là gì ?.md",
     "Evergreen/concept-base/technical/backend/nestjs/microservices/Microservice thông qua Redis và Kalfka trong NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/microservices/Microservices trong NestJS là gì ?.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Custom Providers là gì trong NestJS ? 1 trong các concept cơ bản của Nest.md",
     "Evergreen/concept-base/technical/backend/nestjs/microservices",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/NestJS Testing là gì ? 1 cách để đảm bảo ứng chạy hiệu quả.md",

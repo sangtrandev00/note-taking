@@ -11,7 +11,7 @@ Dynamic Modules trong NestJS là một tính năng mạnh mẽ, cho phép bạn 
 
 Hãy bắt đầu với một ví dụ thực tế:
 
-### **Bước 1: Tạo Dynamic Module**
+## **Bước 1: Tạo Dynamic Module**
 
 1. **Cấu trúc module:**
 
@@ -51,7 +51,7 @@ export class DatabaseModule {
 
 ---
 
-### **Bước 2: Sử dụng Dynamic Module trong ứng dụng**
+## **Bước 2: Sử dụng Dynamic Module trong ứng dụng**
 
 ```typescript
 
@@ -75,7 +75,7 @@ export class AppModule {}
 
 ---
 
-### **Bước 3: Inject và sử dụng kết nối**
+## **Bước 3: Inject và sử dụng kết nối**
 
 ```typescript
 
@@ -111,7 +111,7 @@ export class AppController {
 ```
 ---
 
-### **Giải thích bằng tiếng Việt**
+## **Giải thích bằng tiếng Việt**
 
 1. **`DatabaseModule`**:
     
@@ -133,6 +133,7 @@ Khi bạn chạy ứng dụng và truy cập endpoint `/connection`, bạn sẽ 
 
 ```json
 
+"Kết nối MySQL tại localhost"
 
 ```
 
@@ -315,7 +316,6 @@ export class UserController {
 ---
 ## Liên quan
 https://docs.nestjs.com/fundamentals/dynamic-modules
-https://chatgpt.com/share/676a1f1a-3db4-8013-9883-27534795d3bd
 https://chatgpt.com/share/676a1f1a-3db4-8013-9883-27534795d3bd
 https://github.com/nestjs/nest/tree/master/sample/25-dynamic-modules
 https://github.com/sangtrandev00/dynamic-modules-nestjs
