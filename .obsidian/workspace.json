@@ -64,17 +64,17 @@
             }
           },
           {
-            "id": "e85d2729489985f9",
+            "id": "29dd1501b97136f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
+                "file": "Evergreen/concept-base/technical/programming/Typescript/Decorator là gì ? 1 Khái niệm khá khó hiểu ?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Module - Register, forRoot, forFeature"
+              "title": "Decorator là gì ? 1 Khái niệm khá khó hiểu ?"
             }
           }
         ],
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 277.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md"
+                "file": "Evergreen/concept-base/technical/programming/Typescript/Decorator là gì ? 1 Khái niệm khá khó hiểu ?.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dynamic Module - Register, forRoot, forFeature"
+              "title": "Outline of Decorator là gì ? 1 Khái niệm khá khó hiểu ?"
             }
           },
           {
@@ -307,37 +307,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e85d2729489985f9",
+  "active": "29dd1501b97136f9",
   "lastOpenFiles": [
-    "Evergreen/concept-base/technical/backend/nestjs/microservices/Microservice thông qua Redis và Kalfka trong NestJS.md",
+    "Evergreen/concept-base/technical/programming/Javascript/Phân biệt 3 khái niệm Apply, Bind, Call trong Javascript với các ví dụ minh hoạ.md",
+    "Evergreen/concept-base/technical/programming/Javascript/Cách JavaScript hoạt động như thế nào ?.md",
+    "Evergreen/concept-base/technical/programming/Javascript/Cây DOM là gì ?.md",
+    "Evergreen/concept-base/technical/programming/Javascript/Deep copy trong Javascript ? Tại sao một lập trình viên Junior cần biết ?.md",
+    "Evergreen/concept-base/technical/programming/Javascript/Eventloop trong Javscript trên browser.md",
+    "Evergreen/concept-base/technical/programming/Javascript/Javascript excecution context là gì ?.md",
+    "Evergreen/concept-base/technical/programming/Javascript/So sánh giữa null và undefined.md",
+    "Evergreen/concept-base/technical/programming/Typescript/Decorator là gì ? 1 Khái niệm khá khó hiểu ?.md",
+    "Evergreen/concept-base/technical/devops/docker/Sự khác nhau giữa Docker file và Docker Compose.md",
+    "Evergreen/concept-base/technical/devops/docker/Tại sao phải sử dụng Docker.md",
+    "Evergreen/concept-base/technical/database/SQL/Database Partition trong là gì ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/microservices/Microservices thông qua RabbitMQ.md",
+    "Evergreen/concept-base/technical/backend/nestjs/microservices/Microservice cơ bản thông qua Redis trong NestJS ? So sánh giữa 2 giao thức tcp với redis.md",
     "Evergreen/concept-base/technical/backend/nestjs/microservices/Microservices trong NestJS là gì ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/NestJS Testing là gì ? 1 cách để đảm bảo ứng chạy hiệu quả.md",
+    "Evergreen/concept-base/technical/backend/nestjs/websockets",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Custom Providers là gì trong NestJS ? 1 trong các concept cơ bản của Nest.md",
     "Evergreen/concept-base/technical/backend/nestjs/microservices",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/NestJS Testing là gì ? 1 cách để đảm bảo ứng chạy hiệu quả.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Quy trình triển khai ứng dựng NestJS thực tế CI, CD kết hợp với Testing.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/So sánh giữa 3 cơ chế test trong ứng dụng NestJS.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lifecycle Events trong là gì ? 1 Khái niệm liên quan đến vòng đời NestJS.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Cơ chế hoạt động của Guard trong NestJS ? Cách cấu hình 1 Guard như thế nào ?.md",
-    "Evergreen/concept-base/technical/database/SQL/Database Partition trong là gì ?.md",
     "Pasted image 20250102163128.png",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Setmetadata và Refector là gì ? 2 Khái niệm bổ trợ trong NestJS.md",
     "Evergreen/concept-base/technical/interview/fullteron health/VÒNG 1 - Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Quy trình chuẩn bị cho buổi phỏng vấn Final Interview.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Execution Context là gì ? 1 trong những khái niệm cơ bản của NestJS.md",
-    "Evergreen/concept-base/technical/programming/Typescript/Decorator là gì ? 1 Khái niệm khá khó hiểu ?.md",
     "VÒNG TEST - 3 Câu hỏi phỏng vấn đầu vào NAB Starcamp.md",
-    "Evergreen/optional-base/career/Phỏng vấn NAB Starcamp.md",
-    "Evergreen/concept-base/technical/interview/Chia sẻ những chiến lược giúp mình chinh phục được 2 Offer tốt cuối năm.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/VÒNG 2 - Các câu hỏi phỏng vấn vòng cuối công ty Fullterton Health, ngày 30-12-2024.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi chuẩn bị đặt ra cho vòng phỏng vấn 2 của công ty Unitysport.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Untitled",
-    "Evergreen/concept-base/technical/interview/fullteron health/Chiến lược đàm phán về đãi ngộ - Các kịch bản cần chuẩn bị tại Fullterton Health.md",
-    "Evergreen/concept-base/technical/interview/Các câu hỏi phỏng vấn Fresher Backend.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Các câu hỏi tiếng anh chuẩn bị cho công ty Fullterton Health.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Sự khác nhau giữa Docker File và Docker Compose.md",
-    "Evergreen/concept-base/technical/interview/Chuẩn bị cho việc giới thiệu bản thân và các câu hỏi cuối cùng của buổi phỏng vấn (Nếu được cho phép đặt câu hỏi).md",
-    "Evergreen/concept-base/technical/interview/Coding Interview Preperation - Mọi thứ bạn cần chuẩn bị.md",
-    "Evergreen/concept-base/technical/interview/behavior interview/Chuẩn bị cho các câu hỏi phỏng vấn vòng final round tại công ty Fullterton Health và UnitySport.md",
     "Evergreen/concept-base/technical/interview/behavior interview",
     "Evergreen/concept-base/technical/interview/security",
     "Evergreen/concept-base/technical/interview/unitysport",
@@ -346,7 +347,6 @@
     "Evergreen/concept-base/technical/backend/nestjs/overview",
     "Evergreen/concept-base/technical/backend/nestjs/techniques",
     "Evergreen/concept-base/technical/backend/nestjs/security",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental",
     "Pasted image 20241215170049.png",
     "Untitled 1.canvas",
     "Pasted image 20241214162921.png",
