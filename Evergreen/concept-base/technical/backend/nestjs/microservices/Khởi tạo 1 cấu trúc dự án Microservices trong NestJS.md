@@ -17,11 +17,7 @@ Hệ thống sẽ gồm các microservices chính:
 ---
 
 ### **2. High-Level Architecture Diagram**
-
-sql
-
-Sao chép mã
-
+				
 `Client    |    ↓ API Gateway    ↓ +----------------------------+ |        Microservices       | +----------------------------+ | - Order Service            | | - Payment Service          | | - Notification Service     | | - Log Service              | | - Inventory Service        | | - User Service             | +----------------------------+    ↓           ↓ RabbitMQ     Database Layer`
 
 ---
