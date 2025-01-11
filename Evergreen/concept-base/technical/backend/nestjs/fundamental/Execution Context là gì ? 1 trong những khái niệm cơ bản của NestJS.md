@@ -145,6 +145,4 @@ https://chatgpt.com/share/6774b4f3-9df4-8013-ba77-177bbe6c1e80
 
 Tham khảo thêm đoạn code example mà mình đã tạo trong bài viết ở repository này nhé!
 https://github.com/sangtrandev00/execution-context-nestjs
-
-
 #nestjs #backend
