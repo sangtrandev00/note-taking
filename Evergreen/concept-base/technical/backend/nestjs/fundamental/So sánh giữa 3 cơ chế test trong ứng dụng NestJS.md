@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3552
+postType: post
+categories:
+  - 39
+---
 ## **1. Unit Test**
 
 - **Mục tiêu**: Kiểm tra logic của từng thành phần riêng lẻ (class, function, module).
@@ -167,4 +173,4 @@ Sự kết hợp hợp lý cả 3 loại test sẽ đảm bảo chất lượng 
 
 https://chatgpt.com/share/67775eed-5a40-8013-b24c-73a7c4bc13be
 
-#nestjs #testing #backend 
+#nestjs #testing #backend

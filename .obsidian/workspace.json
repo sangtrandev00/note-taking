@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/interview/unitysport/Bài test với 3 câu hỏi đầu vào của công ty Unitysport.md",
+                "file": "Evergreen/concept-base/technical/backend/nestjs/fundamental/So sánh giữa 3 cơ chế test trong ứng dụng NestJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bài test với 3 câu hỏi đầu vào của công ty Unitysport"
+              "title": "So sánh giữa 3 cơ chế test trong ứng dụng NestJS"
+            }
+          },
+          {
+            "id": "cd77ec2d45ac3c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/technical/database/SQL/MariaDB/Cài đặt MariaDB bằng Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cài đặt MariaDB bằng Docker"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 237.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/interview/unitysport/Bài test với 3 câu hỏi đầu vào của công ty Unitysport.md"
+                "file": "Evergreen/concept-base/technical/database/SQL/MariaDB/Cài đặt MariaDB bằng Docker.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Bài test với 3 câu hỏi đầu vào của công ty Unitysport"
+              "title": "Outline of Cài đặt MariaDB bằng Docker"
             }
           },
           {
@@ -240,45 +255,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb8bbfc81dd54804",
+  "active": "cd77ec2d45ac3c52",
   "lastOpenFiles": [
+    "Evergreen/concept-base/technical/interview/fullteron health/VÒNG 2 - Các câu hỏi phỏng vấn vòng cuối công ty Fullterton Health, ngày 30-12-2024.md",
+    "Evergreen/concept-base/technical/database/SQL/MariaDB/Cài đặt MariaDB bằng Docker.md",
+    "Evergreen/concept-base/technical/database/SQL/MariaDB",
+    "Evergreen/concept-base/technical/interview/fullteron health/VÒNG 1 - Trải nghiệm phỏng vấn công ty Fullerton Health ngày 19-12-2024.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/So sánh giữa 3 cơ chế test trong ứng dụng NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/security/Rate limiting.md",
+    "Evergreen/concept-base/technical/backend/nestjs/security/Helmet là gì trong NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/security/CSRF Protection là gì trong NestJS và cách phòng chống ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/security/CORS là gì trong NestJS ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/Trình bày tóm tắt vòng đời cách chạy của Framework Nestjs ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/Nestjs là gì ? Tại sao lại hot đến vậy trong các framework của NodeJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/Các khái niệm cần tìm hiểu thêm về NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/DI là gì trong NestJS, Dependency Injection.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Setmetadata và Refector là gì ? 2 Khái niệm bổ trợ trong NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Quy trình triển khai ứng dựng NestJS thực tế CI, CD kết hợp với Testing.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/NestJS Testing là gì ? 1 cách để đảm bảo ứng chạy hiệu quả.md",
-    "Evergreen/concept-base/technical/interview/unitysport/Bài test với 3 câu hỏi đầu vào của công ty Unitysport.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lifecycle Events trong là gì ? 1 Khái niệm liên quan đến vòng đời NestJS.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Execution Context là gì ? 1 trong những khái niệm cơ bản của NestJS.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lazy Load Modules trong NestJS là gì ?.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Module Reference là gì ?.md",
-    "Evergreen/concept-base/technical/database/SQL/Database Partition trong là gì ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lifecycle Events trong là gì ? 1 Khái niệm liên quan đến vòng đời NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Lazy Load Modules trong NestJS là gì ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/IOC trong lập trình là gì ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Circular Dependency là gì ? 3 cách để giải quyết các circular dependency.md",
     "Evergreen/concept-base/technical/backend/nestjs/fundamental/Cơ chế hoạt động của Guard trong NestJS ? Cách cấu hình 1 Guard như thế nào ?.md",
-    "Evergreen/concept-base/technical/backend/nestjs/microservices/Khởi tạo 1 cấu trúc dự án Microservices trong NestJS.md",
-    "Evergreen/concept-base/technical/git/Cách khởi tạo SSH cho máy và kết nối với Github.md",
-    "Fullerton Health/Note/Untitled.md",
-    "copilot-custom-prompts/Custom prompt.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Custom Providers là gì trong NestJS ? 1 trong các concept cơ bản của Nest.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Dynamic Module - Register, forRoot, forFeature.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Execution Context là gì ? 1 trong những khái niệm cơ bản của NestJS.md",
+    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Injection Scopes là gì ?.md",
+    "Evergreen/concept-base/technical/interview/unitysport/Bài test với 3 câu hỏi đầu vào của công ty Unitysport.md",
     "Fullerton Health/Note",
     "Fullerton Health/Daily",
     "Fullerton Health",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Circular Dependency là gì ? 3 cách để giải quyết các circular dependency.md",
-    "Evergreen/concept-base/technical/backend/nestjs/fundamental/Injection Scopes là gì ?.md",
-    "Evergreen/concept-base/technical/algorithm/Làm bài test codility của Starcamp NAB.md",
     "Evergreen/concept-base/technical/devops/docker/fundamental",
-    "Evergreen/concept-base/technical/programming/Typescript/Decorator là gì ? 1 Khái niệm khá khó hiểu ?.md",
-    "Evergreen/concept-base/technical/programming/Javascript/Phân biệt 3 khái niệm Apply, Bind, Call trong Javascript với các ví dụ minh hoạ.md",
-    "Evergreen/concept-base/technical/programming/Javascript/Cách JavaScript hoạt động như thế nào ?.md",
-    "Evergreen/concept-base/technical/programming/Javascript/Cây DOM là gì ?.md",
-    "Evergreen/concept-base/technical/programming/Javascript/Deep copy trong Javascript ? Tại sao một lập trình viên Junior cần biết ?.md",
-    "Evergreen/concept-base/technical/programming/Javascript/Eventloop trong Javscript trên browser.md",
-    "Evergreen/concept-base/technical/programming/Javascript/Javascript excecution context là gì ?.md",
-    "Evergreen/concept-base/technical/programming/Javascript/So sánh giữa null và undefined.md",
-    "Evergreen/concept-base/technical/devops/docker/Sự khác nhau giữa Docker file và Docker Compose.md",
-    "Evergreen/concept-base/technical/devops/docker/Tại sao phải sử dụng Docker.md",
-    "Evergreen/concept-base/technical/backend/nestjs/microservices/Microservices thông qua RabbitMQ.md",
     "Evergreen/concept-base/technical/backend/nestjs/websockets",
     "Evergreen/concept-base/technical/backend/nestjs/microservices",
     "Pasted image 20250102163128.png",
     "Evergreen/concept-base/technical/interview/fullteron health/Untitled",
     "Evergreen/concept-base/technical/interview/behavior interview",
     "Evergreen/concept-base/technical/interview/security",
-    "Evergreen/concept-base/technical/interview/unitysport",
     "Untitled 2.canvas",
     "Pasted image 20241215170049.png",
     "Untitled 1.canvas",
