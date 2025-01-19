@@ -53,7 +53,7 @@ Database
 	+ Bạn có bao giờ viết raw SQL trong code chưa ? Lệnh Join dài nhất
 		+ Lệnh join của bạn đã được 10 bảng chưa ?
 + MongoDB
-	+ So sánh giữa hàm find và aggreate trong MongoDB
+	+ So sánh giữa hàm find và aggregate trong MongoDB
 + So sánh giữa Relation Database và No SQL 
 + Nếu bạn là Lead của một dự án thì bạn dựa vào cơ sở nào để chọn loại CSDL
 
@@ -133,6 +133,7 @@ Nghiệp vụ dự án
 		+ => Có thể nghĩ ngay đến việc lưu dữ liệu đó lại theo tháng
 		+ => Export thống kê nhân viên
 
+Câu hỏi cho công ty ?
 Văn hoá công ty
 Mục tiêu công ty
 Các ứng dụng mục tiêu sẽ triển khai trong thời gian tới
