@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3558
+postType: post
+categories:
+  - 39
+---
 Khi phỏng vấn cho vị trí **Node.js Junior Backend**, các câu hỏi về TypeScript thường liên quan đến các khái niệm cơ bản, cách sử dụng TypeScript trong phát triển ứng dụng backend, cũng như các đặc điểm liên quan đến cấu trúc mã và hiệu suất. Dưới đây là một số câu hỏi về TypeScript mà bạn có thể gặp trong buổi phỏng vấn:
 
 ### 1. **Giải thích sự khác biệt giữa `interface` và `type` trong TypeScript.**
@@ -92,3 +98,4 @@ Các câu hỏi này giúp nhà tuyển dụng kiểm tra mức độ thành th�
 
 https://chatgpt.com/share/676baf2b-7cfc-8013-a058-574e68206a6c
 
+#interview #typescript

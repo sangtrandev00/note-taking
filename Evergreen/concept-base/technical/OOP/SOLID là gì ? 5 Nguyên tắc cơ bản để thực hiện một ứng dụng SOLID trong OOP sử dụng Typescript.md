@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3560
+postType: post
+categories:
+  - 39
+---
 SOLID là tập hợp năm nguyên tắc thiết kế phần mềm trong lập trình hướng đối tượng (OOP), giúp cải thiện khả năng mở rộng, bảo trì và khả năng đọc mã nguồn. Dưới đây là từng nguyên tắc SOLID cùng ví dụ minh họa bằng TypeScript.
 
 ---
