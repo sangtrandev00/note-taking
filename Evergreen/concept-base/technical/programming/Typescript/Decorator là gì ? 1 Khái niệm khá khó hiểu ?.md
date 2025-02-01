@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3586
+postType: post
+categories:
+  - 39
+---
 ## Decorator là gì ?
 
 Trong TypeScript, **decorator** là một tính năng mạnh mẽ dùng để thêm hoặc sửa đổi hành vi của **lớp**, **phương thức**, **thuộc tính**, hoặc **tham số** tại thời điểm khai báo. Decorator thường được sử dụng trong các framework như Angular để cung cấp các tính năng như Dependency Injection, Metadata Annotation, hoặc xử lý logic tự động.
@@ -367,4 +373,4 @@ console.log((instance as any).newProperty); // Output: I'm a new property
 https://www.typescriptlang.org/docs/handbook/decorators.html
 https://chatgpt.com/share/67793eb6-694c-8013-a4c4-afc6590044a5
 
-#typescript #programming
+#typescript #programming #interview

@@ -1,5 +1,10 @@
-
-
+---
+profileName: sangtrandev00
+postId: 3581
+postType: post
+categories:
+  - 39
+---
 ### **1. Hiểu rõ yêu cầu**
 
 Trước tiên, bạn cần hiểu rõ:
@@ -155,4 +160,4 @@ app.listen(3000, () => console.log('Server running on port 3000'));
 ---
 ## Liên quan
 
-#nodejs #api #rest-api
+#nodejs #api #rest-api #interview

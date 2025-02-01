@@ -31,7 +31,7 @@ Khá khó giải thích bằng lời, nhưng để cho dễ tiếp cận mình s
 
 Ví dụ: về thuật toán linear search
 
-`js
+```js
 function linearSearch(arr, target) {
     for (let i = 0; i < arr.length; i++) {
         if (arr[i] === target) {
@@ -40,6 +40,7 @@ function linearSearch(arr, target) {
     }
     return -1;
 }
+```
 - **Big-O (`O(n)`)**:
     - Worst-case:  We have to check all  elements.
     - Time complexity: O(n).

@@ -1,4 +1,10 @@
-
+---
+profileName: sangtrandev00
+postId: 3587
+postType: post
+categories:
+  - 39
+---
 ### **1. Xác định API cần kiểm tra**
 
 Giả sử API cần kiểm tra là một **GET API** trả về danh sách người dùng từ endpoint `/users`.
@@ -100,4 +106,4 @@ describe('GET /users', () => {
 ---
 ## Liên quan
 
-#nodejs #testing #unitest #interview 
+#nodejs #testing #unitest #interview

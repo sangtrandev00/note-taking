@@ -1,3 +1,10 @@
+---
+profileName: sangtrandev00
+postId: 3588
+postType: post
+categories:
+  - 39
+---
 
 
 ## Yếu tố quan trọng trong quá trình đàm phán lương là gì ?

@@ -1,10 +1,3 @@
----
-profileName: sangtrandev00
-postId: 3583
-postType: post
-categories:
-  - 39
----
 **Overriding** và **Overloading** là hai khái niệm quan trọng trong lập trình hướng đối tượng (OOP). Dưới đây là sự khác biệt giữa chúng:
 
 ---
