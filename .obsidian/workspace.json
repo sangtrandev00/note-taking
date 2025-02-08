@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/technical/OOP/So sánh giữa Overriding và Overloading.md",
+                "file": "Evergreen/concept-base/technical/git/Phân biệt giữa git reset và git reset hard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "So sánh giữa Overriding và Overloading"
-            }
-          },
-          {
-            "id": "546c4da72df72d69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen/concept-base/technical/git/Cách khởi tạo SSH cho máy và kết nối với Github.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cách khởi tạo SSH cho máy và kết nối với Github"
-            }
-          },
-          {
-            "id": "f2573de8b5ce6a3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List/Linkedlist là gì ? Tại sao 1 lập trình viên cần biết.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linkedlist là gì ? Tại sao 1 lập trình viên cần biết"
+              "title": "Phân biệt giữa git reset và git reset hard"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 257.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -169,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List/Linkedlist là gì ? Tại sao 1 lập trình viên cần biết.md",
+                "file": "Evergreen/concept-base/technical/git/Phân biệt giữa git reset và git reset hard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linkedlist là gì ? Tại sao 1 lập trình viên cần biết"
+              "title": "Outline of Phân biệt giữa git reset và git reset hard"
             }
           },
           {
@@ -273,15 +244,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2573de8b5ce6a3b",
+  "active": "db305cd80c835c36",
   "lastOpenFiles": [
-    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List/Linkedlist là gì ? Tại sao 1 lập trình viên cần biết.md",
+    "Evergreen/concept-base/technical/git/Giải thích hành động của câu lệnh Git merge.md",
+    "Evergreen/concept-base/technical/git/Phân biệt giữa git reset và git reset hard.md",
+    "Evergreen/concept-base/technical/backend/mongoose/Trong phương thức find của mongoose. Tại sao lại phải có thêm hàm find().exec().md",
+    "Evergreen/concept-base/technical/backend/mongoose/Dựng 1 Project backend NestJS, Typeorm, Mongoose.md",
+    "Evergreen/concept-base/technical/backend/mongoose/Khái niệm mongoose aggregate cần phải nhớ.md",
+    "Evergreen/concept-base/technical/backend/mongoose/Sự khác nhau giữa hàm Find và hàm Aggregate trong Mongoose.md",
+    "Evergreen/concept-base/technical/backend/nestjs/authentication/keycloak/What's keycloak ? How to build application using keycloak.md",
+    "Evergreen/concept-base/technical/backend/nx/What's the nx project ?.md",
+    "Evergreen/concept-base/technical/backend/nestjs/authentication/keycloak",
+    "Evergreen/concept-base/technical/backend/nestjs/authentication",
+    "Evergreen/concept-base/technical/backend/typeorm",
+    "Evergreen/concept-base/technical/backend/Untitled",
+    "Evergreen/concept-base/technical/backend/mongoose",
+    "Evergreen/concept-base/technical/OOP/So sánh giữa Overriding và Overloading.md",
+    "Evergreen/concept-base/technical/backend/nx",
     "Evergreen/concept-base/technical/git/Cách khởi tạo SSH cho máy và kết nối với Github.md",
+    "Evergreen/concept-base/technical/data-structure/Master Coding Interview/Linked List/Linkedlist là gì ? Tại sao 1 lập trình viên cần biết.md",
     "Evergreen/concept-base/technical/git/Làm sao để up file lên github khi vượt quá max.md",
     "Evergreen/concept-base/technical/git/Git fetch khác gì với git pull ? Khi nào thì dùng git fetch.md",
     "Evergreen/concept-base/technical/git/Các lệnh git thường dùng.md",
     "Evergreen/concept-base/technical/algorithm/Master Coding Interview/BigO là gì trong thuật toán.md",
-    "Evergreen/concept-base/technical/OOP/So sánh giữa Overriding và Overloading.md",
     "Evergreen/concept-base/technical/OOP/Có bao nhiêu hàm khởi tạo trong OOP.md",
     "Evergreen/concept-base/technical/OOP/Phân biệt giữa Overloading và Overriding.md",
     "Evergreen/concept-base/technical/OOP/SOLID là gì ? 5 Nguyên tắc cơ bản để thực hiện một ứng dụng SOLID trong OOP sử dụng Typescript.md",
@@ -293,27 +278,13 @@
     "Evergreen/concept-base/technical/interview/Index là gì ? trong CSDL.md",
     "Evergreen/concept-base/technical/interview/Chuẩn bị cho buổi phỏng vấn Technical Interviews.md",
     "Evergreen/concept-base/technical/interview/Chuẩn bị cho buổi 1 buổi phỏng vấn hành vi (Behavior Interview).md",
-    "Evergreen/concept-base/technical/interview/Chiến lược và kịch bản đàm phán lương.md",
-    "Evergreen/concept-base/technical/interview/Chia sẻ những chiến lược giúp mình chinh phục được 2 Offer tốt cuối năm.md",
-    "Evergreen/concept-base/technical/interview/Câu hỏi phỏng vấn, cách thiết kế 1 Restful API cơ bản.md",
-    "Evergreen/concept-base/technical/interview/Cách học và thực hành cho interview technical question.md",
-    "Evergreen/concept-base/technical/interview/Cách để trình bày một câu hỏi về System Design trong buổi phỏng vấn của bạn. 1 Ví dụ mẫu.md",
-    "Evergreen/concept-base/technical/interview/Các câu hỏi phỏng vấn Fresher Backend.md",
-    "Evergreen/concept-base/technical/interview/Các cách tôi ưu một API.md",
-    "Evergreen/concept-base/technical/interview/Block Eventloop và cách xử lý.md",
     "Evergreen/concept-base/technical/experience/fullertonhealth-company",
     "bang-tot-nghiep-cd-fpt-polytechnic.jpg",
     "Untitled 3.canvas",
     "Evergreen/concept-base/technical/database/SQL/MariaDB",
     "Fullerton Health/Note",
     "Fullerton Health/Daily",
-    "Fullerton Health",
-    "Evergreen/concept-base/technical/devops/docker/fundamental",
-    "Evergreen/concept-base/technical/backend/nestjs/websockets",
-    "Evergreen/concept-base/technical/backend/nestjs/microservices",
     "Pasted image 20250102163128.png",
-    "Evergreen/concept-base/technical/interview/fullteron health/Untitled",
-    "Evergreen/concept-base/technical/interview/behavior interview",
     "Untitled 2.canvas",
     "Pasted image 20241215170049.png",
     "Untitled 1.canvas",

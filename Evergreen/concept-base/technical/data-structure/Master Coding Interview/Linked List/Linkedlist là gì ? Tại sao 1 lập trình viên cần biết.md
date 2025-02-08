@@ -1,4 +1,5 @@
 1 cấu trúc dữ liệu quan trọng là nền tảng để xây dựng các cấu trúc phức tạp sau này như Stack, Queue, Tree,... Linkedlist là một khái niệm mà mọi anh em lập trình như chúng ta phải biết để hiểu được các cấu trúc khó hơn khi học vào cấu trúc dữ liệu và giải thuật từ đó có một lượng kiến thức để giải quyết các bài toán lập trình. 
+
 ## What is LinkedList ? LinkedList là gì ?
 
 Là cấu trúc dữ liệu cái mà node hiện tại sẽ liên kết đến một vùng nhớ của node tiếp theo
@@ -257,7 +258,6 @@ myLinkedList.insert(2, 99);
 ![Pasted image 20241210091940.png](https://trannhatsang.com/wp-content/uploads/2024/12/Pasted-image-20241210091940.png)
 
 ---
-
 
 ## Tóm tắt
 
