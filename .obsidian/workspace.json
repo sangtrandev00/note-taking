@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Bài tập 2.md",
+                "file": "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 3..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chương 1 - Bài tập 2"
+              "title": "Buổi 3."
+            }
+          },
+          {
+            "id": "62e6547b0c46b376",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 256.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -140,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Bài tập 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chương 1 - Bài tập 2"
+              "title": "Outline"
             }
           },
           {
@@ -244,35 +254,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b9ef41f0d34c287",
+  "active": "62e6547b0c46b376",
   "lastOpenFiles": [
-    "Evergreen/concept-base/university/semester01/IE005_introduction-it/Buổi 1.md",
-    "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Bài tập 2.md",
+    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/Cách học và quy đinh học.md",
+    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/Buổi 1 - Tóm tắt nội dung chính.md",
+    "Evergreen/concept-base/university/semester01/IE101_infra/Bài tập chương 1 - Trần Nhật Sang - 24410347.md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Tổng quan khái niệm.md",
-    "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Bài tập.md",
+    "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Bài tập 1.md",
+    "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Bài tập 2.md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Giải thích các khái niệm.md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Overview question.md",
+    "Evergreen/concept-base/technical/devops/aws/Cách dịch vụ chính cần biết trong AWS.md",
+    "Evergreen/concept-base/technical/devops/aws/Kết nối AWS server (NodeJS).md",
+    "Connect MongoDB AWS.md",
+    "Evergreen/concept-base/technical/devops/aws/Cách triển khai 1 server deploy lên AWS (giống Hosting).md",
+    "Evergreen/concept-base/technical/backend/FCM token là gì ? Tại sao phải cần ?.md",
+    "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 3..md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 1..md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 2..md",
+    "Evergreen/concept-base/university/semester01/IE005_introduction-it/3 lý do mình chọn học ngành công nghệ thông tin.md",
+    "Evergreen/concept-base/university/semester01/IE005_introduction-it/Buổi 1.md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 5.md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 4..md",
-    "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 3..md",
     "Evergreen/concept-base/technical/backend/nestjs/microservices/Nats/Khởi tạo dự án NestJS Streaming với Nats.md",
     "Evergreen/concept-base/technical/backend/nestjs/microservices/Nats/Khái niệm quan trọng của Nats.md",
     "Evergreen/concept-base/technical/devops/ci-cd/Làm sao triển khai CI-CD với Jenkin? Setup cơ bản.md",
     "Evergreen/concept-base/technical/backend/nestjs/microservices/Nats",
-    "Evergreen/concept-base/technical/devops/aws/Cách triển khai 1 server deploy lên AWS (giống Hosting).md",
     "Evergreen/concept-base/technical/devops/docker/fundamental/80% câu lệnh thường xuyên dùng nhất của docker.md",
     "Evergreen/concept-base/technical/devops/docker/fundamental/80% khái niệm quan trọng nhất của docker.md",
     "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md",
-    "Evergreen/concept-base/technical/git/Cách khởi tạo SSH cho máy và kết nối với Github.md",
-    "Evergreen/concept-base/technical/git/Giải thích hành động của câu lệnh Git merge.md",
-    "Evergreen/concept-base/technical/git/Git fetch khác gì với git pull ? Khi nào thì dùng git fetch.md",
-    "Evergreen/concept-base/technical/git/Làm sao để up file lên github khi vượt quá max.md",
-    "Evergreen/concept-base/technical/git/Phân biệt giữa git reset và git reset hard.md",
-    "Evergreen/concept-base/technical/database/SQL/Tại sao các database lại hỗ trợ bulk insert tốt hơn ?.md",
-    "Evergreen/concept-base/technical/database/SQL/Giải thích các thành phần trong câu lệnh explain sql query trong MySQL ?.md",
-    "Evergreen/concept-base/technical/database/SQL/Trình tự thực hiện của một câu lệnh SQL sẽ diễn ra như thế nào ?.md",
     "Evergreen/concept-base/technical/database/SQL/Join",
     "Evergreen/concept-base/technical/devops/aws",
     "Evergreen/concept-base/technical/database/SQL/Execution Order",
