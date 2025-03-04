@@ -13,26 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 3..md",
+                "file": "Evergreen/concept-base/university/semester01/IE101_infra/Bài Thực hành 1 - Trần Nhật Sang - 24410347.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buổi 3."
+              "title": "Bài Thực hành 1 - Trần Nhật Sang - 24410347"
             }
           },
           {
-            "id": "62e6547b0c46b376",
+            "id": "205a8dec406ca0c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Bài tập 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chương 1 - Bài tập 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 294.5
   },
   "right": {
     "id": "598567424d2350c6",
@@ -151,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Evergreen/concept-base/university/semester01/IE101_infra/Bài Thực hành 1 - Trần Nhật Sang - 24410347.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Bài Thực hành 1 - Trần Nhật Sang - 24410347"
             }
           },
           {
@@ -254,44 +258,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62e6547b0c46b376",
+  "active": "7b9ef41f0d34c287",
   "lastOpenFiles": [
-    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/Cách học và quy đinh học.md",
-    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/Buổi 1 - Tóm tắt nội dung chính.md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Bài tập chương 1 - Trần Nhật Sang - 24410347.md",
-    "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Tổng quan khái niệm.md",
+    "Evergreen/concept-base/university/semester01/IE101_infra/Bài Thực hành 1 - Trần Nhật Sang - 24410347.md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Bài tập 1.md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Bài tập 2.md",
+    "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 2. Lý thuyết.md",
+    "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 1..md",
+    "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 4..md",
+    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/lesson/Chương 2 - Cấu trúc của hệ điều hành.md",
+    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/lesson/Chương 3 - Tiến trình.md",
+    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/lesson/Chương 1 - Tổng quan.md",
+    "Evergreen/concept-base/university/semester01/MA003_math-dai-so-tuyen-tinh/lesson/Chương 2 - Hệ phương trình tuyến tính.md",
+    "Evergreen/concept-base/university/semester01/MA003_math-dai-so-tuyen-tinh/lesson/Chương 1 - Ma trận, Định thức.md",
+    "Evergreen/concept-base/university/semester01/MA003_math-dai-so-tuyen-tinh/lesson/Buổi 2.md",
+    "Evergreen/concept-base/university/semester01/MA003_math-dai-so-tuyen-tinh/lesson/Buổi 1.md",
+    "Evergreen/concept-base/university/semester01/IE103_information-management/Buổi 2.md",
+    "Evergreen/concept-base/university/semester01/IE103_information-management/Ghi chú buổi 1.md",
+    "Evergreen/concept-base/university/semester01/MA003_math-dai-so-tuyen-tinh/practice",
+    "Evergreen/concept-base/university/semester01/MA003_math-dai-so-tuyen-tinh/lesson",
+    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/practice",
+    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/lesson",
+    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/Buổi 2.md",
+    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/Buổi 1 - Tóm tắt nội dung chính.md",
+    "Evergreen/concept-base/university/semester01/IE107_ops-he-dieu-hanh/Cách học và quy đinh học.md",
+    "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Tổng quan khái niệm.md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Chương 1 - Giải thích các khái niệm.md",
     "Evergreen/concept-base/university/semester01/IE101_infra/Overview question.md",
     "Evergreen/concept-base/technical/devops/aws/Cách dịch vụ chính cần biết trong AWS.md",
     "Evergreen/concept-base/technical/devops/aws/Kết nối AWS server (NodeJS).md",
     "Connect MongoDB AWS.md",
     "Evergreen/concept-base/technical/devops/aws/Cách triển khai 1 server deploy lên AWS (giống Hosting).md",
-    "Evergreen/concept-base/technical/backend/FCM token là gì ? Tại sao phải cần ?.md",
-    "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 3..md",
-    "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 1..md",
-    "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 2..md",
-    "Evergreen/concept-base/university/semester01/IE005_introduction-it/3 lý do mình chọn học ngành công nghệ thông tin.md",
-    "Evergreen/concept-base/university/semester01/IE005_introduction-it/Buổi 1.md",
-    "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 5.md",
-    "Evergreen/concept-base/university/semester01/IE101_infra/Buổi 4..md",
-    "Evergreen/concept-base/technical/backend/nestjs/microservices/Nats/Khởi tạo dự án NestJS Streaming với Nats.md",
-    "Evergreen/concept-base/technical/backend/nestjs/microservices/Nats/Khái niệm quan trọng của Nats.md",
-    "Evergreen/concept-base/technical/devops/ci-cd/Làm sao triển khai CI-CD với Jenkin? Setup cơ bản.md",
     "Evergreen/concept-base/technical/backend/nestjs/microservices/Nats",
-    "Evergreen/concept-base/technical/devops/docker/fundamental/80% câu lệnh thường xuyên dùng nhất của docker.md",
-    "Evergreen/concept-base/technical/devops/docker/fundamental/80% khái niệm quan trọng nhất của docker.md",
-    "Evergreen/concept-base/technical/interview/fullteron health/Làm thế nào để tối ưu một câu truy vấn SQL chậm ? 5 bước cơ bản để phân tích và tối ưu SQL.md",
     "Evergreen/concept-base/technical/database/SQL/Join",
     "Evergreen/concept-base/technical/devops/aws",
     "Evergreen/concept-base/technical/database/SQL/Execution Order",
     "Evergreen/concept-base/technical/database/SQL/Index",
     "Evergreen/concept-base/technical/database/SQL/Partition",
-    "Evergreen/concept-base/technical/database/NoSQL/mongoDB",
-    "Evergreen/concept-base/technical/backend/nestjs/authentication/keycloak",
-    "Evergreen/concept-base/technical/backend/nestjs/authentication",
-    "Evergreen/concept-base/technical/backend/typeorm",
     "bang-tot-nghiep-cd-fpt-polytechnic.jpg",
     "Untitled 3.canvas",
     "Pasted image 20250102163128.png",
