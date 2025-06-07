@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "images",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "newFileLocation": "folder",
+  "attachmentFolderLocation": "root",
+  "showUnsupportedFiles": false,
+  "autoCreateFolders": true,
+  "newFileFolderPath": ".",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
