@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1749290240015,
+      "path": "obsidian-vault/evergreen/concept-base/technical",
+      "title": "technical-note"
+    },
+    {
+      "type": "folder",
+      "ctime": 1749290281258,
+      "path": "obsidian-vault/evergreen/concept-base/technical/backend",
+      "title": "backend-note"
+    },
+    {
+      "type": "folder",
+      "ctime": 1749290311938,
+      "path": "obsidian-vault/evergreen/concept-base/technical/backend/nestjs",
+      "title": "nestjs-note"
+    }
+  ]
+}
