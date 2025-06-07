@@ -1,0 +1,374 @@
+---
+layout: post
+title: "Test 4 ETS 2022 - Chữa đề RC Part 5,6,7"
+date: 2025-06-21 10:00:00 +0700
+categories: concept-base english toeic test
+tags: ["toeic", "english"]
+source_path: "Evergreen/concept-base/english/toeic/test/Test 4 ETS 2022 - Chữa đề RC Part 5,6,7.md"
+---
+---
+profileName: sangtrandev00
+postId: 3194
+postType: post
+categories:
+  - 39
+tags:
+  - "#toeic"
+  - "#english"
+---
+Đề này nhìn chung mà nói phần reading mình làm tốt hơn hẳn. Đặc biệt có khả năng làm tới câu 195 và ít phần sai ở các câu cuối. Tuy vậy, vẫn còn một số lỗi sai về từ vựng và ngữ pháp ở các phần đầu tiên cũng như là dịch chưa sát nghĩa ở các đoạn phía trước. Kết quả đạt được cho bài Reading này là 80/100 RC một con số tốt hơn hẳn với hầu hết các đề mình làm trước đây. Một điều lưu ý nữa là phần lụi mình tạch cả 5 câu lụi cuối!
+
+## Ngữ pháp
+
+- Bethenie Industries guarantees that its products will function as __ for at least one year from date of purchase
+	- Quá khư phân từ
+	- advertised
+
+## Từ vựng
+
+
+- Classes __ using the new employee scheduling software will begin in December
+	- on
+		- Về, trên
+	- Các lớp học bằng cách sử dụng phần mềm xếp lịch nhân viên mới sẽ bắt đầu vào tháng 12
+- Dental Hygienist (n)
+	- Chuyên gia vệ sinh răng miệng
+- **A panel of** (2)
+	- Một hội đồng
+	- Example: A __ of four dental hygienists spoke about careers in their field
+		- 1 hội đồng gồm 4 chuyên gia vệ sinh răng miệng đã nói về sự nghiệp trong lĩnh vực của họ
+	- relates:
+		- commitee
+		- coucil
+- leathers (n)
+	- Da
+	- relates:
+		- clothing
+- **aerial** (2) (adj)
+	- Trên không
+	- relates:
+		- air
+	- Example: a free aerial photography workshop
+		- Buổi hội thảo về nhiếp ảnh gia trên không
+- town square (n)
+	- Quảng trường
+- **Patent** (n)
+	- Bằng sáng chế
+	- Example: A patent invention is protected by law
+	- synonyms:
+		- copyright (n)
+			- Bảng quyền
+		- evident
+		- right
+		- permit
+		- license
+- Office supplies (n)
+	- Đồ dùng văn phòng
+- **excessive** (adj)
+	- Quá mức, dư thừa
+	- synonyms:
+		- a bit much
+		- surplus
+		- unnecessary (adj)
+- glossy (adj)
+	- bóng loáng
+	- synonyms:
+		- expensive
+		- high-quality
+		- stylish
+		- glamourous
+- address (v)
+	- Nói về
+		- synonyms:
+			- talk to
+			- give a talk to
+			- speak to
+	- Giải quyết
+		- Example:
+		- addressing customer feedback is of critical importance
+- Pumpkin (n)
+	- Bí ngô
+	- relates:
+		- vegetable
+- **Burst** (v)
+	- Bị vỡ, bể, nổ
+	- Example:  when a pipe **burst** in the kitchen
+	- synonyms:
+		- crack (v)
+		- shatter
+		- split open
+		- break open
+- As much as
+	- Nhiều như
+	- synonyms:
+		- approximately
+		- nearly
+		- much
+-  As in
+	- Như trong
+	- synonyms
+		- which is, which means
+	- Example: 
+		1. I like the bow (as in the weapon, not the front of the ship).
+		2. I like Jerry Lewis (as in our neighbor, not the comedian)
+- among
+	- Example:
+		- The disease spread quickly _among_ the members of the community
+		- The house is nestled _among_ the trees.
+	- Meaning: in or through (a group of people or things)
+- **crane** operation (2) (n)
+	- Những người vận hành trục, cần cẩu, cẩu công
+	- example:
+		- **crane operators** must check that all moving parts of the machine are fastened securely before use
+- **harsh** condition
+	- Điều kiện khắc nghiệt
+	- synonyms:
+		- cruel (ạdj)
+			- Tàn bạo
+		- severe (adj)
+			- Nghiêm trọng
+		- savage (adj)
+			- Độc ác
+- allowance (n)
+	- Sự cho phép, trợ cấp
+	- synonyms:
+		- share
+		- portion
+- business segment (n)
+	- các mảng kinh doanh
+	- synonyms:
+		- part
+		- section
+		- portion
+		- slice
+		- fragment
+- across 
+	- Trong khắp, ngang qua
+	- synonyms:
+		- over
+		- beyond
+- Just as 
+	- Giống như
+	- synonyms:
+		- equal to
+		- similary to
+-  For certain products this period may be extended
+	- Cho một số sản phẩm nhất định, thời gian này có thể được kéo dài
+- under construction (n)
+	- Đang thi công, đang được tiến hành
+- botanical research (n)
+	- Nghiên cứu cây cảnh
+	- relates:
+		- plant
+- **varietals** (n)
+	- Giống cây
+	- relates:
+		- tree
+- desert (n)
+	- Xa mạc
+	- relates:
+		- hot
+	- Example: Gardeners in desert regions  (n)
+		- Những người làm vườn trong khu vực xa mạc'
+	- similar word:
+		- dessert
+			- Món tráng miệng
+- thrive in  (v)
+	- Phát triển
+	- synonyms:
+		- develop
+		- enhance
+- **flavorful** (2) (adj)
+	- Có hương vị
+	- remind ?
+		- smell
+	- synnonyms:
+		- bitter
+		- strong
+		- spicy
+		- peppery
+-  new facility
+	- Cơ sở mới
+	- **synonyms**:
+		- brand-new building
+- express trains (n)
+	- Tàu tốc hành
+	- synonyms:
+		- fast
+		- expedited trains
+- on hand
+	- Còn, có sẵn
+	- synonyms:
+		- ready
+		- available
+		- handy
+- **Canned** tomato (n)
+	- cà chua đóng hộp
+- fresh-baked **muffins** (n)
+	- Bánh xốp mới nướng
+- **muffins** (2) (n)
+	- Bánh nướng
+	- relates
+		- pancakge
+		- cake
+- **Matinee** performance (n)
+	- Buổi biểu diễn giải trí
+	- synonyms:
+		- entertaiment
+- coming into (v)
+	- Bước vào lĩnh vực
+	- synonyms
+		- begin
+		- start
+- open-air pedestrian mall (n)
+	- Trung tâm mua sắm ngoài trời
+- **shipyard** (n)
+	- bãi tàu
+	- relates
+		- container
+- legacy (n)
+	- Di sản
+	- synonyms
+		- heritage
+		- inheritance
+- former shipbuilders (n)
+	- Thợ đóng tàu cũ
+- match (v)
+	- Phù hợp
+	- synonyms:
+		- reflect 
+- shine (v)
+- Screenwriter (n)
+	- Viết kịch bản
+	- relates:
+		- scripts
+		- editor
+		- author
+- **Cap** (v) (2)
+	- Giới hạn
+	- Example: Classes are capped at ten students
+	- synonyms
+		- limit
+		- set a limit on
+		- restrict
+- autobiographical (n)
+	- tự truyện
+- screenplays (n)
+	- Kịch bản phim
+	- synonyms:
+		- script
+		- scenario
+		- text
+- **Foundation**(n)
+	- Tổ chức
+	- synonyms:
+		- institution
+		- creation
+- Industrial appliance (n)
+	- Trang thiết bị công nghiệp
+	- relates:
+		- water heater
+		- refristergrator
+		- mixer
+		- toaster
+- **resolution** (n)
+	- Sự quyết định, sự giải quyết
+	- synonyms:
+		- resolve
+		- decision
+		- plan
+- **Ceramic** (2) (n)
+	- Gốm
+	- relates:
+		- building material 
+- **porcelain**  (2(n)
+	- Sứ
+	- relates
+		- building material
+- **stone tile** (n)
+	- Gạch ngói bằng đá
+	- relates:
+		- building materla
+- Bilingual 
+	- Thông thạo 2 ngôn ngữ
+- polyglot (n)
+	- Thông thạo nhiều ngôn ngữ người
+	- rootword
+		- glot (n)
+			- Cái lưỡi
+		- poly
+			- Nhiều
+- Significant (adj)
+	- Đáng kể
+	- synonyms:
+		- considerable
+		- sizeable
+- Kick off (v)
+	- Bắt đầu
+	- start
+	- begin
+-  a **potluck** lunch (n) (2)
+	- Một buổi tụ họp ăn trưa vào buổi chiều
+	- retales:
+		- crowded
+		- banquet (n)
+			- Bữa tiệc
+- all genres (n)
+	- Tất cả các thể loại
+- **De**face (v)
+	- hỏng
+	- relates:
+		- book
+	- rootword
+		- defective
+		- destructive
+		- destroy
+		- defend
+- **torn** (v) (2)
+	- Xé rách
+	- relates:
+		- book
+- It **could not have been** better (n)
+	- Nó không thể nào tốt hơn
+	- câu hỏi:
+		- Làm sao có thể dịch được các câu tương tự
+		- could not have
+		- should not have
+		- might not have
+		- must not have
+- sales division manager (n)
+	- Quản lý bộ phận bán hàng
+- away on business (n)
+	- Đi công tác
+	- synonyms
+		- abroad to work
+		- business stay
+- **back out** (v)
+	- Rút lui
+- lease (v)
+	- Thuê
+	- synonyms:
+		- hire
+		- hire out
+- Relieved (adj)
+	- Biết ơn, nhẹ nhõm, được cứu rỗi
+	- synonyms:
+		- glad
+		- thankful
+		- grateful
+		- pleased
+		- happy
+
+
+## Lưu ý
+
+Nhìn chung thì sai ở phần dịch nghĩa, và liên kết các câu cũng nhiều.
+
+
+---
+## Relates
+
+#toeic #english
+
+---
+*Nguồn: Evergreen/concept-base/english/toeic/test/Test 4 ETS 2022 - Chữa đề RC Part 5,6,7.md*

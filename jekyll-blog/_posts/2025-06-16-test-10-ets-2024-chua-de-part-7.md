@@ -1,0 +1,179 @@
+---
+layout: post
+title: "Test 10 ETS 2024 - Chữa đề Part 7"
+date: 2025-06-16 10:00:00 +0700
+categories: concept-base english toeic test
+tags: ["api", "toeic", "english", "interview"]
+source_path: "Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề Part 7.md"
+---
+---
+profileName: sangtrandev00
+postId: 3103
+postType: post
+categories:
+  - 124
+tags:
+  - "#english"
+  - "#toeic"
+---
+## Từ vựng
+
+- office complex
+	- Khu phức hợp văn phòng
+	- includes
+		- clinic
+		- department
+- physical Therapy Associates 
+	- Hiệp hội vật lý trị liệu
+- **No Trespassing**
+	- Không xâm phạm
+	- without permission
+	- synonyms:
+		- harmful
+		- do wrong
+		- offend
+- No soliciting
+	- Không mời, không nài nỉ, van xin
+	- synonyms:
+		- beg
+		- request
+		- ask for
+- **Office Park**
+	- Khu văn phòng
+	- relates:
+		- office complex
+- **internist** (2) (n)
+	- Bác sĩ nội khoa
+	- relates:
+		- doctor
+		- dentist
+	- remind ?
+		- Răng của mình bị đau
+		- Mình bị nhổ răng
+- pharmaceutical (n)
+	- Dược phẩm
+- revised menu (n)
+	- Thực đơn đã được sửa đổi
+- **back cover** (n) (2)
+	- Bìa sau
+	- relates:
+		- handcover (n)
+			- Bìa cứng
+- **Booksellers** (n)
+	- Nhà sách, người bán sách
+	- synonyms:
+		- book store (n)
+			- Nhà sách
+- **flourish in** (v) (3)
+	- Phát triển
+	- synonyms:
+		- develop
+		- grow
+		- thrive
+- **fast-paced** and **demanding** work environment (n)
+	- Tôi phát triển trong một môi trường làm việc có nhịp độ nhanh và khắt khe
+- tend (v)
+	- Có xu hướng, thường
+- Sales associate (n)
+	- Cộng tác viên bán hàng
+	- relates:
+		- part time job
+- drive up (v) 
+	- Đến trực tiếp, lái xe
+- automotive needs (n)
+	- Những nhu cầu liên quan đến xe hơi
+- routine inspections (n)
+	- Kiểm tra định kỳ
+-  building **demolition** (n)
+	- Phá dỡ toà nhà
+	- synonyms:
+		- building destruction
+- demolish the lighthouse (v)
+	- Phá bỏ ngọn hải đăng
+	- synonyms:
+		- destroy
+		- break
+- experienced a decline in business 
+	- Trải qua sự suy giảm trong kinh doanh
+- makes lighthouses a thing of the past
+	- Làm ngọn hải đắng trở thành quá khứ
+- the quoted price (n)
+	- Giá niêm yết
+- labor (n)
+	- Công nhân
+	- synonyms:
+		- worker
+- **valances** (n) (3)
+	- rèm trang trí, phần phụ của rèm cửa
+	- relates:
+		- window
+- **drapes** (n) (3)
+	- Rèm của, mành cửa
+	- relates:
+		- window
+- **shades** (n)
+	- Rèm
+	- relates:
+		- window
+- dedicated (adj)
+	- Tận tuỵ
+- a **novice** supervisor (n)
+	- Một người giám sát mới vào nghề
+	- synonyms:
+		- learner
+		- beginner
+		- newbie
+		- student
+		- pupil
+- communication plans (n)
+	- kế hoạch truyền thông
+- webinar (n)
+	- Hội thảo trực tuyến
+- **toiletries** (n)
+	- Đồ vệ sinh
+	- relates:
+		- soap
+		- shampoo
+- **flavor purchases** (n)
+	- Vị kem được mua
+- **cone** (n)
+	- Cái cốc, cái hủ
+- **service** the **kiosks** (n)
+	- Phục vụ các ki-ốt
+- bus line (n)
+	- Tuyến xe buýt
+- self-service checkout kiosk (n)
+	- Trạm thanh toán tự phục vụ
+- formal written **agreement** (n)
+	- Thoả thuận văn bản chính thức
+- **pastries** (n)
+	- Bánh ngọt
+	- relates:
+		- bakery
+		- pancake
+- **brick-and-mortar store** (n)
+	- Cửa hàng vật liệu xây dựng
+- **respondents** (n)
+	- Người tham gia khảo sát
+	- synonyms:
+		- interviewee
+		- replier
+		- witness
+- **customer engagement** (n) (2)
+	- Sự tương tác với khách hàng
+	- synonyms:
+		- customer interaction
+- **venture capital** (n)
+	- Vốn đầu tư mạo hiểm
+- keynote speaker (n)
+	- Diễn giả chính
+## Lưu ý
+- Lưu ý chỗ tìm đáp án của các câu đầu tiên
+
+---
+## Relates
+
+#toeic #english
+
+---
+*Nguồn: Evergreen/concept-base/english/toeic/test/Test 10 ETS 2024 - Chữa đề Part 7.md*
